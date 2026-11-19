@@ -154,22 +154,44 @@ curl -X POST "$SPACE_URL/predict" -F "file=@assets/samples/00_bacterial_leaf_bli
 
 ## Deployment
 
-**Why two services?** Vercel is serverless: it cannot run Streamlit, and the E5
-assets (~420 MB including DINOv2) exceed the 250 MB function limit. So:
+Two supported options:
+
+### Option A — Streamlit on Google Cloud Run (simplest)
+
+One service, one URL, no Vercel. The root `Dockerfile` runs
+`app/streamlit_app.py` on Cloud Run and bakes the E5 weights + DINOv2 into the
+image.
+
+```bash
+gcloud run deploy rice-e5 --source . --region asia-south1 \
+  --allow-unauthenticated --memory 4Gi --cpu 2 --timeout 3600 \
+  --max-instances 1 --session-affinity --port 8080
+```
+
+Full guide: **[docs/CLOUDRUN.md](docs/CLOUDRUN.md)**.
+
+### Option B — Vercel UI + API service
+
+Vercel is serverless: it cannot run Streamlit, and the E5 assets (~420 MB
+including DINOv2) exceed the 250 MB function limit. So the UI is a Next.js app
+on Vercel and the model runs as a FastAPI service (Cloud Run or Hugging Face
+Space).
 
 ```
-Browser ──► Vercel (Next.js UI + thin API proxy) ──► Hugging Face Space (FastAPI + PyTorch)
+Browser ──► Vercel (Next.js UI + thin API proxy) ──► Cloud Run / HF Space (FastAPI + PyTorch)
 ```
 
-- **Model + API** → Hugging Face Docker Space (free CPU, 16 GB RAM).
-- **UI** → Vercel (Next.js 15, no model weights).
+```bash
+python scripts/build_space.py
+gcloud run deploy rice-e5-api --source dist/space --region asia-south1 \
+  --allow-unauthenticated --memory 4Gi --cpu 2 --timeout 300 \
+  --max-instances 1 --port 8080
+```
 
-`python scripts/build_space.py` assembles a self-contained Space in `dist/space/`
-(source + weights + samples); that folder is pushed to Hugging Face.
-The browser calls `/api/predict` on Vercel; the route forwards the image to the
-Space. `SPACE_URL` is a server-side environment variable.
+Then set `SPACE_URL` in Vercel to the Cloud Run URL.
 
-Step-by-step instructions: **[docs/DEPLOYMENT.md](docs/DEPLOYMENT.md)**.
+Step-by-step: **[docs/DEPLOYMENT.md](docs/DEPLOYMENT.md)** and
+**[docs/CLOUDRUN.md](docs/CLOUDRUN.md)**.
 
 ---
 

@@ -1,5 +1,11 @@
 # Deployment guide
 
+> **Using Google Cloud Run instead of Hugging Face?**
+> See **[docs/CLOUDRUN.md](CLOUDRUN.md)**.
+> Option A deploys the Streamlit UI directly; Option B deploys the FastAPI
+> service and keeps the Vercel frontend. The `web/` app works with either
+> backend — only `SPACE_URL` changes.
+
 Two services, one repo:
 
 ```

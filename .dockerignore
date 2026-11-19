@@ -1,0 +1,23 @@
+.git
+.gitignore
+.gitattributes
+.venv
+venv
+__pycache__
+*.pyc
+.hf
+.streamlit
+
+# not needed inside the Streamlit image
+web
+dist
+docs
+repro
+notebooks
+outputs
+data
+cache
+rice_handoff
+rice_v3_pack
+tools
+Federated_Learning_Rice_Report.zip
