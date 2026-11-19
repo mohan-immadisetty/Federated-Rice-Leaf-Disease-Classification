@@ -5,6 +5,7 @@ ENV PYTHONDONTWRITEBYTECODE=1 \
     PIP_NO_CACHE_DIR=1 \
     RICE_E5_ROOT=/app \
     RICE_E5_ASSETS=/app/assets \
+    RICE_E5_LOCAL_FILES_ONLY=1 \
     HF_HOME=/app/.hf \
     TOKENIZERS_PARALLELISM=false
 
@@ -21,7 +22,8 @@ RUN pip install --no-cache-dir -r requirements.txt
 COPY . .
 
 # Bake DINOv2-base into the image so the first request is fast.
-RUN python -c "from transformers import AutoModel; AutoModel.from_pretrained('facebook/dinov2-base')"
+RUN python -c "from transformers import AutoModel; AutoModel.from_pretrained('facebook/dinov2-base')" \
+ && chmod -R 777 /app/.hf
 
 EXPOSE 7860
 
