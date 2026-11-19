@@ -1,0 +1,152 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8" />
+<meta name="viewport" content="width=device-width, initial-scale=1" />
+<title>Rice Leaf Disease — E5 demo</title>
+<style>
+  :root { --bg:#0b1220; --card:#141d31; --line:#22304a; --text:#e8eefc; --muted:#93a4c4; --green:#34d399; --red:#f87171; --accent:#60a5fa; }
+  * { box-sizing: border-box; }
+  body { margin:0; font-family: ui-sans-serif, system-ui, -apple-system, "Segoe UI", sans-serif; background: radial-gradient(1200px 700px at 20% -10%, #16305a 0%, var(--bg) 55%); color:var(--text); }
+  main { max-width: 1040px; margin: 0 auto; padding: 40px 20px 80px; }
+  h1 { font-size: 32px; margin: 0 0 8px; letter-spacing: -0.02em; }
+  p.lead { color: var(--muted); margin: 0 0 28px; line-height: 1.6; max-width: 760px; }
+  .badge { display:inline-block; font-size:12px; color:#9cc3ff; border:1px solid #2d4a76; background:#12233d; padding:4px 9px; border-radius:999px; margin-right:6px; }
+  .drop { border: 2px dashed #2c3f60; background: #101a2c; border-radius: 16px; padding: 34px 20px; text-align:center; cursor:pointer; transition: .15s; }
+  .drop:hover, .drop.over { border-color: var(--accent); background:#13243d; }
+  .drop strong { color: var(--accent); }
+  input[type=file] { display:none; }
+  .samples { display:grid; grid-template-columns: repeat(auto-fill, minmax(92px,1fr)); gap:10px; margin: 18px 0 6px; }
+  .samples button { all:unset; cursor:pointer; border-radius:10px; overflow:hidden; border:1px solid var(--line); aspect-ratio:1; }
+  .samples img { width:100%; height:100%; object-fit:cover; display:block; }
+  .samples button:hover { border-color: var(--accent); }
+  .card { background: var(--card); border:1px solid var(--line); border-radius:16px; padding:20px; margin-top:22px; }
+  .row { display:grid; grid-template-columns: 260px 1fr; gap:22px; }
+  @media (max-width: 720px) { .row { grid-template-columns: 1fr; } }
+  .row img { width:100%; border-radius:12px; border:1px solid var(--line); }
+  .pred { font-size: 30px; font-weight: 700; margin: 2px 0 4px; }
+  .muted { color: var(--muted); font-size: 14px; }
+  .ok { color: var(--green); font-weight:600; }
+  .bad { color: var(--red); font-weight:600; }
+  .bars { margin-top:14px; display:grid; gap:8px; }
+  .bar { display:grid; grid-template-columns: 180px 1fr 54px; align-items:center; gap:10px; font-size:13px; }
+  .track { height:8px; background:#1c2942; border-radius:99px; overflow:hidden; }
+  .fill { height:100%; background: linear-gradient(90deg, #3b82f6, #34d399); border-radius:99px; }
+  .spinner { display:none; margin-top:16px; color:var(--muted); }
+  .spinner.on { display:block; }
+  footer { color:#64748b; font-size:12px; margin-top:34px; line-height:1.7; }
+  a { color:#7fb3ff; }
+</style>
+</head>
+<body>
+<main>
+  <h1>🌾 Rice Leaf Disease Checker</h1>
+  <p class="lead">
+    Final <b>E5</b> model: frozen FedAvg EfficientNetV2-S features fused with frozen DINOv2-base,
+    classified by a federated linear head over 19 rice-leaf classes.
+    Held-out test: <b>92.34%</b> accuracy / <b>89.58</b> macro-F1 (n = 2,793).
+  </p>
+  <div>
+    <span class="badge">19 classes</span>
+    <span class="badge">E5 seed 42</span>
+    <span class="badge">FedAvg baseline included</span>
+  </div>
+
+  <div class="card">
+    <label class="drop" id="drop" for="file">
+      <div style="font-size:34px">📷</div>
+      <div>Drop a rice-leaf image here or <strong>browse</strong></div>
+      <div class="muted" style="margin-top:6px">JPG, PNG, WEBP · max 25 MB</div>
+    </label>
+    <input id="file" type="file" accept="image/*" />
+    <div class="spinner" id="spinner">Running E5 inference… first request can take a few seconds.</div>
+
+    <div class="muted" style="margin-top:18px">Or try a real held-out test image:</div>
+    <div class="samples" id="samples"></div>
+  </div>
+
+  <div id="out"></div>
+
+  <footer>
+    API: <code>POST /predict</code> (multipart field <code>file</code>) · <a href="/docs">OpenAPI docs</a><br />
+    The FedAvg baseline is the backbone's own classifier. Samples are from the official held-out test split.
+  </footer>
+</main>
+
+<script>
+const $ = (s) => document.querySelector(s);
+const out = $("#out");
+const fileInput = $("#file");
+const drop = $("#drop");
+const spinner = $("#spinner");
+
+function fmtPct(p) { return (100 * p).toFixed(1) + "%"; }
+
+function render(data, previewUrl) {
+  const e5 = data.e5, fa = data.fedavg, t = data.true_label_pretty;
+  const correct = t && e5.label.toLowerCase() === t.toLowerCase();
+  const verdict = !t ? `<span class="muted">No ground-truth label for this image.</span>`
+    : correct ? `<span class="ok">✅ Correct — true label: ${t}</span>`
+              : `<span class="bad">❌ Wrong — true label: ${t}</span>`;
+  const bars = data.top5.map((r) => `
+    <div class="bar">
+      <span>${r.label}</span>
+      <span class="track"><span class="fill" style="width:${(100*r.prob).toFixed(1)}%"></span></span>
+      <span class="muted">${fmtPct(r.prob)}</span>
+    </div>`).join("");
+  out.innerHTML = `
+    <div class="card">
+      <div class="row">
+        <div><img src="${previewUrl}" alt="upload" /></div>
+        <div>
+          <div class="muted">E5 prediction</div>
+          <div class="pred">${e5.label}</div>
+          <div class="muted">confidence ${fmtPct(e5.prob)} · ${data.latency_ms} ms</div>
+          <div style="margin-top:10px">${verdict}</div>
+          ${data.in_dataset ? `<div class="muted" style="margin-top:8px">Dataset: ${data.source} · split: ${data.split}${data.official_test ? " · official test" : ""}</div>` : ""}
+          <div class="bars">${bars}</div>
+          <div class="muted" style="margin-top:14px">FedAvg baseline: <b style="color:#cbd5e1">${fa.label}</b> (${fmtPct(fa.prob)})</div>
+        </div>
+      </div>
+    </div>`;
+}
+
+async function send(file) {
+  spinner.classList.add("on");
+  out.innerHTML = "";
+  const previewUrl = URL.createObjectURL(file);
+  const fd = new FormData();
+  fd.append("file", file);
+  try {
+    const res = await fetch("/predict", { method: "POST", body: fd });
+    const data = await res.json();
+    if (!res.ok) throw new Error(data.detail || res.statusText);
+    render(data, previewUrl);
+  } catch (err) {
+    out.innerHTML = `<div class="card"><span class="bad">Error:</span> ${err.message}</div>`;
+  } finally {
+    spinner.classList.remove("on");
+  }
+}
+
+fileInput.addEventListener("change", () => { if (fileInput.files[0]) send(fileInput.files[0]); });
+["dragenter", "dragover"].forEach((ev) => drop.addEventListener(ev, (e) => { e.preventDefault(); drop.classList.add("over"); }));
+["dragleave", "drop"].forEach((ev) => drop.addEventListener(ev, (e) => { e.preventDefault(); drop.classList.remove("over"); }));
+drop.addEventListener("drop", (e) => { const f = e.dataTransfer.files[0]; if (f) send(f); });
+
+fetch("/static/samples/samples.json").then((r) => r.ok ? r.json() : []).then((rows) => {
+  const box = $("#samples");
+  rows.slice(0, 19).forEach((row) => {
+    const b = document.createElement("button");
+    b.title = row.true_class.replaceAll("_", " ");
+    b.innerHTML = `<img src="/static/samples/${row.file}" alt="${row.true_class}" />`;
+    b.onclick = async () => {
+      const blob = await (await fetch(`/static/samples/${row.file}`)).blob();
+      send(new File([blob], row.file, { type: blob.type || "image/jpeg" }));
+    };
+    box.appendChild(b);
+  });
+}).catch(() => {});
+</script>
+</body>
+</html>

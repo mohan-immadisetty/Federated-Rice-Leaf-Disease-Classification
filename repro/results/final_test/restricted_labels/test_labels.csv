@@ -1,0 +1,2794 @@
+image_path,canonical_class,y
+D:\Rice\data\bd_rice8\Bacterial Leaf Blight\testing__Bacterial_leaf_Blight (21).jpg,bacterial_leaf_blight,0
+D:\Rice\data\bd_rice8\Bacterial Leaf Blight\testing__Bacterial_leaf_Blight (28).jpg,bacterial_leaf_blight,0
+D:\Rice\data\bd_rice8\Bacterial Leaf Blight\testing__Bacterial_leaf_Blight (32).jpg,bacterial_leaf_blight,0
+D:\Rice\data\bd_rice8\Bacterial Leaf Blight\testing__Bacterial_leaf_Blight (7).jpg,bacterial_leaf_blight,0
+D:\Rice\data\bd_rice8\Bacterial Leaf Blight\training__Bacterial_leaf_Blight (149).jpg,bacterial_leaf_blight,0
+D:\Rice\data\bd_rice8\Bacterial Leaf Blight\training__Bacterial_leaf_Blight (165).jpg,bacterial_leaf_blight,0
+D:\Rice\data\bd_rice8\Bacterial Leaf Blight\training__Bacterial_leaf_Blight (173).jpg,bacterial_leaf_blight,0
+D:\Rice\data\bd_rice8\Bacterial Leaf Blight\training__Bacterial_leaf_Blight (175).jpg,bacterial_leaf_blight,0
+D:\Rice\data\bd_rice8\Bacterial Leaf Blight\training__Bacterial_leaf_Blight (178).jpg,bacterial_leaf_blight,0
+D:\Rice\data\bd_rice8\Bacterial Leaf Blight\training__Bacterial_leaf_Blight (184).jpg,bacterial_leaf_blight,0
+D:\Rice\data\bd_rice8\Bacterial Leaf Blight\training__Bacterial_leaf_Blight (187).jpg,bacterial_leaf_blight,0
+D:\Rice\data\bd_rice8\Bacterial Leaf Blight\training__Bacterial_leaf_Blight (196).jpg,bacterial_leaf_blight,0
+D:\Rice\data\bd_rice8\Bacterial Leaf Blight\training__Bacterial_leaf_Blight (210).jpg,bacterial_leaf_blight,0
+D:\Rice\data\bd_rice8\Bacterial Leaf Blight\training__Bacterial_leaf_Blight (211).jpg,bacterial_leaf_blight,0
+D:\Rice\data\bd_rice8\Bacterial Leaf Blight\training__Bacterial_leaf_Blight (213).jpg,bacterial_leaf_blight,0
+D:\Rice\data\bd_rice8\Bacterial Leaf Blight\training__Bacterial_leaf_Blight (219).jpg,bacterial_leaf_blight,0
+D:\Rice\data\bd_rice8\Bacterial Leaf Blight\training__Bacterial_leaf_Blight (227).jpg,bacterial_leaf_blight,0
+D:\Rice\data\bd_rice8\Bacterial Leaf Blight\training__Bacterial_leaf_Blight (233).jpg,bacterial_leaf_blight,0
+D:\Rice\data\bd_rice8\Bacterial Leaf Blight\training__Bacterial_leaf_Blight (234).jpg,bacterial_leaf_blight,0
+D:\Rice\data\bd_rice8\Bacterial Leaf Blight\training__Bacterial_leaf_Blight (237).jpg,bacterial_leaf_blight,0
+D:\Rice\data\bd_rice8\Bacterial Leaf Blight\training__Bacterial_leaf_Blight (250).jpg,bacterial_leaf_blight,0
+D:\Rice\data\bd_rice8\Bacterial Leaf Blight\training__Bacterial_leaf_Blight (255).jpg,bacterial_leaf_blight,0
+D:\Rice\data\bd_rice8\Bacterial Leaf Blight\training__Bacterial_leaf_Blight (266).jpg,bacterial_leaf_blight,0
+D:\Rice\data\bd_rice8\Bacterial Leaf Blight\training__Bacterial_leaf_Blight (282).jpg,bacterial_leaf_blight,0
+D:\Rice\data\bd_rice8\Bacterial Leaf Blight\training__Bacterial_leaf_Blight (284).jpg,bacterial_leaf_blight,0
+D:\Rice\data\bd_rice8\Bacterial Leaf Blight\training__Bacterial_leaf_Blight (287).jpg,bacterial_leaf_blight,0
+D:\Rice\data\bd_rice8\Bacterial Leaf Blight\training__Bacterial_leaf_Blight (289).jpg,bacterial_leaf_blight,0
+D:\Rice\data\bd_rice8\Bacterial Leaf Blight\validation__Bacterial_leaf_Blight (15).jpg,bacterial_leaf_blight,0
+D:\Rice\data\bd_rice8\Bacterial Leaf Blight\validation__Bacterial_leaf_Blight (17).jpg,bacterial_leaf_blight,0
+D:\Rice\data\bd_rice8\Bacterial Leaf Blight\validation__Bacterial_leaf_Blight (3).jpg,bacterial_leaf_blight,0
+D:\Rice\data\bd_rice8\Bacterial Leaf Blight\validation__Bacterial_leaf_Blight (7).jpg,bacterial_leaf_blight,0
+D:\Rice\data\bd_rice8\Brown Spot\testing__Brown_spot (1).jpg,brown_spot,5
+D:\Rice\data\bd_rice8\Brown Spot\testing__Brown_spot (11).jpg,brown_spot,5
+D:\Rice\data\bd_rice8\Brown Spot\testing__Brown_spot (24).jpg,brown_spot,5
+D:\Rice\data\bd_rice8\Brown Spot\testing__Brown_spot (3).jpg,brown_spot,5
+D:\Rice\data\bd_rice8\Brown Spot\testing__Brown_spot (31).jpg,brown_spot,5
+D:\Rice\data\bd_rice8\Brown Spot\testing__Brown_spot (33).jpg,brown_spot,5
+D:\Rice\data\bd_rice8\Brown Spot\testing__Brown_spot (35).jpg,brown_spot,5
+D:\Rice\data\bd_rice8\Brown Spot\testing__Brown_spot (37).jpg,brown_spot,5
+D:\Rice\data\bd_rice8\Brown Spot\testing__Brown_spot (42).jpg,brown_spot,5
+D:\Rice\data\bd_rice8\Brown Spot\testing__Brown_spot (5).jpg,brown_spot,5
+D:\Rice\data\bd_rice8\Brown Spot\testing__Brown_spot (52).jpg,brown_spot,5
+D:\Rice\data\bd_rice8\Brown Spot\training__Brown_spot (112).jpg,brown_spot,5
+D:\Rice\data\bd_rice8\Brown Spot\training__Brown_spot (113).jpg,brown_spot,5
+D:\Rice\data\bd_rice8\Brown Spot\training__Brown_spot (131).jpg,brown_spot,5
+D:\Rice\data\bd_rice8\Brown Spot\training__Brown_spot (155).jpg,brown_spot,5
+D:\Rice\data\bd_rice8\Brown Spot\training__Brown_spot (156).jpg,brown_spot,5
+D:\Rice\data\bd_rice8\Brown Spot\training__Brown_spot (181).jpg,brown_spot,5
+D:\Rice\data\bd_rice8\Brown Spot\training__Brown_spot (184).jpg,brown_spot,5
+D:\Rice\data\bd_rice8\Brown Spot\training__Brown_spot (187).jpg,brown_spot,5
+D:\Rice\data\bd_rice8\Brown Spot\training__Brown_spot (25).jpg,brown_spot,5
+D:\Rice\data\bd_rice8\Brown Spot\training__Brown_spot (31).jpg,brown_spot,5
+D:\Rice\data\bd_rice8\Brown Spot\training__Brown_spot (33).jpg,brown_spot,5
+D:\Rice\data\bd_rice8\Brown Spot\training__Brown_spot (36).jpg,brown_spot,5
+D:\Rice\data\bd_rice8\Brown Spot\training__Brown_spot (49).jpg,brown_spot,5
+D:\Rice\data\bd_rice8\Brown Spot\training__Brown_spot (51).jpg,brown_spot,5
+D:\Rice\data\bd_rice8\Brown Spot\training__Brown_spot (53).jpg,brown_spot,5
+D:\Rice\data\bd_rice8\Brown Spot\training__Brown_spot (54).jpg,brown_spot,5
+D:\Rice\data\bd_rice8\Brown Spot\training__Brown_spot (55).jpg,brown_spot,5
+D:\Rice\data\bd_rice8\Brown Spot\training__Brown_spot (56).jpg,brown_spot,5
+D:\Rice\data\bd_rice8\Brown Spot\training__Brown_spot (75).jpg,brown_spot,5
+D:\Rice\data\bd_rice8\Brown Spot\validation__Brown_spot (14).jpg,brown_spot,5
+D:\Rice\data\bd_rice8\Brown Spot\validation__Brown_spot (16).jpg,brown_spot,5
+D:\Rice\data\bd_rice8\Brown Spot\validation__Brown_spot (20).jpg,brown_spot,5
+D:\Rice\data\bd_rice8\Brown Spot\validation__Brown_spot (23).jpg,brown_spot,5
+D:\Rice\data\bd_rice8\Brown Spot\validation__Brown_spot (3).jpg,brown_spot,5
+D:\Rice\data\bd_rice8\Healthy Rice Leaf\testing__Healthy_rice_leaf (19).jpg,healthy,10
+D:\Rice\data\bd_rice8\Healthy Rice Leaf\testing__Healthy_rice_leaf (33).jpg,healthy,10
+D:\Rice\data\bd_rice8\Healthy Rice Leaf\testing__Healthy_rice_leaf (7).jpg,healthy,10
+D:\Rice\data\bd_rice8\Healthy Rice Leaf\training__Healthy_rice_leaf (182).jpg,healthy,10
+D:\Rice\data\bd_rice8\Healthy Rice Leaf\training__Healthy_rice_leaf (191).jpg,healthy,10
+D:\Rice\data\bd_rice8\Healthy Rice Leaf\training__Healthy_rice_leaf (192).jpg,healthy,10
+D:\Rice\data\bd_rice8\Healthy Rice Leaf\training__Healthy_rice_leaf (195).jpg,healthy,10
+D:\Rice\data\bd_rice8\Healthy Rice Leaf\training__Healthy_rice_leaf (199).jpg,healthy,10
+D:\Rice\data\bd_rice8\Healthy Rice Leaf\training__Healthy_rice_leaf (2).jpg,healthy,10
+D:\Rice\data\bd_rice8\Healthy Rice Leaf\training__Healthy_rice_leaf (209).jpg,healthy,10
+D:\Rice\data\bd_rice8\Healthy Rice Leaf\training__Healthy_rice_leaf (216).jpg,healthy,10
+D:\Rice\data\bd_rice8\Healthy Rice Leaf\training__Healthy_rice_leaf (222).jpg,healthy,10
+D:\Rice\data\bd_rice8\Healthy Rice Leaf\training__Healthy_rice_leaf (227).jpg,healthy,10
+D:\Rice\data\bd_rice8\Healthy Rice Leaf\training__Healthy_rice_leaf (231).jpg,healthy,10
+D:\Rice\data\bd_rice8\Healthy Rice Leaf\training__Healthy_rice_leaf (233).jpg,healthy,10
+D:\Rice\data\bd_rice8\Healthy Rice Leaf\training__Healthy_rice_leaf (236).jpg,healthy,10
+D:\Rice\data\bd_rice8\Healthy Rice Leaf\training__Healthy_rice_leaf (238).jpg,healthy,10
+D:\Rice\data\bd_rice8\Healthy Rice Leaf\training__Healthy_rice_leaf (242).jpg,healthy,10
+D:\Rice\data\bd_rice8\Healthy Rice Leaf\training__Healthy_rice_leaf (244).jpg,healthy,10
+D:\Rice\data\bd_rice8\Healthy Rice Leaf\training__Healthy_rice_leaf (50).jpg,healthy,10
+D:\Rice\data\bd_rice8\Healthy Rice Leaf\training__Healthy_rice_leaf (71).jpg,healthy,10
+D:\Rice\data\bd_rice8\Healthy Rice Leaf\training__Healthy_rice_leaf (81).jpg,healthy,10
+D:\Rice\data\bd_rice8\Healthy Rice Leaf\validation__Healthy_rice_leaf (11).jpg,healthy,10
+D:\Rice\data\bd_rice8\Healthy Rice Leaf\validation__Healthy_rice_leaf (15).jpg,healthy,10
+D:\Rice\data\bd_rice8\Healthy Rice Leaf\validation__Healthy_rice_leaf (9).jpg,healthy,10
+D:\Rice\data\bd_rice8\Leaf Blast\testing__Leaf_blast (11).jpg,blast,4
+D:\Rice\data\bd_rice8\Leaf Blast\testing__Leaf_blast (14).jpg,blast,4
+D:\Rice\data\bd_rice8\Leaf Blast\testing__Leaf_blast (16).jpg,blast,4
+D:\Rice\data\bd_rice8\Leaf Blast\testing__Leaf_blast (17).jpg,blast,4
+D:\Rice\data\bd_rice8\Leaf Blast\testing__Leaf_blast (24).jpg,blast,4
+D:\Rice\data\bd_rice8\Leaf Blast\testing__Leaf_blast (27).jpg,blast,4
+D:\Rice\data\bd_rice8\Leaf Blast\testing__Leaf_blast (31).jpg,blast,4
+D:\Rice\data\bd_rice8\Leaf Blast\testing__Leaf_blast (32).jpg,blast,4
+D:\Rice\data\bd_rice8\Leaf Blast\testing__Leaf_blast (36).jpg,blast,4
+D:\Rice\data\bd_rice8\Leaf Blast\testing__Leaf_blast (47).jpg,blast,4
+D:\Rice\data\bd_rice8\Leaf Blast\testing__Leaf_blast (57).jpg,blast,4
+D:\Rice\data\bd_rice8\Leaf Blast\testing__Leaf_blast (59).jpg,blast,4
+D:\Rice\data\bd_rice8\Leaf Blast\testing__Leaf_blast (8).jpg,blast,4
+D:\Rice\data\bd_rice8\Leaf Blast\training__Leaf_blast (103).jpg,blast,4
+D:\Rice\data\bd_rice8\Leaf Blast\training__Leaf_blast (110).jpg,blast,4
+D:\Rice\data\bd_rice8\Leaf Blast\training__Leaf_blast (135).jpg,blast,4
+D:\Rice\data\bd_rice8\Leaf Blast\training__Leaf_blast (137).jpg,blast,4
+D:\Rice\data\bd_rice8\Leaf Blast\training__Leaf_blast (154).jpg,blast,4
+D:\Rice\data\bd_rice8\Leaf Blast\training__Leaf_blast (161).jpg,blast,4
+D:\Rice\data\bd_rice8\Leaf Blast\training__Leaf_blast (178).jpg,blast,4
+D:\Rice\data\bd_rice8\Leaf Blast\training__Leaf_blast (191).jpg,blast,4
+D:\Rice\data\bd_rice8\Leaf Blast\training__Leaf_blast (196).jpg,blast,4
+D:\Rice\data\bd_rice8\Leaf Blast\training__Leaf_blast (199).jpg,blast,4
+D:\Rice\data\bd_rice8\Leaf Blast\training__Leaf_blast (201).jpg,blast,4
+D:\Rice\data\bd_rice8\Leaf Blast\training__Leaf_blast (212).jpg,blast,4
+D:\Rice\data\bd_rice8\Leaf Blast\training__Leaf_blast (39).jpg,blast,4
+D:\Rice\data\bd_rice8\Leaf Blast\training__Leaf_blast (41).jpg,blast,4
+D:\Rice\data\bd_rice8\Leaf Blast\training__Leaf_blast (49).jpg,blast,4
+D:\Rice\data\bd_rice8\Leaf Blast\training__Leaf_blast (50).jpg,blast,4
+D:\Rice\data\bd_rice8\Leaf Blast\training__Leaf_blast (65).jpg,blast,4
+D:\Rice\data\bd_rice8\Leaf Blast\training__Leaf_blast (69).jpg,blast,4
+D:\Rice\data\bd_rice8\Leaf Blast\training__Leaf_blast (80).jpg,blast,4
+D:\Rice\data\bd_rice8\Leaf Blast\training__Leaf_blast (88).jpg,blast,4
+D:\Rice\data\bd_rice8\Leaf Blast\validation__Leaf_blast (1).jpg,blast,4
+D:\Rice\data\bd_rice8\Leaf Blast\validation__Leaf_blast (10).jpg,blast,4
+D:\Rice\data\bd_rice8\Leaf Blast\validation__Leaf_blast (13).jpg,blast,4
+D:\Rice\data\bd_rice8\Leaf Blast\validation__Leaf_blast (4).jpg,blast,4
+D:\Rice\data\bd_rice8\Leaf scald\testing__Leaf_scald (19).jpg,leaf_scald,12
+D:\Rice\data\bd_rice8\Leaf scald\testing__Leaf_scald (26).jpg,leaf_scald,12
+D:\Rice\data\bd_rice8\Leaf scald\testing__Leaf_scald (3).jpg,leaf_scald,12
+D:\Rice\data\bd_rice8\Leaf scald\testing__Leaf_scald (32).jpg,leaf_scald,12
+D:\Rice\data\bd_rice8\Leaf scald\testing__Leaf_scald (34).jpg,leaf_scald,12
+D:\Rice\data\bd_rice8\Leaf scald\testing__Leaf_scald (39).jpg,leaf_scald,12
+D:\Rice\data\bd_rice8\Leaf scald\testing__Leaf_scald (43).jpg,leaf_scald,12
+D:\Rice\data\bd_rice8\Leaf scald\testing__Leaf_scald (46).jpg,leaf_scald,12
+D:\Rice\data\bd_rice8\Leaf scald\testing__Leaf_scald (8).jpg,leaf_scald,12
+D:\Rice\data\bd_rice8\Leaf scald\training__Leaf_scald (105).jpg,leaf_scald,12
+D:\Rice\data\bd_rice8\Leaf scald\training__Leaf_scald (144).jpg,leaf_scald,12
+D:\Rice\data\bd_rice8\Leaf scald\training__Leaf_scald (152).jpg,leaf_scald,12
+D:\Rice\data\bd_rice8\Leaf scald\training__Leaf_scald (159).jpg,leaf_scald,12
+D:\Rice\data\bd_rice8\Leaf scald\training__Leaf_scald (183).jpg,leaf_scald,12
+D:\Rice\data\bd_rice8\Leaf scald\training__Leaf_scald (186).jpg,leaf_scald,12
+D:\Rice\data\bd_rice8\Leaf scald\training__Leaf_scald (203).jpg,leaf_scald,12
+D:\Rice\data\bd_rice8\Leaf scald\training__Leaf_scald (205).jpg,leaf_scald,12
+D:\Rice\data\bd_rice8\Leaf scald\training__Leaf_scald (206).jpg,leaf_scald,12
+D:\Rice\data\bd_rice8\Leaf scald\training__Leaf_scald (211).jpg,leaf_scald,12
+D:\Rice\data\bd_rice8\Leaf scald\training__Leaf_scald (220).jpg,leaf_scald,12
+D:\Rice\data\bd_rice8\Leaf scald\training__Leaf_scald (230).jpg,leaf_scald,12
+D:\Rice\data\bd_rice8\Leaf scald\training__Leaf_scald (232).jpg,leaf_scald,12
+D:\Rice\data\bd_rice8\Leaf scald\training__Leaf_scald (246).jpg,leaf_scald,12
+D:\Rice\data\bd_rice8\Leaf scald\training__Leaf_scald (5).jpg,leaf_scald,12
+D:\Rice\data\bd_rice8\Leaf scald\training__Leaf_scald (6).jpg,leaf_scald,12
+D:\Rice\data\bd_rice8\Leaf scald\training__Leaf_scald (71).jpg,leaf_scald,12
+D:\Rice\data\bd_rice8\Leaf scald\training__Leaf_scald (94).jpg,leaf_scald,12
+D:\Rice\data\bd_rice8\Leaf scald\validation__Leaf_scald (8).jpg,leaf_scald,12
+D:\Rice\data\bd_rice8\Narrow Brown Leaf Spot\testing__Narrow_brown_leaf_spot (19).jpg,narrow_brown_spot,13
+D:\Rice\data\bd_rice8\Narrow Brown Leaf Spot\testing__Narrow_brown_leaf_spot (26).jpg,narrow_brown_spot,13
+D:\Rice\data\bd_rice8\Narrow Brown Leaf Spot\testing__Narrow_brown_leaf_spot (32).jpg,narrow_brown_spot,13
+D:\Rice\data\bd_rice8\Narrow Brown Leaf Spot\testing__Narrow_brown_leaf_spot (35).jpg,narrow_brown_spot,13
+D:\Rice\data\bd_rice8\Narrow Brown Leaf Spot\training__Narrow_brown_leaf_spot (1).jpg,narrow_brown_spot,13
+D:\Rice\data\bd_rice8\Narrow Brown Leaf Spot\training__Narrow_brown_leaf_spot (101).jpg,narrow_brown_spot,13
+D:\Rice\data\bd_rice8\Narrow Brown Leaf Spot\training__Narrow_brown_leaf_spot (105).jpg,narrow_brown_spot,13
+D:\Rice\data\bd_rice8\Narrow Brown Leaf Spot\training__Narrow_brown_leaf_spot (108).jpg,narrow_brown_spot,13
+D:\Rice\data\bd_rice8\Narrow Brown Leaf Spot\training__Narrow_brown_leaf_spot (122).jpg,narrow_brown_spot,13
+D:\Rice\data\bd_rice8\Narrow Brown Leaf Spot\training__Narrow_brown_leaf_spot (123).jpg,narrow_brown_spot,13
+D:\Rice\data\bd_rice8\Narrow Brown Leaf Spot\training__Narrow_brown_leaf_spot (129).jpg,narrow_brown_spot,13
+D:\Rice\data\bd_rice8\Narrow Brown Leaf Spot\training__Narrow_brown_leaf_spot (136).jpg,narrow_brown_spot,13
+D:\Rice\data\bd_rice8\Narrow Brown Leaf Spot\training__Narrow_brown_leaf_spot (142).jpg,narrow_brown_spot,13
+D:\Rice\data\bd_rice8\Narrow Brown Leaf Spot\training__Narrow_brown_leaf_spot (149).jpg,narrow_brown_spot,13
+D:\Rice\data\bd_rice8\Narrow Brown Leaf Spot\training__Narrow_brown_leaf_spot (150).jpg,narrow_brown_spot,13
+D:\Rice\data\bd_rice8\Narrow Brown Leaf Spot\training__Narrow_brown_leaf_spot (159).jpg,narrow_brown_spot,13
+D:\Rice\data\bd_rice8\Narrow Brown Leaf Spot\training__Narrow_brown_leaf_spot (170).jpg,narrow_brown_spot,13
+D:\Rice\data\bd_rice8\Narrow Brown Leaf Spot\training__Narrow_brown_leaf_spot (36).jpg,narrow_brown_spot,13
+D:\Rice\data\bd_rice8\Narrow Brown Leaf Spot\training__Narrow_brown_leaf_spot (56).jpg,narrow_brown_spot,13
+D:\Rice\data\bd_rice8\Narrow Brown Leaf Spot\training__Narrow_brown_leaf_spot (58).jpg,narrow_brown_spot,13
+D:\Rice\data\bd_rice8\Narrow Brown Leaf Spot\validation__Narrow_brown_leaf_spot (10).jpg,narrow_brown_spot,13
+D:\Rice\data\bd_rice8\Narrow Brown Leaf Spot\validation__Narrow_brown_leaf_spot (15).jpg,narrow_brown_spot,13
+D:\Rice\data\bd_rice8\Narrow Brown Leaf Spot\validation__Narrow_brown_leaf_spot (16).jpg,narrow_brown_spot,13
+D:\Rice\data\bd_rice8\Narrow Brown Leaf Spot\validation__Narrow_brown_leaf_spot (9).jpg,narrow_brown_spot,13
+D:\Rice\data\bd_rice8\Rice Hispa\testing__Rice_Hispa (18).jpg,hispa,11
+D:\Rice\data\bd_rice8\Rice Hispa\testing__Rice_Hispa (39).jpg,hispa,11
+D:\Rice\data\bd_rice8\Rice Hispa\testing__Rice_Hispa (44).jpg,hispa,11
+D:\Rice\data\bd_rice8\Rice Hispa\training__Rice_hispa (1).jpg,hispa,11
+D:\Rice\data\bd_rice8\Rice Hispa\training__Rice_hispa (122).jpg,hispa,11
+D:\Rice\data\bd_rice8\Rice Hispa\training__Rice_hispa (15).jpg,hispa,11
+D:\Rice\data\bd_rice8\Rice Hispa\training__Rice_hispa (164).jpg,hispa,11
+D:\Rice\data\bd_rice8\Rice Hispa\training__Rice_hispa (176).jpg,hispa,11
+D:\Rice\data\bd_rice8\Rice Hispa\training__Rice_hispa (213).jpg,hispa,11
+D:\Rice\data\bd_rice8\Rice Hispa\training__Rice_hispa (217).jpg,hispa,11
+D:\Rice\data\bd_rice8\Rice Hispa\training__Rice_hispa (220).jpg,hispa,11
+D:\Rice\data\bd_rice8\Rice Hispa\training__Rice_hispa (221).jpg,hispa,11
+D:\Rice\data\bd_rice8\Rice Hispa\training__Rice_hispa (223).jpg,hispa,11
+D:\Rice\data\bd_rice8\Rice Hispa\training__Rice_hispa (224).jpg,hispa,11
+D:\Rice\data\bd_rice8\Rice Hispa\training__Rice_hispa (226).jpg,hispa,11
+D:\Rice\data\bd_rice8\Rice Hispa\training__Rice_hispa (236).jpg,hispa,11
+D:\Rice\data\bd_rice8\Rice Hispa\training__Rice_hispa (246).jpg,hispa,11
+D:\Rice\data\bd_rice8\Rice Hispa\training__Rice_hispa (248).jpg,hispa,11
+D:\Rice\data\bd_rice8\Rice Hispa\training__Rice_hispa (255).jpg,hispa,11
+D:\Rice\data\bd_rice8\Rice Hispa\training__Rice_hispa (263).jpg,hispa,11
+D:\Rice\data\bd_rice8\Rice Hispa\training__Rice_hispa (268).jpg,hispa,11
+D:\Rice\data\bd_rice8\Rice Hispa\training__Rice_hispa (274).jpg,hispa,11
+D:\Rice\data\bd_rice8\Rice Hispa\training__Rice_hispa (277).jpg,hispa,11
+D:\Rice\data\bd_rice8\Rice Hispa\training__Rice_hispa (289).jpg,hispa,11
+D:\Rice\data\bd_rice8\Rice Hispa\training__Rice_hispa (46).jpg,hispa,11
+D:\Rice\data\bd_rice8\Rice Hispa\training__Rice_hispa (47).jpg,hispa,11
+D:\Rice\data\bd_rice8\Rice Hispa\training__Rice_hispa (90).jpg,hispa,11
+D:\Rice\data\bd_rice8\Rice Hispa\validation__Rice_hispa (1).jpg,hispa,11
+D:\Rice\data\bd_rice8\Rice Hispa\validation__Rice_hispa (12).jpg,hispa,11
+D:\Rice\data\bd_rice8\Rice Hispa\validation__Rice_hispa (19).jpg,hispa,11
+D:\Rice\data\bd_rice8\Rice Hispa\validation__Rice_hispa (23).jpg,hispa,11
+D:\Rice\data\bd_rice8\Sheath Blight\testing__Sheath_Blight (15).jpg,sheath_blight,15
+D:\Rice\data\bd_rice8\Sheath Blight\testing__Sheath_Blight (25).jpg,sheath_blight,15
+D:\Rice\data\bd_rice8\Sheath Blight\testing__Sheath_Blight (32).jpg,sheath_blight,15
+D:\Rice\data\bd_rice8\Sheath Blight\testing__Sheath_Blight (4).jpg,sheath_blight,15
+D:\Rice\data\bd_rice8\Sheath Blight\testing__Sheath_Blight (45).jpg,sheath_blight,15
+D:\Rice\data\bd_rice8\Sheath Blight\testing__Sheath_Blight (57).jpg,sheath_blight,15
+D:\Rice\data\bd_rice8\Sheath Blight\training__Sheath_blight (113).jpg,sheath_blight,15
+D:\Rice\data\bd_rice8\Sheath Blight\training__Sheath_blight (144).jpg,sheath_blight,15
+D:\Rice\data\bd_rice8\Sheath Blight\training__Sheath_blight (150).jpg,sheath_blight,15
+D:\Rice\data\bd_rice8\Sheath Blight\training__Sheath_blight (157).jpg,sheath_blight,15
+D:\Rice\data\bd_rice8\Sheath Blight\training__Sheath_blight (161).jpg,sheath_blight,15
+D:\Rice\data\bd_rice8\Sheath Blight\training__Sheath_blight (164).jpg,sheath_blight,15
+D:\Rice\data\bd_rice8\Sheath Blight\training__Sheath_blight (165).jpg,sheath_blight,15
+D:\Rice\data\bd_rice8\Sheath Blight\training__Sheath_blight (173).jpg,sheath_blight,15
+D:\Rice\data\bd_rice8\Sheath Blight\training__Sheath_blight (187).jpg,sheath_blight,15
+D:\Rice\data\bd_rice8\Sheath Blight\training__Sheath_blight (192).jpg,sheath_blight,15
+D:\Rice\data\bd_rice8\Sheath Blight\training__Sheath_blight (208).jpg,sheath_blight,15
+D:\Rice\data\bd_rice8\Sheath Blight\training__Sheath_blight (209).jpg,sheath_blight,15
+D:\Rice\data\bd_rice8\Sheath Blight\training__Sheath_blight (217).jpg,sheath_blight,15
+D:\Rice\data\bd_rice8\Sheath Blight\training__Sheath_blight (218).jpg,sheath_blight,15
+D:\Rice\data\bd_rice8\Sheath Blight\training__Sheath_blight (222).jpg,sheath_blight,15
+D:\Rice\data\bd_rice8\Sheath Blight\training__Sheath_blight (226).jpg,sheath_blight,15
+D:\Rice\data\bd_rice8\Sheath Blight\training__Sheath_blight (238).jpg,sheath_blight,15
+D:\Rice\data\bd_rice8\Sheath Blight\training__Sheath_blight (243).jpg,sheath_blight,15
+D:\Rice\data\bd_rice8\Sheath Blight\training__Sheath_blight (261).jpg,sheath_blight,15
+D:\Rice\data\bd_rice8\Sheath Blight\training__Sheath_blight (265).jpg,sheath_blight,15
+D:\Rice\data\bd_rice8\Sheath Blight\training__Sheath_blight (266).jpg,sheath_blight,15
+D:\Rice\data\bd_rice8\Sheath Blight\training__Sheath_blight (270).jpg,sheath_blight,15
+D:\Rice\data\bd_rice8\Sheath Blight\training__Sheath_blight (288).jpg,sheath_blight,15
+D:\Rice\data\bd_rice8\Sheath Blight\training__Sheath_blight (291).jpg,sheath_blight,15
+D:\Rice\data\bd_rice8\Sheath Blight\training__Sheath_blight (293).jpg,sheath_blight,15
+D:\Rice\data\bd_rice8\Sheath Blight\training__Sheath_blight (295).jpg,sheath_blight,15
+D:\Rice\data\bd_rice8\Sheath Blight\training__Sheath_blight (302).jpg,sheath_blight,15
+D:\Rice\data\bd_rice8\Sheath Blight\training__Sheath_blight (306).jpg,sheath_blight,15
+D:\Rice\data\bd_rice8\Sheath Blight\training__Sheath_blight (51).jpg,sheath_blight,15
+D:\Rice\data\bd_rice8\Sheath Blight\validation__Sheath_blight (1).jpg,sheath_blight,15
+D:\Rice\data\bd_rice8\Sheath Blight\validation__Sheath_blight (18).jpg,sheath_blight,15
+D:\Rice\data\bd_rice8\Sheath Blight\validation__Sheath_blight (22).jpg,sheath_blight,15
+D:\Rice\data\bd_rice8\Sheath Blight\validation__Sheath_blight (23).jpg,sheath_blight,15
+D:\Rice\data\bd_rice8\Sheath Blight\validation__Sheath_blight (27).jpg,sheath_blight,15
+D:\Rice\data\bd_rice8\Sheath Blight\validation__Sheath_blight (7).jpg,sheath_blight,15
+D:\Rice\data\paddy_doctor\bacterial_leaf_blight\100234.jpg,bacterial_leaf_blight,0
+D:\Rice\data\paddy_doctor\bacterial_leaf_blight\100445.jpg,bacterial_leaf_blight,0
+D:\Rice\data\paddy_doctor\bacterial_leaf_blight\100447.jpg,bacterial_leaf_blight,0
+D:\Rice\data\paddy_doctor\bacterial_leaf_blight\100622.jpg,bacterial_leaf_blight,0
+D:\Rice\data\paddy_doctor\bacterial_leaf_blight\100982.jpg,bacterial_leaf_blight,0
+D:\Rice\data\paddy_doctor\bacterial_leaf_blight\101004.jpg,bacterial_leaf_blight,0
+D:\Rice\data\paddy_doctor\bacterial_leaf_blight\101013.jpg,bacterial_leaf_blight,0
+D:\Rice\data\paddy_doctor\bacterial_leaf_blight\101406.jpg,bacterial_leaf_blight,0
+D:\Rice\data\paddy_doctor\bacterial_leaf_blight\101544.jpg,bacterial_leaf_blight,0
+D:\Rice\data\paddy_doctor\bacterial_leaf_blight\101553.jpg,bacterial_leaf_blight,0
+D:\Rice\data\paddy_doctor\bacterial_leaf_blight\101702.jpg,bacterial_leaf_blight,0
+D:\Rice\data\paddy_doctor\bacterial_leaf_blight\101800.jpg,bacterial_leaf_blight,0
+D:\Rice\data\paddy_doctor\bacterial_leaf_blight\101918.jpg,bacterial_leaf_blight,0
+D:\Rice\data\paddy_doctor\bacterial_leaf_blight\101933.jpg,bacterial_leaf_blight,0
+D:\Rice\data\paddy_doctor\bacterial_leaf_blight\102062.jpg,bacterial_leaf_blight,0
+D:\Rice\data\paddy_doctor\bacterial_leaf_blight\102127.jpg,bacterial_leaf_blight,0
+D:\Rice\data\paddy_doctor\bacterial_leaf_blight\102555.jpg,bacterial_leaf_blight,0
+D:\Rice\data\paddy_doctor\bacterial_leaf_blight\102726.jpg,bacterial_leaf_blight,0
+D:\Rice\data\paddy_doctor\bacterial_leaf_blight\102981.jpg,bacterial_leaf_blight,0
+D:\Rice\data\paddy_doctor\bacterial_leaf_blight\103107.jpg,bacterial_leaf_blight,0
+D:\Rice\data\paddy_doctor\bacterial_leaf_blight\103230.jpg,bacterial_leaf_blight,0
+D:\Rice\data\paddy_doctor\bacterial_leaf_blight\103276.jpg,bacterial_leaf_blight,0
+D:\Rice\data\paddy_doctor\bacterial_leaf_blight\103344.jpg,bacterial_leaf_blight,0
+D:\Rice\data\paddy_doctor\bacterial_leaf_blight\103389.jpg,bacterial_leaf_blight,0
+D:\Rice\data\paddy_doctor\bacterial_leaf_blight\103487.jpg,bacterial_leaf_blight,0
+D:\Rice\data\paddy_doctor\bacterial_leaf_blight\103606.jpg,bacterial_leaf_blight,0
+D:\Rice\data\paddy_doctor\bacterial_leaf_blight\103629.jpg,bacterial_leaf_blight,0
+D:\Rice\data\paddy_doctor\bacterial_leaf_blight\103702.jpg,bacterial_leaf_blight,0
+D:\Rice\data\paddy_doctor\bacterial_leaf_blight\103920.jpg,bacterial_leaf_blight,0
+D:\Rice\data\paddy_doctor\bacterial_leaf_blight\104271.jpg,bacterial_leaf_blight,0
+D:\Rice\data\paddy_doctor\bacterial_leaf_blight\104347.jpg,bacterial_leaf_blight,0
+D:\Rice\data\paddy_doctor\bacterial_leaf_blight\104432.jpg,bacterial_leaf_blight,0
+D:\Rice\data\paddy_doctor\bacterial_leaf_blight\104657.jpg,bacterial_leaf_blight,0
+D:\Rice\data\paddy_doctor\bacterial_leaf_blight\104704.jpg,bacterial_leaf_blight,0
+D:\Rice\data\paddy_doctor\bacterial_leaf_blight\104975.jpg,bacterial_leaf_blight,0
+D:\Rice\data\paddy_doctor\bacterial_leaf_blight\105125.jpg,bacterial_leaf_blight,0
+D:\Rice\data\paddy_doctor\bacterial_leaf_blight\105250.jpg,bacterial_leaf_blight,0
+D:\Rice\data\paddy_doctor\bacterial_leaf_blight\105272.jpg,bacterial_leaf_blight,0
+D:\Rice\data\paddy_doctor\bacterial_leaf_blight\105677.jpg,bacterial_leaf_blight,0
+D:\Rice\data\paddy_doctor\bacterial_leaf_blight\106089.jpg,bacterial_leaf_blight,0
+D:\Rice\data\paddy_doctor\bacterial_leaf_blight\106092.jpg,bacterial_leaf_blight,0
+D:\Rice\data\paddy_doctor\bacterial_leaf_blight\106545.jpg,bacterial_leaf_blight,0
+D:\Rice\data\paddy_doctor\bacterial_leaf_blight\106615.jpg,bacterial_leaf_blight,0
+D:\Rice\data\paddy_doctor\bacterial_leaf_blight\106754.jpg,bacterial_leaf_blight,0
+D:\Rice\data\paddy_doctor\bacterial_leaf_blight\107064.jpg,bacterial_leaf_blight,0
+D:\Rice\data\paddy_doctor\bacterial_leaf_blight\107274.jpg,bacterial_leaf_blight,0
+D:\Rice\data\paddy_doctor\bacterial_leaf_blight\107547.jpg,bacterial_leaf_blight,0
+D:\Rice\data\paddy_doctor\bacterial_leaf_blight\107594.jpg,bacterial_leaf_blight,0
+D:\Rice\data\paddy_doctor\bacterial_leaf_blight\107873.jpg,bacterial_leaf_blight,0
+D:\Rice\data\paddy_doctor\bacterial_leaf_blight\107979.jpg,bacterial_leaf_blight,0
+D:\Rice\data\paddy_doctor\bacterial_leaf_blight\108039.jpg,bacterial_leaf_blight,0
+D:\Rice\data\paddy_doctor\bacterial_leaf_blight\108102.jpg,bacterial_leaf_blight,0
+D:\Rice\data\paddy_doctor\bacterial_leaf_blight\108183.jpg,bacterial_leaf_blight,0
+D:\Rice\data\paddy_doctor\bacterial_leaf_blight\108199.jpg,bacterial_leaf_blight,0
+D:\Rice\data\paddy_doctor\bacterial_leaf_blight\108231.jpg,bacterial_leaf_blight,0
+D:\Rice\data\paddy_doctor\bacterial_leaf_blight\108631.jpg,bacterial_leaf_blight,0
+D:\Rice\data\paddy_doctor\bacterial_leaf_blight\108673.jpg,bacterial_leaf_blight,0
+D:\Rice\data\paddy_doctor\bacterial_leaf_blight\108696.jpg,bacterial_leaf_blight,0
+D:\Rice\data\paddy_doctor\bacterial_leaf_blight\108697.jpg,bacterial_leaf_blight,0
+D:\Rice\data\paddy_doctor\bacterial_leaf_blight\108765.jpg,bacterial_leaf_blight,0
+D:\Rice\data\paddy_doctor\bacterial_leaf_blight\108929.jpg,bacterial_leaf_blight,0
+D:\Rice\data\paddy_doctor\bacterial_leaf_blight\109173.jpg,bacterial_leaf_blight,0
+D:\Rice\data\paddy_doctor\bacterial_leaf_blight\109275.jpg,bacterial_leaf_blight,0
+D:\Rice\data\paddy_doctor\bacterial_leaf_blight\109366.jpg,bacterial_leaf_blight,0
+D:\Rice\data\paddy_doctor\bacterial_leaf_blight\109422.jpg,bacterial_leaf_blight,0
+D:\Rice\data\paddy_doctor\bacterial_leaf_blight\109588.jpg,bacterial_leaf_blight,0
+D:\Rice\data\paddy_doctor\bacterial_leaf_blight\109674.jpg,bacterial_leaf_blight,0
+D:\Rice\data\paddy_doctor\bacterial_leaf_blight\109844.jpg,bacterial_leaf_blight,0
+D:\Rice\data\paddy_doctor\bacterial_leaf_blight\110234.jpg,bacterial_leaf_blight,0
+D:\Rice\data\paddy_doctor\bacterial_leaf_blight\110382.jpg,bacterial_leaf_blight,0
+D:\Rice\data\paddy_doctor\bacterial_leaf_blight\110400.jpg,bacterial_leaf_blight,0
+D:\Rice\data\paddy_doctor\bacterial_leaf_streak\100081.jpg,bacterial_leaf_streak,1
+D:\Rice\data\paddy_doctor\bacterial_leaf_streak\100409.jpg,bacterial_leaf_streak,1
+D:\Rice\data\paddy_doctor\bacterial_leaf_streak\100494.jpg,bacterial_leaf_streak,1
+D:\Rice\data\paddy_doctor\bacterial_leaf_streak\100552.jpg,bacterial_leaf_streak,1
+D:\Rice\data\paddy_doctor\bacterial_leaf_streak\101104.jpg,bacterial_leaf_streak,1
+D:\Rice\data\paddy_doctor\bacterial_leaf_streak\101461.jpg,bacterial_leaf_streak,1
+D:\Rice\data\paddy_doctor\bacterial_leaf_streak\101631.jpg,bacterial_leaf_streak,1
+D:\Rice\data\paddy_doctor\bacterial_leaf_streak\101874.jpg,bacterial_leaf_streak,1
+D:\Rice\data\paddy_doctor\bacterial_leaf_streak\102295.jpg,bacterial_leaf_streak,1
+D:\Rice\data\paddy_doctor\bacterial_leaf_streak\102442.jpg,bacterial_leaf_streak,1
+D:\Rice\data\paddy_doctor\bacterial_leaf_streak\102609.jpg,bacterial_leaf_streak,1
+D:\Rice\data\paddy_doctor\bacterial_leaf_streak\102911.jpg,bacterial_leaf_streak,1
+D:\Rice\data\paddy_doctor\bacterial_leaf_streak\102984.jpg,bacterial_leaf_streak,1
+D:\Rice\data\paddy_doctor\bacterial_leaf_streak\103843.jpg,bacterial_leaf_streak,1
+D:\Rice\data\paddy_doctor\bacterial_leaf_streak\103928.jpg,bacterial_leaf_streak,1
+D:\Rice\data\paddy_doctor\bacterial_leaf_streak\104232.jpg,bacterial_leaf_streak,1
+D:\Rice\data\paddy_doctor\bacterial_leaf_streak\104312.jpg,bacterial_leaf_streak,1
+D:\Rice\data\paddy_doctor\bacterial_leaf_streak\104389.jpg,bacterial_leaf_streak,1
+D:\Rice\data\paddy_doctor\bacterial_leaf_streak\104567.jpg,bacterial_leaf_streak,1
+D:\Rice\data\paddy_doctor\bacterial_leaf_streak\104808.jpg,bacterial_leaf_streak,1
+D:\Rice\data\paddy_doctor\bacterial_leaf_streak\104881.jpg,bacterial_leaf_streak,1
+D:\Rice\data\paddy_doctor\bacterial_leaf_streak\105230.jpg,bacterial_leaf_streak,1
+D:\Rice\data\paddy_doctor\bacterial_leaf_streak\105323.jpg,bacterial_leaf_streak,1
+D:\Rice\data\paddy_doctor\bacterial_leaf_streak\105403.jpg,bacterial_leaf_streak,1
+D:\Rice\data\paddy_doctor\bacterial_leaf_streak\105457.jpg,bacterial_leaf_streak,1
+D:\Rice\data\paddy_doctor\bacterial_leaf_streak\105588.jpg,bacterial_leaf_streak,1
+D:\Rice\data\paddy_doctor\bacterial_leaf_streak\105589.jpg,bacterial_leaf_streak,1
+D:\Rice\data\paddy_doctor\bacterial_leaf_streak\105815.jpg,bacterial_leaf_streak,1
+D:\Rice\data\paddy_doctor\bacterial_leaf_streak\106123.jpg,bacterial_leaf_streak,1
+D:\Rice\data\paddy_doctor\bacterial_leaf_streak\106459.jpg,bacterial_leaf_streak,1
+D:\Rice\data\paddy_doctor\bacterial_leaf_streak\106529.jpg,bacterial_leaf_streak,1
+D:\Rice\data\paddy_doctor\bacterial_leaf_streak\107006.jpg,bacterial_leaf_streak,1
+D:\Rice\data\paddy_doctor\bacterial_leaf_streak\107278.jpg,bacterial_leaf_streak,1
+D:\Rice\data\paddy_doctor\bacterial_leaf_streak\107554.jpg,bacterial_leaf_streak,1
+D:\Rice\data\paddy_doctor\bacterial_leaf_streak\107644.jpg,bacterial_leaf_streak,1
+D:\Rice\data\paddy_doctor\bacterial_leaf_streak\107666.jpg,bacterial_leaf_streak,1
+D:\Rice\data\paddy_doctor\bacterial_leaf_streak\108071.jpg,bacterial_leaf_streak,1
+D:\Rice\data\paddy_doctor\bacterial_leaf_streak\108076.jpg,bacterial_leaf_streak,1
+D:\Rice\data\paddy_doctor\bacterial_leaf_streak\108241.jpg,bacterial_leaf_streak,1
+D:\Rice\data\paddy_doctor\bacterial_leaf_streak\108253.jpg,bacterial_leaf_streak,1
+D:\Rice\data\paddy_doctor\bacterial_leaf_streak\108321.jpg,bacterial_leaf_streak,1
+D:\Rice\data\paddy_doctor\bacterial_leaf_streak\108482.jpg,bacterial_leaf_streak,1
+D:\Rice\data\paddy_doctor\bacterial_leaf_streak\108486.jpg,bacterial_leaf_streak,1
+D:\Rice\data\paddy_doctor\bacterial_leaf_streak\108603.jpg,bacterial_leaf_streak,1
+D:\Rice\data\paddy_doctor\bacterial_leaf_streak\108944.jpg,bacterial_leaf_streak,1
+D:\Rice\data\paddy_doctor\bacterial_leaf_streak\109008.jpg,bacterial_leaf_streak,1
+D:\Rice\data\paddy_doctor\bacterial_leaf_streak\109623.jpg,bacterial_leaf_streak,1
+D:\Rice\data\paddy_doctor\bacterial_leaf_streak\109679.jpg,bacterial_leaf_streak,1
+D:\Rice\data\paddy_doctor\bacterial_leaf_streak\109906.jpg,bacterial_leaf_streak,1
+D:\Rice\data\paddy_doctor\bacterial_leaf_streak\110210.jpg,bacterial_leaf_streak,1
+D:\Rice\data\paddy_doctor\bacterial_leaf_streak\110260.jpg,bacterial_leaf_streak,1
+D:\Rice\data\paddy_doctor\bacterial_panicle_blight\100251.jpg,bacterial_panicle_blight,2
+D:\Rice\data\paddy_doctor\bacterial_panicle_blight\100377.jpg,bacterial_panicle_blight,2
+D:\Rice\data\paddy_doctor\bacterial_panicle_blight\100828.jpg,bacterial_panicle_blight,2
+D:\Rice\data\paddy_doctor\bacterial_panicle_blight\101073.jpg,bacterial_panicle_blight,2
+D:\Rice\data\paddy_doctor\bacterial_panicle_blight\101223.jpg,bacterial_panicle_blight,2
+D:\Rice\data\paddy_doctor\bacterial_panicle_blight\101225.jpg,bacterial_panicle_blight,2
+D:\Rice\data\paddy_doctor\bacterial_panicle_blight\101267.jpg,bacterial_panicle_blight,2
+D:\Rice\data\paddy_doctor\bacterial_panicle_blight\101303.jpg,bacterial_panicle_blight,2
+D:\Rice\data\paddy_doctor\bacterial_panicle_blight\101474.jpg,bacterial_panicle_blight,2
+D:\Rice\data\paddy_doctor\bacterial_panicle_blight\101672.jpg,bacterial_panicle_blight,2
+D:\Rice\data\paddy_doctor\bacterial_panicle_blight\101906.jpg,bacterial_panicle_blight,2
+D:\Rice\data\paddy_doctor\bacterial_panicle_blight\101964.jpg,bacterial_panicle_blight,2
+D:\Rice\data\paddy_doctor\bacterial_panicle_blight\102136.jpg,bacterial_panicle_blight,2
+D:\Rice\data\paddy_doctor\bacterial_panicle_blight\102308.jpg,bacterial_panicle_blight,2
+D:\Rice\data\paddy_doctor\bacterial_panicle_blight\102464.jpg,bacterial_panicle_blight,2
+D:\Rice\data\paddy_doctor\bacterial_panicle_blight\102491.jpg,bacterial_panicle_blight,2
+D:\Rice\data\paddy_doctor\bacterial_panicle_blight\102765.jpg,bacterial_panicle_blight,2
+D:\Rice\data\paddy_doctor\bacterial_panicle_blight\102913.jpg,bacterial_panicle_blight,2
+D:\Rice\data\paddy_doctor\bacterial_panicle_blight\103043.jpg,bacterial_panicle_blight,2
+D:\Rice\data\paddy_doctor\bacterial_panicle_blight\103337.jpg,bacterial_panicle_blight,2
+D:\Rice\data\paddy_doctor\bacterial_panicle_blight\103439.jpg,bacterial_panicle_blight,2
+D:\Rice\data\paddy_doctor\bacterial_panicle_blight\103725.jpg,bacterial_panicle_blight,2
+D:\Rice\data\paddy_doctor\bacterial_panicle_blight\103735.jpg,bacterial_panicle_blight,2
+D:\Rice\data\paddy_doctor\bacterial_panicle_blight\103817.jpg,bacterial_panicle_blight,2
+D:\Rice\data\paddy_doctor\bacterial_panicle_blight\104029.jpg,bacterial_panicle_blight,2
+D:\Rice\data\paddy_doctor\bacterial_panicle_blight\104192.jpg,bacterial_panicle_blight,2
+D:\Rice\data\paddy_doctor\bacterial_panicle_blight\104320.jpg,bacterial_panicle_blight,2
+D:\Rice\data\paddy_doctor\bacterial_panicle_blight\104636.jpg,bacterial_panicle_blight,2
+D:\Rice\data\paddy_doctor\bacterial_panicle_blight\104912.jpg,bacterial_panicle_blight,2
+D:\Rice\data\paddy_doctor\bacterial_panicle_blight\105118.jpg,bacterial_panicle_blight,2
+D:\Rice\data\paddy_doctor\bacterial_panicle_blight\105145.jpg,bacterial_panicle_blight,2
+D:\Rice\data\paddy_doctor\bacterial_panicle_blight\105267.jpg,bacterial_panicle_blight,2
+D:\Rice\data\paddy_doctor\bacterial_panicle_blight\105578.jpg,bacterial_panicle_blight,2
+D:\Rice\data\paddy_doctor\bacterial_panicle_blight\105746.jpg,bacterial_panicle_blight,2
+D:\Rice\data\paddy_doctor\bacterial_panicle_blight\106273.jpg,bacterial_panicle_blight,2
+D:\Rice\data\paddy_doctor\bacterial_panicle_blight\106533.jpg,bacterial_panicle_blight,2
+D:\Rice\data\paddy_doctor\bacterial_panicle_blight\106613.jpg,bacterial_panicle_blight,2
+D:\Rice\data\paddy_doctor\bacterial_panicle_blight\106686.jpg,bacterial_panicle_blight,2
+D:\Rice\data\paddy_doctor\bacterial_panicle_blight\107403.jpg,bacterial_panicle_blight,2
+D:\Rice\data\paddy_doctor\bacterial_panicle_blight\107859.jpg,bacterial_panicle_blight,2
+D:\Rice\data\paddy_doctor\bacterial_panicle_blight\107899.jpg,bacterial_panicle_blight,2
+D:\Rice\data\paddy_doctor\bacterial_panicle_blight\108083.jpg,bacterial_panicle_blight,2
+D:\Rice\data\paddy_doctor\bacterial_panicle_blight\108172.jpg,bacterial_panicle_blight,2
+D:\Rice\data\paddy_doctor\bacterial_panicle_blight\108252.jpg,bacterial_panicle_blight,2
+D:\Rice\data\paddy_doctor\bacterial_panicle_blight\108548.jpg,bacterial_panicle_blight,2
+D:\Rice\data\paddy_doctor\bacterial_panicle_blight\109263.jpg,bacterial_panicle_blight,2
+D:\Rice\data\paddy_doctor\bacterial_panicle_blight\110057.jpg,bacterial_panicle_blight,2
+D:\Rice\data\paddy_doctor\bacterial_panicle_blight\110190.jpg,bacterial_panicle_blight,2
+D:\Rice\data\paddy_doctor\bacterial_panicle_blight\110376.jpg,bacterial_panicle_blight,2
+D:\Rice\data\paddy_doctor\blast\100039.jpg,blast,4
+D:\Rice\data\paddy_doctor\blast\100080.jpg,blast,4
+D:\Rice\data\paddy_doctor\blast\100104.jpg,blast,4
+D:\Rice\data\paddy_doctor\blast\100123.jpg,blast,4
+D:\Rice\data\paddy_doctor\blast\100161.jpg,blast,4
+D:\Rice\data\paddy_doctor\blast\100215.jpg,blast,4
+D:\Rice\data\paddy_doctor\blast\100276.jpg,blast,4
+D:\Rice\data\paddy_doctor\blast\100348.jpg,blast,4
+D:\Rice\data\paddy_doctor\blast\100379.jpg,blast,4
+D:\Rice\data\paddy_doctor\blast\100412.jpg,blast,4
+D:\Rice\data\paddy_doctor\blast\100442.jpg,blast,4
+D:\Rice\data\paddy_doctor\blast\100498.jpg,blast,4
+D:\Rice\data\paddy_doctor\blast\100501.jpg,blast,4
+D:\Rice\data\paddy_doctor\blast\100527.jpg,blast,4
+D:\Rice\data\paddy_doctor\blast\100556.jpg,blast,4
+D:\Rice\data\paddy_doctor\blast\100561.jpg,blast,4
+D:\Rice\data\paddy_doctor\blast\100590.jpg,blast,4
+D:\Rice\data\paddy_doctor\blast\100600.jpg,blast,4
+D:\Rice\data\paddy_doctor\blast\100604.jpg,blast,4
+D:\Rice\data\paddy_doctor\blast\100642.jpg,blast,4
+D:\Rice\data\paddy_doctor\blast\100674.jpg,blast,4
+D:\Rice\data\paddy_doctor\blast\100719.jpg,blast,4
+D:\Rice\data\paddy_doctor\blast\100726.jpg,blast,4
+D:\Rice\data\paddy_doctor\blast\100738.jpg,blast,4
+D:\Rice\data\paddy_doctor\blast\100745.jpg,blast,4
+D:\Rice\data\paddy_doctor\blast\100756.jpg,blast,4
+D:\Rice\data\paddy_doctor\blast\100770.jpg,blast,4
+D:\Rice\data\paddy_doctor\blast\100831.jpg,blast,4
+D:\Rice\data\paddy_doctor\blast\100952.jpg,blast,4
+D:\Rice\data\paddy_doctor\blast\100993.jpg,blast,4
+D:\Rice\data\paddy_doctor\blast\101007.jpg,blast,4
+D:\Rice\data\paddy_doctor\blast\101097.jpg,blast,4
+D:\Rice\data\paddy_doctor\blast\101171.jpg,blast,4
+D:\Rice\data\paddy_doctor\blast\101172.jpg,blast,4
+D:\Rice\data\paddy_doctor\blast\101182.jpg,blast,4
+D:\Rice\data\paddy_doctor\blast\101220.jpg,blast,4
+D:\Rice\data\paddy_doctor\blast\101226.jpg,blast,4
+D:\Rice\data\paddy_doctor\blast\101250.jpg,blast,4
+D:\Rice\data\paddy_doctor\blast\101254.jpg,blast,4
+D:\Rice\data\paddy_doctor\blast\101290.jpg,blast,4
+D:\Rice\data\paddy_doctor\blast\101323.jpg,blast,4
+D:\Rice\data\paddy_doctor\blast\101362.jpg,blast,4
+D:\Rice\data\paddy_doctor\blast\101498.jpg,blast,4
+D:\Rice\data\paddy_doctor\blast\101499.jpg,blast,4
+D:\Rice\data\paddy_doctor\blast\101519.jpg,blast,4
+D:\Rice\data\paddy_doctor\blast\101537.jpg,blast,4
+D:\Rice\data\paddy_doctor\blast\101573.jpg,blast,4
+D:\Rice\data\paddy_doctor\blast\101630.jpg,blast,4
+D:\Rice\data\paddy_doctor\blast\101688.jpg,blast,4
+D:\Rice\data\paddy_doctor\blast\101755.jpg,blast,4
+D:\Rice\data\paddy_doctor\blast\101760.jpg,blast,4
+D:\Rice\data\paddy_doctor\blast\101876.jpg,blast,4
+D:\Rice\data\paddy_doctor\blast\101971.jpg,blast,4
+D:\Rice\data\paddy_doctor\blast\101988.jpg,blast,4
+D:\Rice\data\paddy_doctor\blast\102005.jpg,blast,4
+D:\Rice\data\paddy_doctor\blast\102034.jpg,blast,4
+D:\Rice\data\paddy_doctor\blast\102055.jpg,blast,4
+D:\Rice\data\paddy_doctor\blast\102069.jpg,blast,4
+D:\Rice\data\paddy_doctor\blast\102091.jpg,blast,4
+D:\Rice\data\paddy_doctor\blast\102102.jpg,blast,4
+D:\Rice\data\paddy_doctor\blast\102140.jpg,blast,4
+D:\Rice\data\paddy_doctor\blast\102188.jpg,blast,4
+D:\Rice\data\paddy_doctor\blast\102198.jpg,blast,4
+D:\Rice\data\paddy_doctor\blast\102244.jpg,blast,4
+D:\Rice\data\paddy_doctor\blast\102466.jpg,blast,4
+D:\Rice\data\paddy_doctor\blast\102478.jpg,blast,4
+D:\Rice\data\paddy_doctor\blast\102562.jpg,blast,4
+D:\Rice\data\paddy_doctor\blast\102571.jpg,blast,4
+D:\Rice\data\paddy_doctor\blast\102685.jpg,blast,4
+D:\Rice\data\paddy_doctor\blast\102687.jpg,blast,4
+D:\Rice\data\paddy_doctor\blast\102745.jpg,blast,4
+D:\Rice\data\paddy_doctor\blast\102746.jpg,blast,4
+D:\Rice\data\paddy_doctor\blast\102828.jpg,blast,4
+D:\Rice\data\paddy_doctor\blast\102832.jpg,blast,4
+D:\Rice\data\paddy_doctor\blast\102853.jpg,blast,4
+D:\Rice\data\paddy_doctor\blast\102877.jpg,blast,4
+D:\Rice\data\paddy_doctor\blast\102892.jpg,blast,4
+D:\Rice\data\paddy_doctor\blast\102923.jpg,blast,4
+D:\Rice\data\paddy_doctor\blast\102933.jpg,blast,4
+D:\Rice\data\paddy_doctor\blast\102958.jpg,blast,4
+D:\Rice\data\paddy_doctor\blast\103024.jpg,blast,4
+D:\Rice\data\paddy_doctor\blast\103038.jpg,blast,4
+D:\Rice\data\paddy_doctor\blast\103149.jpg,blast,4
+D:\Rice\data\paddy_doctor\blast\103165.jpg,blast,4
+D:\Rice\data\paddy_doctor\blast\103204.jpg,blast,4
+D:\Rice\data\paddy_doctor\blast\103225.jpg,blast,4
+D:\Rice\data\paddy_doctor\blast\103293.jpg,blast,4
+D:\Rice\data\paddy_doctor\blast\103298.jpg,blast,4
+D:\Rice\data\paddy_doctor\blast\103311.jpg,blast,4
+D:\Rice\data\paddy_doctor\blast\103321.jpg,blast,4
+D:\Rice\data\paddy_doctor\blast\103341.jpg,blast,4
+D:\Rice\data\paddy_doctor\blast\103379.jpg,blast,4
+D:\Rice\data\paddy_doctor\blast\103479.jpg,blast,4
+D:\Rice\data\paddy_doctor\blast\103491.jpg,blast,4
+D:\Rice\data\paddy_doctor\blast\103504.jpg,blast,4
+D:\Rice\data\paddy_doctor\blast\103550.jpg,blast,4
+D:\Rice\data\paddy_doctor\blast\103558.jpg,blast,4
+D:\Rice\data\paddy_doctor\blast\103583.jpg,blast,4
+D:\Rice\data\paddy_doctor\blast\103611.jpg,blast,4
+D:\Rice\data\paddy_doctor\blast\103612.jpg,blast,4
+D:\Rice\data\paddy_doctor\blast\103653.jpg,blast,4
+D:\Rice\data\paddy_doctor\blast\103745.jpg,blast,4
+D:\Rice\data\paddy_doctor\blast\103746.jpg,blast,4
+D:\Rice\data\paddy_doctor\blast\103764.jpg,blast,4
+D:\Rice\data\paddy_doctor\blast\103780.jpg,blast,4
+D:\Rice\data\paddy_doctor\blast\103830.jpg,blast,4
+D:\Rice\data\paddy_doctor\blast\103902.jpg,blast,4
+D:\Rice\data\paddy_doctor\blast\103975.jpg,blast,4
+D:\Rice\data\paddy_doctor\blast\103997.jpg,blast,4
+D:\Rice\data\paddy_doctor\blast\104139.jpg,blast,4
+D:\Rice\data\paddy_doctor\blast\104156.jpg,blast,4
+D:\Rice\data\paddy_doctor\blast\104158.jpg,blast,4
+D:\Rice\data\paddy_doctor\blast\104264.jpg,blast,4
+D:\Rice\data\paddy_doctor\blast\104356.jpg,blast,4
+D:\Rice\data\paddy_doctor\blast\104413.jpg,blast,4
+D:\Rice\data\paddy_doctor\blast\104457.jpg,blast,4
+D:\Rice\data\paddy_doctor\blast\104476.jpg,blast,4
+D:\Rice\data\paddy_doctor\blast\104477.jpg,blast,4
+D:\Rice\data\paddy_doctor\blast\104618.jpg,blast,4
+D:\Rice\data\paddy_doctor\blast\104651.jpg,blast,4
+D:\Rice\data\paddy_doctor\blast\104720.jpg,blast,4
+D:\Rice\data\paddy_doctor\blast\104733.jpg,blast,4
+D:\Rice\data\paddy_doctor\blast\104747.jpg,blast,4
+D:\Rice\data\paddy_doctor\blast\105009.jpg,blast,4
+D:\Rice\data\paddy_doctor\blast\105131.jpg,blast,4
+D:\Rice\data\paddy_doctor\blast\105234.jpg,blast,4
+D:\Rice\data\paddy_doctor\blast\105318.jpg,blast,4
+D:\Rice\data\paddy_doctor\blast\105347.jpg,blast,4
+D:\Rice\data\paddy_doctor\blast\105396.jpg,blast,4
+D:\Rice\data\paddy_doctor\blast\105418.jpg,blast,4
+D:\Rice\data\paddy_doctor\blast\105432.jpg,blast,4
+D:\Rice\data\paddy_doctor\blast\105467.jpg,blast,4
+D:\Rice\data\paddy_doctor\blast\105488.jpg,blast,4
+D:\Rice\data\paddy_doctor\blast\105498.jpg,blast,4
+D:\Rice\data\paddy_doctor\blast\105515.jpg,blast,4
+D:\Rice\data\paddy_doctor\blast\105517.jpg,blast,4
+D:\Rice\data\paddy_doctor\blast\105541.jpg,blast,4
+D:\Rice\data\paddy_doctor\blast\105576.jpg,blast,4
+D:\Rice\data\paddy_doctor\blast\105666.jpg,blast,4
+D:\Rice\data\paddy_doctor\blast\105682.jpg,blast,4
+D:\Rice\data\paddy_doctor\blast\105688.jpg,blast,4
+D:\Rice\data\paddy_doctor\blast\105694.jpg,blast,4
+D:\Rice\data\paddy_doctor\blast\105796.jpg,blast,4
+D:\Rice\data\paddy_doctor\blast\105803.jpg,blast,4
+D:\Rice\data\paddy_doctor\blast\105809.jpg,blast,4
+D:\Rice\data\paddy_doctor\blast\105867.jpg,blast,4
+D:\Rice\data\paddy_doctor\blast\105889.jpg,blast,4
+D:\Rice\data\paddy_doctor\blast\105898.jpg,blast,4
+D:\Rice\data\paddy_doctor\blast\105918.jpg,blast,4
+D:\Rice\data\paddy_doctor\blast\105920.jpg,blast,4
+D:\Rice\data\paddy_doctor\blast\105925.jpg,blast,4
+D:\Rice\data\paddy_doctor\blast\105938.jpg,blast,4
+D:\Rice\data\paddy_doctor\blast\106023.jpg,blast,4
+D:\Rice\data\paddy_doctor\blast\106130.jpg,blast,4
+D:\Rice\data\paddy_doctor\blast\106276.jpg,blast,4
+D:\Rice\data\paddy_doctor\blast\106326.jpg,blast,4
+D:\Rice\data\paddy_doctor\blast\106353.jpg,blast,4
+D:\Rice\data\paddy_doctor\blast\106357.jpg,blast,4
+D:\Rice\data\paddy_doctor\blast\106397.jpg,blast,4
+D:\Rice\data\paddy_doctor\blast\106473.jpg,blast,4
+D:\Rice\data\paddy_doctor\blast\106493.jpg,blast,4
+D:\Rice\data\paddy_doctor\blast\106513.jpg,blast,4
+D:\Rice\data\paddy_doctor\blast\106536.jpg,blast,4
+D:\Rice\data\paddy_doctor\blast\106560.jpg,blast,4
+D:\Rice\data\paddy_doctor\blast\106604.jpg,blast,4
+D:\Rice\data\paddy_doctor\blast\106639.jpg,blast,4
+D:\Rice\data\paddy_doctor\blast\106708.jpg,blast,4
+D:\Rice\data\paddy_doctor\blast\106850.jpg,blast,4
+D:\Rice\data\paddy_doctor\blast\107099.jpg,blast,4
+D:\Rice\data\paddy_doctor\blast\107208.jpg,blast,4
+D:\Rice\data\paddy_doctor\blast\107222.jpg,blast,4
+D:\Rice\data\paddy_doctor\blast\107235.jpg,blast,4
+D:\Rice\data\paddy_doctor\blast\107248.jpg,blast,4
+D:\Rice\data\paddy_doctor\blast\107327.jpg,blast,4
+D:\Rice\data\paddy_doctor\blast\107391.jpg,blast,4
+D:\Rice\data\paddy_doctor\blast\107412.jpg,blast,4
+D:\Rice\data\paddy_doctor\blast\107430.jpg,blast,4
+D:\Rice\data\paddy_doctor\blast\107503.jpg,blast,4
+D:\Rice\data\paddy_doctor\blast\107590.jpg,blast,4
+D:\Rice\data\paddy_doctor\blast\107604.jpg,blast,4
+D:\Rice\data\paddy_doctor\blast\107664.jpg,blast,4
+D:\Rice\data\paddy_doctor\blast\107700.jpg,blast,4
+D:\Rice\data\paddy_doctor\blast\107781.jpg,blast,4
+D:\Rice\data\paddy_doctor\blast\107815.jpg,blast,4
+D:\Rice\data\paddy_doctor\blast\107817.jpg,blast,4
+D:\Rice\data\paddy_doctor\blast\107858.jpg,blast,4
+D:\Rice\data\paddy_doctor\blast\107880.jpg,blast,4
+D:\Rice\data\paddy_doctor\blast\107896.jpg,blast,4
+D:\Rice\data\paddy_doctor\blast\107905.jpg,blast,4
+D:\Rice\data\paddy_doctor\blast\107975.jpg,blast,4
+D:\Rice\data\paddy_doctor\blast\108068.jpg,blast,4
+D:\Rice\data\paddy_doctor\blast\108075.jpg,blast,4
+D:\Rice\data\paddy_doctor\blast\108137.jpg,blast,4
+D:\Rice\data\paddy_doctor\blast\108144.jpg,blast,4
+D:\Rice\data\paddy_doctor\blast\108147.jpg,blast,4
+D:\Rice\data\paddy_doctor\blast\108174.jpg,blast,4
+D:\Rice\data\paddy_doctor\blast\108175.jpg,blast,4
+D:\Rice\data\paddy_doctor\blast\108217.jpg,blast,4
+D:\Rice\data\paddy_doctor\blast\108247.jpg,blast,4
+D:\Rice\data\paddy_doctor\blast\108293.jpg,blast,4
+D:\Rice\data\paddy_doctor\blast\108294.jpg,blast,4
+D:\Rice\data\paddy_doctor\blast\108316.jpg,blast,4
+D:\Rice\data\paddy_doctor\blast\108414.jpg,blast,4
+D:\Rice\data\paddy_doctor\blast\108418.jpg,blast,4
+D:\Rice\data\paddy_doctor\blast\108451.jpg,blast,4
+D:\Rice\data\paddy_doctor\blast\108488.jpg,blast,4
+D:\Rice\data\paddy_doctor\blast\108561.jpg,blast,4
+D:\Rice\data\paddy_doctor\blast\108669.jpg,blast,4
+D:\Rice\data\paddy_doctor\blast\108677.jpg,blast,4
+D:\Rice\data\paddy_doctor\blast\108722.jpg,blast,4
+D:\Rice\data\paddy_doctor\blast\108753.jpg,blast,4
+D:\Rice\data\paddy_doctor\blast\108761.jpg,blast,4
+D:\Rice\data\paddy_doctor\blast\108771.jpg,blast,4
+D:\Rice\data\paddy_doctor\blast\108867.jpg,blast,4
+D:\Rice\data\paddy_doctor\blast\108943.jpg,blast,4
+D:\Rice\data\paddy_doctor\blast\108964.jpg,blast,4
+D:\Rice\data\paddy_doctor\blast\108987.jpg,blast,4
+D:\Rice\data\paddy_doctor\blast\109025.jpg,blast,4
+D:\Rice\data\paddy_doctor\blast\109038.jpg,blast,4
+D:\Rice\data\paddy_doctor\blast\109048.jpg,blast,4
+D:\Rice\data\paddy_doctor\blast\109068.jpg,blast,4
+D:\Rice\data\paddy_doctor\blast\109070.jpg,blast,4
+D:\Rice\data\paddy_doctor\blast\109078.jpg,blast,4
+D:\Rice\data\paddy_doctor\blast\109083.jpg,blast,4
+D:\Rice\data\paddy_doctor\blast\109170.jpg,blast,4
+D:\Rice\data\paddy_doctor\blast\109218.jpg,blast,4
+D:\Rice\data\paddy_doctor\blast\109432.jpg,blast,4
+D:\Rice\data\paddy_doctor\blast\109507.jpg,blast,4
+D:\Rice\data\paddy_doctor\blast\109508.jpg,blast,4
+D:\Rice\data\paddy_doctor\blast\109529.jpg,blast,4
+D:\Rice\data\paddy_doctor\blast\109546.jpg,blast,4
+D:\Rice\data\paddy_doctor\blast\109657.jpg,blast,4
+D:\Rice\data\paddy_doctor\blast\109658.jpg,blast,4
+D:\Rice\data\paddy_doctor\blast\109687.jpg,blast,4
+D:\Rice\data\paddy_doctor\blast\109699.jpg,blast,4
+D:\Rice\data\paddy_doctor\blast\109717.jpg,blast,4
+D:\Rice\data\paddy_doctor\blast\109728.jpg,blast,4
+D:\Rice\data\paddy_doctor\blast\109874.jpg,blast,4
+D:\Rice\data\paddy_doctor\blast\109903.jpg,blast,4
+D:\Rice\data\paddy_doctor\blast\109937.jpg,blast,4
+D:\Rice\data\paddy_doctor\blast\109968.jpg,blast,4
+D:\Rice\data\paddy_doctor\blast\109996.jpg,blast,4
+D:\Rice\data\paddy_doctor\blast\110101.jpg,blast,4
+D:\Rice\data\paddy_doctor\blast\110189.jpg,blast,4
+D:\Rice\data\paddy_doctor\blast\110244.jpg,blast,4
+D:\Rice\data\paddy_doctor\blast\110293.jpg,blast,4
+D:\Rice\data\paddy_doctor\blast\110326.jpg,blast,4
+D:\Rice\data\paddy_doctor\blast\110360.jpg,blast,4
+D:\Rice\data\paddy_doctor\blast\110373.jpg,blast,4
+D:\Rice\data\paddy_doctor\brown_spot\100041.jpg,brown_spot,5
+D:\Rice\data\paddy_doctor\brown_spot\100054.jpg,brown_spot,5
+D:\Rice\data\paddy_doctor\brown_spot\100096.jpg,brown_spot,5
+D:\Rice\data\paddy_doctor\brown_spot\100201.jpg,brown_spot,5
+D:\Rice\data\paddy_doctor\brown_spot\100233.jpg,brown_spot,5
+D:\Rice\data\paddy_doctor\brown_spot\100275.jpg,brown_spot,5
+D:\Rice\data\paddy_doctor\brown_spot\100361.jpg,brown_spot,5
+D:\Rice\data\paddy_doctor\brown_spot\100380.jpg,brown_spot,5
+D:\Rice\data\paddy_doctor\brown_spot\100475.jpg,brown_spot,5
+D:\Rice\data\paddy_doctor\brown_spot\100528.jpg,brown_spot,5
+D:\Rice\data\paddy_doctor\brown_spot\100555.jpg,brown_spot,5
+D:\Rice\data\paddy_doctor\brown_spot\100692.jpg,brown_spot,5
+D:\Rice\data\paddy_doctor\brown_spot\100730.jpg,brown_spot,5
+D:\Rice\data\paddy_doctor\brown_spot\100820.jpg,brown_spot,5
+D:\Rice\data\paddy_doctor\brown_spot\100871.jpg,brown_spot,5
+D:\Rice\data\paddy_doctor\brown_spot\100895.jpg,brown_spot,5
+D:\Rice\data\paddy_doctor\brown_spot\101017.jpg,brown_spot,5
+D:\Rice\data\paddy_doctor\brown_spot\101051.jpg,brown_spot,5
+D:\Rice\data\paddy_doctor\brown_spot\101070.jpg,brown_spot,5
+D:\Rice\data\paddy_doctor\brown_spot\101110.jpg,brown_spot,5
+D:\Rice\data\paddy_doctor\brown_spot\101135.jpg,brown_spot,5
+D:\Rice\data\paddy_doctor\brown_spot\101255.jpg,brown_spot,5
+D:\Rice\data\paddy_doctor\brown_spot\101265.jpg,brown_spot,5
+D:\Rice\data\paddy_doctor\brown_spot\101356.jpg,brown_spot,5
+D:\Rice\data\paddy_doctor\brown_spot\101446.jpg,brown_spot,5
+D:\Rice\data\paddy_doctor\brown_spot\101668.jpg,brown_spot,5
+D:\Rice\data\paddy_doctor\brown_spot\101713.jpg,brown_spot,5
+D:\Rice\data\paddy_doctor\brown_spot\101859.jpg,brown_spot,5
+D:\Rice\data\paddy_doctor\brown_spot\101879.jpg,brown_spot,5
+D:\Rice\data\paddy_doctor\brown_spot\101985.jpg,brown_spot,5
+D:\Rice\data\paddy_doctor\brown_spot\102203.jpg,brown_spot,5
+D:\Rice\data\paddy_doctor\brown_spot\102303.jpg,brown_spot,5
+D:\Rice\data\paddy_doctor\brown_spot\102402.jpg,brown_spot,5
+D:\Rice\data\paddy_doctor\brown_spot\102447.jpg,brown_spot,5
+D:\Rice\data\paddy_doctor\brown_spot\102470.jpg,brown_spot,5
+D:\Rice\data\paddy_doctor\brown_spot\102527.jpg,brown_spot,5
+D:\Rice\data\paddy_doctor\brown_spot\102589.jpg,brown_spot,5
+D:\Rice\data\paddy_doctor\brown_spot\102864.jpg,brown_spot,5
+D:\Rice\data\paddy_doctor\brown_spot\102938.jpg,brown_spot,5
+D:\Rice\data\paddy_doctor\brown_spot\102956.jpg,brown_spot,5
+D:\Rice\data\paddy_doctor\brown_spot\103084.jpg,brown_spot,5
+D:\Rice\data\paddy_doctor\brown_spot\103099.jpg,brown_spot,5
+D:\Rice\data\paddy_doctor\brown_spot\103146.jpg,brown_spot,5
+D:\Rice\data\paddy_doctor\brown_spot\103334.jpg,brown_spot,5
+D:\Rice\data\paddy_doctor\brown_spot\103456.jpg,brown_spot,5
+D:\Rice\data\paddy_doctor\brown_spot\103489.jpg,brown_spot,5
+D:\Rice\data\paddy_doctor\brown_spot\103509.jpg,brown_spot,5
+D:\Rice\data\paddy_doctor\brown_spot\103635.jpg,brown_spot,5
+D:\Rice\data\paddy_doctor\brown_spot\103714.jpg,brown_spot,5
+D:\Rice\data\paddy_doctor\brown_spot\103719.jpg,brown_spot,5
+D:\Rice\data\paddy_doctor\brown_spot\103781.jpg,brown_spot,5
+D:\Rice\data\paddy_doctor\brown_spot\103797.jpg,brown_spot,5
+D:\Rice\data\paddy_doctor\brown_spot\103892.jpg,brown_spot,5
+D:\Rice\data\paddy_doctor\brown_spot\103897.jpg,brown_spot,5
+D:\Rice\data\paddy_doctor\brown_spot\104003.jpg,brown_spot,5
+D:\Rice\data\paddy_doctor\brown_spot\104167.jpg,brown_spot,5
+D:\Rice\data\paddy_doctor\brown_spot\104204.jpg,brown_spot,5
+D:\Rice\data\paddy_doctor\brown_spot\104227.jpg,brown_spot,5
+D:\Rice\data\paddy_doctor\brown_spot\104564.jpg,brown_spot,5
+D:\Rice\data\paddy_doctor\brown_spot\104624.jpg,brown_spot,5
+D:\Rice\data\paddy_doctor\brown_spot\104632.jpg,brown_spot,5
+D:\Rice\data\paddy_doctor\brown_spot\104689.jpg,brown_spot,5
+D:\Rice\data\paddy_doctor\brown_spot\104709.jpg,brown_spot,5
+D:\Rice\data\paddy_doctor\brown_spot\104774.jpg,brown_spot,5
+D:\Rice\data\paddy_doctor\brown_spot\104962.jpg,brown_spot,5
+D:\Rice\data\paddy_doctor\brown_spot\104987.jpg,brown_spot,5
+D:\Rice\data\paddy_doctor\brown_spot\104989.jpg,brown_spot,5
+D:\Rice\data\paddy_doctor\brown_spot\105057.jpg,brown_spot,5
+D:\Rice\data\paddy_doctor\brown_spot\105126.jpg,brown_spot,5
+D:\Rice\data\paddy_doctor\brown_spot\105214.jpg,brown_spot,5
+D:\Rice\data\paddy_doctor\brown_spot\105387.jpg,brown_spot,5
+D:\Rice\data\paddy_doctor\brown_spot\105590.jpg,brown_spot,5
+D:\Rice\data\paddy_doctor\brown_spot\105668.jpg,brown_spot,5
+D:\Rice\data\paddy_doctor\brown_spot\105771.jpg,brown_spot,5
+D:\Rice\data\paddy_doctor\brown_spot\105777.jpg,brown_spot,5
+D:\Rice\data\paddy_doctor\brown_spot\105890.jpg,brown_spot,5
+D:\Rice\data\paddy_doctor\brown_spot\106045.jpg,brown_spot,5
+D:\Rice\data\paddy_doctor\brown_spot\106071.jpg,brown_spot,5
+D:\Rice\data\paddy_doctor\brown_spot\106079.jpg,brown_spot,5
+D:\Rice\data\paddy_doctor\brown_spot\106157.jpg,brown_spot,5
+D:\Rice\data\paddy_doctor\brown_spot\106204.jpg,brown_spot,5
+D:\Rice\data\paddy_doctor\brown_spot\106231.jpg,brown_spot,5
+D:\Rice\data\paddy_doctor\brown_spot\106312.jpg,brown_spot,5
+D:\Rice\data\paddy_doctor\brown_spot\106343.jpg,brown_spot,5
+D:\Rice\data\paddy_doctor\brown_spot\106399.jpg,brown_spot,5
+D:\Rice\data\paddy_doctor\brown_spot\106421.jpg,brown_spot,5
+D:\Rice\data\paddy_doctor\brown_spot\106617.jpg,brown_spot,5
+D:\Rice\data\paddy_doctor\brown_spot\106682.jpg,brown_spot,5
+D:\Rice\data\paddy_doctor\brown_spot\106774.jpg,brown_spot,5
+D:\Rice\data\paddy_doctor\brown_spot\106810.jpg,brown_spot,5
+D:\Rice\data\paddy_doctor\brown_spot\106840.jpg,brown_spot,5
+D:\Rice\data\paddy_doctor\brown_spot\106910.jpg,brown_spot,5
+D:\Rice\data\paddy_doctor\brown_spot\107017.jpg,brown_spot,5
+D:\Rice\data\paddy_doctor\brown_spot\107220.jpg,brown_spot,5
+D:\Rice\data\paddy_doctor\brown_spot\107250.jpg,brown_spot,5
+D:\Rice\data\paddy_doctor\brown_spot\107320.jpg,brown_spot,5
+D:\Rice\data\paddy_doctor\brown_spot\107464.jpg,brown_spot,5
+D:\Rice\data\paddy_doctor\brown_spot\107531.jpg,brown_spot,5
+D:\Rice\data\paddy_doctor\brown_spot\107558.jpg,brown_spot,5
+D:\Rice\data\paddy_doctor\brown_spot\107584.jpg,brown_spot,5
+D:\Rice\data\paddy_doctor\brown_spot\107589.jpg,brown_spot,5
+D:\Rice\data\paddy_doctor\brown_spot\107595.jpg,brown_spot,5
+D:\Rice\data\paddy_doctor\brown_spot\107661.jpg,brown_spot,5
+D:\Rice\data\paddy_doctor\brown_spot\107870.jpg,brown_spot,5
+D:\Rice\data\paddy_doctor\brown_spot\107874.jpg,brown_spot,5
+D:\Rice\data\paddy_doctor\brown_spot\108214.jpg,brown_spot,5
+D:\Rice\data\paddy_doctor\brown_spot\108274.jpg,brown_spot,5
+D:\Rice\data\paddy_doctor\brown_spot\108356.jpg,brown_spot,5
+D:\Rice\data\paddy_doctor\brown_spot\108557.jpg,brown_spot,5
+D:\Rice\data\paddy_doctor\brown_spot\108721.jpg,brown_spot,5
+D:\Rice\data\paddy_doctor\brown_spot\108745.jpg,brown_spot,5
+D:\Rice\data\paddy_doctor\brown_spot\108770.jpg,brown_spot,5
+D:\Rice\data\paddy_doctor\brown_spot\108780.jpg,brown_spot,5
+D:\Rice\data\paddy_doctor\brown_spot\108808.jpg,brown_spot,5
+D:\Rice\data\paddy_doctor\brown_spot\108897.jpg,brown_spot,5
+D:\Rice\data\paddy_doctor\brown_spot\108975.jpg,brown_spot,5
+D:\Rice\data\paddy_doctor\brown_spot\109053.jpg,brown_spot,5
+D:\Rice\data\paddy_doctor\brown_spot\109235.jpg,brown_spot,5
+D:\Rice\data\paddy_doctor\brown_spot\109259.jpg,brown_spot,5
+D:\Rice\data\paddy_doctor\brown_spot\109269.jpg,brown_spot,5
+D:\Rice\data\paddy_doctor\brown_spot\109376.jpg,brown_spot,5
+D:\Rice\data\paddy_doctor\brown_spot\109490.jpg,brown_spot,5
+D:\Rice\data\paddy_doctor\brown_spot\109585.jpg,brown_spot,5
+D:\Rice\data\paddy_doctor\brown_spot\109627.jpg,brown_spot,5
+D:\Rice\data\paddy_doctor\brown_spot\109696.jpg,brown_spot,5
+D:\Rice\data\paddy_doctor\brown_spot\109840.jpg,brown_spot,5
+D:\Rice\data\paddy_doctor\brown_spot\109845.jpg,brown_spot,5
+D:\Rice\data\paddy_doctor\brown_spot\109949.jpg,brown_spot,5
+D:\Rice\data\paddy_doctor\brown_spot\110002.jpg,brown_spot,5
+D:\Rice\data\paddy_doctor\brown_spot\110068.jpg,brown_spot,5
+D:\Rice\data\paddy_doctor\brown_spot\110163.jpg,brown_spot,5
+D:\Rice\data\paddy_doctor\brown_spot\110202.jpg,brown_spot,5
+D:\Rice\data\paddy_doctor\brown_spot\110205.jpg,brown_spot,5
+D:\Rice\data\paddy_doctor\brown_spot\110211.jpg,brown_spot,5
+D:\Rice\data\paddy_doctor\brown_spot\110216.jpg,brown_spot,5
+D:\Rice\data\paddy_doctor\brown_spot\110407.jpg,brown_spot,5
+D:\Rice\data\paddy_doctor\dead_heart\100026.jpg,dead_heart,6
+D:\Rice\data\paddy_doctor\dead_heart\100029.jpg,dead_heart,6
+D:\Rice\data\paddy_doctor\dead_heart\100089.jpg,dead_heart,6
+D:\Rice\data\paddy_doctor\dead_heart\100108.jpg,dead_heart,6
+D:\Rice\data\paddy_doctor\dead_heart\100206.jpg,dead_heart,6
+D:\Rice\data\paddy_doctor\dead_heart\100249.jpg,dead_heart,6
+D:\Rice\data\paddy_doctor\dead_heart\100353.jpg,dead_heart,6
+D:\Rice\data\paddy_doctor\dead_heart\100529.jpg,dead_heart,6
+D:\Rice\data\paddy_doctor\dead_heart\100587.jpg,dead_heart,6
+D:\Rice\data\paddy_doctor\dead_heart\100631.jpg,dead_heart,6
+D:\Rice\data\paddy_doctor\dead_heart\100684.jpg,dead_heart,6
+D:\Rice\data\paddy_doctor\dead_heart\100688.jpg,dead_heart,6
+D:\Rice\data\paddy_doctor\dead_heart\100798.jpg,dead_heart,6
+D:\Rice\data\paddy_doctor\dead_heart\100913.jpg,dead_heart,6
+D:\Rice\data\paddy_doctor\dead_heart\100963.jpg,dead_heart,6
+D:\Rice\data\paddy_doctor\dead_heart\101064.jpg,dead_heart,6
+D:\Rice\data\paddy_doctor\dead_heart\101133.jpg,dead_heart,6
+D:\Rice\data\paddy_doctor\dead_heart\101136.jpg,dead_heart,6
+D:\Rice\data\paddy_doctor\dead_heart\101165.jpg,dead_heart,6
+D:\Rice\data\paddy_doctor\dead_heart\101184.jpg,dead_heart,6
+D:\Rice\data\paddy_doctor\dead_heart\101191.jpg,dead_heart,6
+D:\Rice\data\paddy_doctor\dead_heart\101196.jpg,dead_heart,6
+D:\Rice\data\paddy_doctor\dead_heart\101239.jpg,dead_heart,6
+D:\Rice\data\paddy_doctor\dead_heart\101248.jpg,dead_heart,6
+D:\Rice\data\paddy_doctor\dead_heart\101262.jpg,dead_heart,6
+D:\Rice\data\paddy_doctor\dead_heart\101378.jpg,dead_heart,6
+D:\Rice\data\paddy_doctor\dead_heart\101423.jpg,dead_heart,6
+D:\Rice\data\paddy_doctor\dead_heart\101547.jpg,dead_heart,6
+D:\Rice\data\paddy_doctor\dead_heart\101578.jpg,dead_heart,6
+D:\Rice\data\paddy_doctor\dead_heart\101582.jpg,dead_heart,6
+D:\Rice\data\paddy_doctor\dead_heart\101740.jpg,dead_heart,6
+D:\Rice\data\paddy_doctor\dead_heart\101787.jpg,dead_heart,6
+D:\Rice\data\paddy_doctor\dead_heart\101864.jpg,dead_heart,6
+D:\Rice\data\paddy_doctor\dead_heart\101870.jpg,dead_heart,6
+D:\Rice\data\paddy_doctor\dead_heart\101963.jpg,dead_heart,6
+D:\Rice\data\paddy_doctor\dead_heart\102028.jpg,dead_heart,6
+D:\Rice\data\paddy_doctor\dead_heart\102029.jpg,dead_heart,6
+D:\Rice\data\paddy_doctor\dead_heart\102134.jpg,dead_heart,6
+D:\Rice\data\paddy_doctor\dead_heart\102142.jpg,dead_heart,6
+D:\Rice\data\paddy_doctor\dead_heart\102368.jpg,dead_heart,6
+D:\Rice\data\paddy_doctor\dead_heart\102388.jpg,dead_heart,6
+D:\Rice\data\paddy_doctor\dead_heart\102513.jpg,dead_heart,6
+D:\Rice\data\paddy_doctor\dead_heart\102536.jpg,dead_heart,6
+D:\Rice\data\paddy_doctor\dead_heart\102547.jpg,dead_heart,6
+D:\Rice\data\paddy_doctor\dead_heart\102579.jpg,dead_heart,6
+D:\Rice\data\paddy_doctor\dead_heart\102590.jpg,dead_heart,6
+D:\Rice\data\paddy_doctor\dead_heart\102666.jpg,dead_heart,6
+D:\Rice\data\paddy_doctor\dead_heart\102702.jpg,dead_heart,6
+D:\Rice\data\paddy_doctor\dead_heart\102794.jpg,dead_heart,6
+D:\Rice\data\paddy_doctor\dead_heart\102796.jpg,dead_heart,6
+D:\Rice\data\paddy_doctor\dead_heart\102872.jpg,dead_heart,6
+D:\Rice\data\paddy_doctor\dead_heart\102905.jpg,dead_heart,6
+D:\Rice\data\paddy_doctor\dead_heart\102997.jpg,dead_heart,6
+D:\Rice\data\paddy_doctor\dead_heart\103026.jpg,dead_heart,6
+D:\Rice\data\paddy_doctor\dead_heart\103047.jpg,dead_heart,6
+D:\Rice\data\paddy_doctor\dead_heart\103184.jpg,dead_heart,6
+D:\Rice\data\paddy_doctor\dead_heart\103195.jpg,dead_heart,6
+D:\Rice\data\paddy_doctor\dead_heart\103388.jpg,dead_heart,6
+D:\Rice\data\paddy_doctor\dead_heart\103407.jpg,dead_heart,6
+D:\Rice\data\paddy_doctor\dead_heart\103613.jpg,dead_heart,6
+D:\Rice\data\paddy_doctor\dead_heart\103684.jpg,dead_heart,6
+D:\Rice\data\paddy_doctor\dead_heart\103689.jpg,dead_heart,6
+D:\Rice\data\paddy_doctor\dead_heart\103717.jpg,dead_heart,6
+D:\Rice\data\paddy_doctor\dead_heart\103720.jpg,dead_heart,6
+D:\Rice\data\paddy_doctor\dead_heart\103730.jpg,dead_heart,6
+D:\Rice\data\paddy_doctor\dead_heart\103832.jpg,dead_heart,6
+D:\Rice\data\paddy_doctor\dead_heart\103836.jpg,dead_heart,6
+D:\Rice\data\paddy_doctor\dead_heart\103864.jpg,dead_heart,6
+D:\Rice\data\paddy_doctor\dead_heart\103957.jpg,dead_heart,6
+D:\Rice\data\paddy_doctor\dead_heart\103969.jpg,dead_heart,6
+D:\Rice\data\paddy_doctor\dead_heart\104009.jpg,dead_heart,6
+D:\Rice\data\paddy_doctor\dead_heart\104036.jpg,dead_heart,6
+D:\Rice\data\paddy_doctor\dead_heart\104057.jpg,dead_heart,6
+D:\Rice\data\paddy_doctor\dead_heart\104076.jpg,dead_heart,6
+D:\Rice\data\paddy_doctor\dead_heart\104205.jpg,dead_heart,6
+D:\Rice\data\paddy_doctor\dead_heart\104239.jpg,dead_heart,6
+D:\Rice\data\paddy_doctor\dead_heart\104275.jpg,dead_heart,6
+D:\Rice\data\paddy_doctor\dead_heart\104363.jpg,dead_heart,6
+D:\Rice\data\paddy_doctor\dead_heart\104408.jpg,dead_heart,6
+D:\Rice\data\paddy_doctor\dead_heart\104437.jpg,dead_heart,6
+D:\Rice\data\paddy_doctor\dead_heart\104485.jpg,dead_heart,6
+D:\Rice\data\paddy_doctor\dead_heart\104514.jpg,dead_heart,6
+D:\Rice\data\paddy_doctor\dead_heart\104517.jpg,dead_heart,6
+D:\Rice\data\paddy_doctor\dead_heart\104608.jpg,dead_heart,6
+D:\Rice\data\paddy_doctor\dead_heart\104615.jpg,dead_heart,6
+D:\Rice\data\paddy_doctor\dead_heart\104649.jpg,dead_heart,6
+D:\Rice\data\paddy_doctor\dead_heart\104836.jpg,dead_heart,6
+D:\Rice\data\paddy_doctor\dead_heart\104844.jpg,dead_heart,6
+D:\Rice\data\paddy_doctor\dead_heart\104991.jpg,dead_heart,6
+D:\Rice\data\paddy_doctor\dead_heart\105071.jpg,dead_heart,6
+D:\Rice\data\paddy_doctor\dead_heart\105093.jpg,dead_heart,6
+D:\Rice\data\paddy_doctor\dead_heart\105158.jpg,dead_heart,6
+D:\Rice\data\paddy_doctor\dead_heart\105195.jpg,dead_heart,6
+D:\Rice\data\paddy_doctor\dead_heart\105251.jpg,dead_heart,6
+D:\Rice\data\paddy_doctor\dead_heart\105435.jpg,dead_heart,6
+D:\Rice\data\paddy_doctor\dead_heart\105440.jpg,dead_heart,6
+D:\Rice\data\paddy_doctor\dead_heart\105568.jpg,dead_heart,6
+D:\Rice\data\paddy_doctor\dead_heart\105640.jpg,dead_heart,6
+D:\Rice\data\paddy_doctor\dead_heart\105651.jpg,dead_heart,6
+D:\Rice\data\paddy_doctor\dead_heart\105767.jpg,dead_heart,6
+D:\Rice\data\paddy_doctor\dead_heart\105887.jpg,dead_heart,6
+D:\Rice\data\paddy_doctor\dead_heart\105988.jpg,dead_heart,6
+D:\Rice\data\paddy_doctor\dead_heart\105996.jpg,dead_heart,6
+D:\Rice\data\paddy_doctor\dead_heart\106100.jpg,dead_heart,6
+D:\Rice\data\paddy_doctor\dead_heart\106113.jpg,dead_heart,6
+D:\Rice\data\paddy_doctor\dead_heart\106121.jpg,dead_heart,6
+D:\Rice\data\paddy_doctor\dead_heart\106184.jpg,dead_heart,6
+D:\Rice\data\paddy_doctor\dead_heart\106191.jpg,dead_heart,6
+D:\Rice\data\paddy_doctor\dead_heart\106222.jpg,dead_heart,6
+D:\Rice\data\paddy_doctor\dead_heart\106313.jpg,dead_heart,6
+D:\Rice\data\paddy_doctor\dead_heart\106331.jpg,dead_heart,6
+D:\Rice\data\paddy_doctor\dead_heart\106334.jpg,dead_heart,6
+D:\Rice\data\paddy_doctor\dead_heart\106346.jpg,dead_heart,6
+D:\Rice\data\paddy_doctor\dead_heart\106368.jpg,dead_heart,6
+D:\Rice\data\paddy_doctor\dead_heart\106376.jpg,dead_heart,6
+D:\Rice\data\paddy_doctor\dead_heart\106434.jpg,dead_heart,6
+D:\Rice\data\paddy_doctor\dead_heart\106437.jpg,dead_heart,6
+D:\Rice\data\paddy_doctor\dead_heart\106736.jpg,dead_heart,6
+D:\Rice\data\paddy_doctor\dead_heart\106756.jpg,dead_heart,6
+D:\Rice\data\paddy_doctor\dead_heart\106762.jpg,dead_heart,6
+D:\Rice\data\paddy_doctor\dead_heart\106771.jpg,dead_heart,6
+D:\Rice\data\paddy_doctor\dead_heart\106783.jpg,dead_heart,6
+D:\Rice\data\paddy_doctor\dead_heart\106873.jpg,dead_heart,6
+D:\Rice\data\paddy_doctor\dead_heart\106925.jpg,dead_heart,6
+D:\Rice\data\paddy_doctor\dead_heart\106935.jpg,dead_heart,6
+D:\Rice\data\paddy_doctor\dead_heart\106937.jpg,dead_heart,6
+D:\Rice\data\paddy_doctor\dead_heart\107018.jpg,dead_heart,6
+D:\Rice\data\paddy_doctor\dead_heart\107025.jpg,dead_heart,6
+D:\Rice\data\paddy_doctor\dead_heart\107047.jpg,dead_heart,6
+D:\Rice\data\paddy_doctor\dead_heart\107070.jpg,dead_heart,6
+D:\Rice\data\paddy_doctor\dead_heart\107127.jpg,dead_heart,6
+D:\Rice\data\paddy_doctor\dead_heart\107180.jpg,dead_heart,6
+D:\Rice\data\paddy_doctor\dead_heart\107210.jpg,dead_heart,6
+D:\Rice\data\paddy_doctor\dead_heart\107232.jpg,dead_heart,6
+D:\Rice\data\paddy_doctor\dead_heart\107261.jpg,dead_heart,6
+D:\Rice\data\paddy_doctor\dead_heart\107271.jpg,dead_heart,6
+D:\Rice\data\paddy_doctor\dead_heart\107302.jpg,dead_heart,6
+D:\Rice\data\paddy_doctor\dead_heart\107351.jpg,dead_heart,6
+D:\Rice\data\paddy_doctor\dead_heart\107365.jpg,dead_heart,6
+D:\Rice\data\paddy_doctor\dead_heart\107560.jpg,dead_heart,6
+D:\Rice\data\paddy_doctor\dead_heart\107656.jpg,dead_heart,6
+D:\Rice\data\paddy_doctor\dead_heart\107735.jpg,dead_heart,6
+D:\Rice\data\paddy_doctor\dead_heart\107747.jpg,dead_heart,6
+D:\Rice\data\paddy_doctor\dead_heart\107756.jpg,dead_heart,6
+D:\Rice\data\paddy_doctor\dead_heart\107903.jpg,dead_heart,6
+D:\Rice\data\paddy_doctor\dead_heart\107976.jpg,dead_heart,6
+D:\Rice\data\paddy_doctor\dead_heart\107991.jpg,dead_heart,6
+D:\Rice\data\paddy_doctor\dead_heart\108017.jpg,dead_heart,6
+D:\Rice\data\paddy_doctor\dead_heart\108054.jpg,dead_heart,6
+D:\Rice\data\paddy_doctor\dead_heart\108133.jpg,dead_heart,6
+D:\Rice\data\paddy_doctor\dead_heart\108276.jpg,dead_heart,6
+D:\Rice\data\paddy_doctor\dead_heart\108302.jpg,dead_heart,6
+D:\Rice\data\paddy_doctor\dead_heart\108307.jpg,dead_heart,6
+D:\Rice\data\paddy_doctor\dead_heart\108344.jpg,dead_heart,6
+D:\Rice\data\paddy_doctor\dead_heart\108345.jpg,dead_heart,6
+D:\Rice\data\paddy_doctor\dead_heart\108517.jpg,dead_heart,6
+D:\Rice\data\paddy_doctor\dead_heart\108660.jpg,dead_heart,6
+D:\Rice\data\paddy_doctor\dead_heart\108784.jpg,dead_heart,6
+D:\Rice\data\paddy_doctor\dead_heart\108822.jpg,dead_heart,6
+D:\Rice\data\paddy_doctor\dead_heart\108829.jpg,dead_heart,6
+D:\Rice\data\paddy_doctor\dead_heart\108859.jpg,dead_heart,6
+D:\Rice\data\paddy_doctor\dead_heart\108904.jpg,dead_heart,6
+D:\Rice\data\paddy_doctor\dead_heart\108905.jpg,dead_heart,6
+D:\Rice\data\paddy_doctor\dead_heart\109007.jpg,dead_heart,6
+D:\Rice\data\paddy_doctor\dead_heart\109029.jpg,dead_heart,6
+D:\Rice\data\paddy_doctor\dead_heart\109034.jpg,dead_heart,6
+D:\Rice\data\paddy_doctor\dead_heart\109072.jpg,dead_heart,6
+D:\Rice\data\paddy_doctor\dead_heart\109093.jpg,dead_heart,6
+D:\Rice\data\paddy_doctor\dead_heart\109097.jpg,dead_heart,6
+D:\Rice\data\paddy_doctor\dead_heart\109105.jpg,dead_heart,6
+D:\Rice\data\paddy_doctor\dead_heart\109111.jpg,dead_heart,6
+D:\Rice\data\paddy_doctor\dead_heart\109125.jpg,dead_heart,6
+D:\Rice\data\paddy_doctor\dead_heart\109129.jpg,dead_heart,6
+D:\Rice\data\paddy_doctor\dead_heart\109135.jpg,dead_heart,6
+D:\Rice\data\paddy_doctor\dead_heart\109198.jpg,dead_heart,6
+D:\Rice\data\paddy_doctor\dead_heart\109203.jpg,dead_heart,6
+D:\Rice\data\paddy_doctor\dead_heart\109207.jpg,dead_heart,6
+D:\Rice\data\paddy_doctor\dead_heart\109221.jpg,dead_heart,6
+D:\Rice\data\paddy_doctor\dead_heart\109239.jpg,dead_heart,6
+D:\Rice\data\paddy_doctor\dead_heart\109280.jpg,dead_heart,6
+D:\Rice\data\paddy_doctor\dead_heart\109309.jpg,dead_heart,6
+D:\Rice\data\paddy_doctor\dead_heart\109399.jpg,dead_heart,6
+D:\Rice\data\paddy_doctor\dead_heart\109414.jpg,dead_heart,6
+D:\Rice\data\paddy_doctor\dead_heart\109542.jpg,dead_heart,6
+D:\Rice\data\paddy_doctor\dead_heart\109543.jpg,dead_heart,6
+D:\Rice\data\paddy_doctor\dead_heart\109592.jpg,dead_heart,6
+D:\Rice\data\paddy_doctor\dead_heart\109606.jpg,dead_heart,6
+D:\Rice\data\paddy_doctor\dead_heart\109683.jpg,dead_heart,6
+D:\Rice\data\paddy_doctor\dead_heart\109739.jpg,dead_heart,6
+D:\Rice\data\paddy_doctor\dead_heart\109938.jpg,dead_heart,6
+D:\Rice\data\paddy_doctor\dead_heart\110113.jpg,dead_heart,6
+D:\Rice\data\paddy_doctor\dead_heart\110158.jpg,dead_heart,6
+D:\Rice\data\paddy_doctor\dead_heart\110174.jpg,dead_heart,6
+D:\Rice\data\paddy_doctor\dead_heart\110214.jpg,dead_heart,6
+D:\Rice\data\paddy_doctor\dead_heart\110222.jpg,dead_heart,6
+D:\Rice\data\paddy_doctor\dead_heart\110268.jpg,dead_heart,6
+D:\Rice\data\paddy_doctor\dead_heart\110290.jpg,dead_heart,6
+D:\Rice\data\paddy_doctor\dead_heart\110301.jpg,dead_heart,6
+D:\Rice\data\paddy_doctor\dead_heart\110369.jpg,dead_heart,6
+D:\Rice\data\paddy_doctor\dead_heart\110374.jpg,dead_heart,6
+D:\Rice\data\paddy_doctor\downy_mildew\100038.jpg,downy_mildew,7
+D:\Rice\data\paddy_doctor\downy_mildew\100132.jpg,downy_mildew,7
+D:\Rice\data\paddy_doctor\downy_mildew\100174.jpg,downy_mildew,7
+D:\Rice\data\paddy_doctor\downy_mildew\100296.jpg,downy_mildew,7
+D:\Rice\data\paddy_doctor\downy_mildew\100323.jpg,downy_mildew,7
+D:\Rice\data\paddy_doctor\downy_mildew\100454.jpg,downy_mildew,7
+D:\Rice\data\paddy_doctor\downy_mildew\100504.jpg,downy_mildew,7
+D:\Rice\data\paddy_doctor\downy_mildew\100735.jpg,downy_mildew,7
+D:\Rice\data\paddy_doctor\downy_mildew\100788.jpg,downy_mildew,7
+D:\Rice\data\paddy_doctor\downy_mildew\100850.jpg,downy_mildew,7
+D:\Rice\data\paddy_doctor\downy_mildew\100858.jpg,downy_mildew,7
+D:\Rice\data\paddy_doctor\downy_mildew\100987.jpg,downy_mildew,7
+D:\Rice\data\paddy_doctor\downy_mildew\100995.jpg,downy_mildew,7
+D:\Rice\data\paddy_doctor\downy_mildew\101022.jpg,downy_mildew,7
+D:\Rice\data\paddy_doctor\downy_mildew\101050.jpg,downy_mildew,7
+D:\Rice\data\paddy_doctor\downy_mildew\101078.jpg,downy_mildew,7
+D:\Rice\data\paddy_doctor\downy_mildew\101252.jpg,downy_mildew,7
+D:\Rice\data\paddy_doctor\downy_mildew\101277.jpg,downy_mildew,7
+D:\Rice\data\paddy_doctor\downy_mildew\101284.jpg,downy_mildew,7
+D:\Rice\data\paddy_doctor\downy_mildew\101370.jpg,downy_mildew,7
+D:\Rice\data\paddy_doctor\downy_mildew\101458.jpg,downy_mildew,7
+D:\Rice\data\paddy_doctor\downy_mildew\101524.jpg,downy_mildew,7
+D:\Rice\data\paddy_doctor\downy_mildew\101572.jpg,downy_mildew,7
+D:\Rice\data\paddy_doctor\downy_mildew\101663.jpg,downy_mildew,7
+D:\Rice\data\paddy_doctor\downy_mildew\101682.jpg,downy_mildew,7
+D:\Rice\data\paddy_doctor\downy_mildew\101704.jpg,downy_mildew,7
+D:\Rice\data\paddy_doctor\downy_mildew\102036.jpg,downy_mildew,7
+D:\Rice\data\paddy_doctor\downy_mildew\102092.jpg,downy_mildew,7
+D:\Rice\data\paddy_doctor\downy_mildew\102111.jpg,downy_mildew,7
+D:\Rice\data\paddy_doctor\downy_mildew\102541.jpg,downy_mildew,7
+D:\Rice\data\paddy_doctor\downy_mildew\102803.jpg,downy_mildew,7
+D:\Rice\data\paddy_doctor\downy_mildew\102960.jpg,downy_mildew,7
+D:\Rice\data\paddy_doctor\downy_mildew\103100.jpg,downy_mildew,7
+D:\Rice\data\paddy_doctor\downy_mildew\103157.jpg,downy_mildew,7
+D:\Rice\data\paddy_doctor\downy_mildew\103247.jpg,downy_mildew,7
+D:\Rice\data\paddy_doctor\downy_mildew\103260.jpg,downy_mildew,7
+D:\Rice\data\paddy_doctor\downy_mildew\103367.jpg,downy_mildew,7
+D:\Rice\data\paddy_doctor\downy_mildew\103384.jpg,downy_mildew,7
+D:\Rice\data\paddy_doctor\downy_mildew\103471.jpg,downy_mildew,7
+D:\Rice\data\paddy_doctor\downy_mildew\103842.jpg,downy_mildew,7
+D:\Rice\data\paddy_doctor\downy_mildew\103933.jpg,downy_mildew,7
+D:\Rice\data\paddy_doctor\downy_mildew\103940.jpg,downy_mildew,7
+D:\Rice\data\paddy_doctor\downy_mildew\103994.jpg,downy_mildew,7
+D:\Rice\data\paddy_doctor\downy_mildew\104140.jpg,downy_mildew,7
+D:\Rice\data\paddy_doctor\downy_mildew\104193.jpg,downy_mildew,7
+D:\Rice\data\paddy_doctor\downy_mildew\104207.jpg,downy_mildew,7
+D:\Rice\data\paddy_doctor\downy_mildew\104240.jpg,downy_mildew,7
+D:\Rice\data\paddy_doctor\downy_mildew\104342.jpg,downy_mildew,7
+D:\Rice\data\paddy_doctor\downy_mildew\105381.jpg,downy_mildew,7
+D:\Rice\data\paddy_doctor\downy_mildew\105540.jpg,downy_mildew,7
+D:\Rice\data\paddy_doctor\downy_mildew\105619.jpg,downy_mildew,7
+D:\Rice\data\paddy_doctor\downy_mildew\106240.jpg,downy_mildew,7
+D:\Rice\data\paddy_doctor\downy_mildew\106254.jpg,downy_mildew,7
+D:\Rice\data\paddy_doctor\downy_mildew\106285.jpg,downy_mildew,7
+D:\Rice\data\paddy_doctor\downy_mildew\106640.jpg,downy_mildew,7
+D:\Rice\data\paddy_doctor\downy_mildew\106776.jpg,downy_mildew,7
+D:\Rice\data\paddy_doctor\downy_mildew\106903.jpg,downy_mildew,7
+D:\Rice\data\paddy_doctor\downy_mildew\106963.jpg,downy_mildew,7
+D:\Rice\data\paddy_doctor\downy_mildew\107118.jpg,downy_mildew,7
+D:\Rice\data\paddy_doctor\downy_mildew\107211.jpg,downy_mildew,7
+D:\Rice\data\paddy_doctor\downy_mildew\107342.jpg,downy_mildew,7
+D:\Rice\data\paddy_doctor\downy_mildew\107356.jpg,downy_mildew,7
+D:\Rice\data\paddy_doctor\downy_mildew\107422.jpg,downy_mildew,7
+D:\Rice\data\paddy_doctor\downy_mildew\107563.jpg,downy_mildew,7
+D:\Rice\data\paddy_doctor\downy_mildew\107571.jpg,downy_mildew,7
+D:\Rice\data\paddy_doctor\downy_mildew\107695.jpg,downy_mildew,7
+D:\Rice\data\paddy_doctor\downy_mildew\107894.jpg,downy_mildew,7
+D:\Rice\data\paddy_doctor\downy_mildew\108184.jpg,downy_mildew,7
+D:\Rice\data\paddy_doctor\downy_mildew\108275.jpg,downy_mildew,7
+D:\Rice\data\paddy_doctor\downy_mildew\108286.jpg,downy_mildew,7
+D:\Rice\data\paddy_doctor\downy_mildew\108472.jpg,downy_mildew,7
+D:\Rice\data\paddy_doctor\downy_mildew\108549.jpg,downy_mildew,7
+D:\Rice\data\paddy_doctor\downy_mildew\108834.jpg,downy_mildew,7
+D:\Rice\data\paddy_doctor\downy_mildew\108873.jpg,downy_mildew,7
+D:\Rice\data\paddy_doctor\downy_mildew\109000.jpg,downy_mildew,7
+D:\Rice\data\paddy_doctor\downy_mildew\109042.jpg,downy_mildew,7
+D:\Rice\data\paddy_doctor\downy_mildew\109240.jpg,downy_mildew,7
+D:\Rice\data\paddy_doctor\downy_mildew\109415.jpg,downy_mildew,7
+D:\Rice\data\paddy_doctor\downy_mildew\109681.jpg,downy_mildew,7
+D:\Rice\data\paddy_doctor\downy_mildew\109864.jpg,downy_mildew,7
+D:\Rice\data\paddy_doctor\downy_mildew\109897.jpg,downy_mildew,7
+D:\Rice\data\paddy_doctor\downy_mildew\110037.jpg,downy_mildew,7
+D:\Rice\data\paddy_doctor\downy_mildew\110284.jpg,downy_mildew,7
+D:\Rice\data\paddy_doctor\downy_mildew\110323.jpg,downy_mildew,7
+D:\Rice\data\paddy_doctor\hispa\100010.jpg,hispa,11
+D:\Rice\data\paddy_doctor\hispa\100120.jpg,hispa,11
+D:\Rice\data\paddy_doctor\hispa\100182.jpg,hispa,11
+D:\Rice\data\paddy_doctor\hispa\100194.jpg,hispa,11
+D:\Rice\data\paddy_doctor\hispa\100318.jpg,hispa,11
+D:\Rice\data\paddy_doctor\hispa\100372.jpg,hispa,11
+D:\Rice\data\paddy_doctor\hispa\100502.jpg,hispa,11
+D:\Rice\data\paddy_doctor\hispa\100534.jpg,hispa,11
+D:\Rice\data\paddy_doctor\hispa\100571.jpg,hispa,11
+D:\Rice\data\paddy_doctor\hispa\100576.jpg,hispa,11
+D:\Rice\data\paddy_doctor\hispa\100612.jpg,hispa,11
+D:\Rice\data\paddy_doctor\hispa\100619.jpg,hispa,11
+D:\Rice\data\paddy_doctor\hispa\100643.jpg,hispa,11
+D:\Rice\data\paddy_doctor\hispa\100658.jpg,hispa,11
+D:\Rice\data\paddy_doctor\hispa\100685.jpg,hispa,11
+D:\Rice\data\paddy_doctor\hispa\100787.jpg,hispa,11
+D:\Rice\data\paddy_doctor\hispa\100804.jpg,hispa,11
+D:\Rice\data\paddy_doctor\hispa\100813.jpg,hispa,11
+D:\Rice\data\paddy_doctor\hispa\100878.jpg,hispa,11
+D:\Rice\data\paddy_doctor\hispa\100900.jpg,hispa,11
+D:\Rice\data\paddy_doctor\hispa\100914.jpg,hispa,11
+D:\Rice\data\paddy_doctor\hispa\100918.jpg,hispa,11
+D:\Rice\data\paddy_doctor\hispa\100936.jpg,hispa,11
+D:\Rice\data\paddy_doctor\hispa\100972.jpg,hispa,11
+D:\Rice\data\paddy_doctor\hispa\100983.jpg,hispa,11
+D:\Rice\data\paddy_doctor\hispa\101038.jpg,hispa,11
+D:\Rice\data\paddy_doctor\hispa\101071.jpg,hispa,11
+D:\Rice\data\paddy_doctor\hispa\101074.jpg,hispa,11
+D:\Rice\data\paddy_doctor\hispa\101076.jpg,hispa,11
+D:\Rice\data\paddy_doctor\hispa\101132.jpg,hispa,11
+D:\Rice\data\paddy_doctor\hispa\101147.jpg,hispa,11
+D:\Rice\data\paddy_doctor\hispa\101235.jpg,hispa,11
+D:\Rice\data\paddy_doctor\hispa\101264.jpg,hispa,11
+D:\Rice\data\paddy_doctor\hispa\101448.jpg,hispa,11
+D:\Rice\data\paddy_doctor\hispa\101490.jpg,hispa,11
+D:\Rice\data\paddy_doctor\hispa\101518.jpg,hispa,11
+D:\Rice\data\paddy_doctor\hispa\101598.jpg,hispa,11
+D:\Rice\data\paddy_doctor\hispa\101608.jpg,hispa,11
+D:\Rice\data\paddy_doctor\hispa\101717.jpg,hispa,11
+D:\Rice\data\paddy_doctor\hispa\101945.jpg,hispa,11
+D:\Rice\data\paddy_doctor\hispa\102033.jpg,hispa,11
+D:\Rice\data\paddy_doctor\hispa\102051.jpg,hispa,11
+D:\Rice\data\paddy_doctor\hispa\102179.jpg,hispa,11
+D:\Rice\data\paddy_doctor\hispa\102209.jpg,hispa,11
+D:\Rice\data\paddy_doctor\hispa\102330.jpg,hispa,11
+D:\Rice\data\paddy_doctor\hispa\102346.jpg,hispa,11
+D:\Rice\data\paddy_doctor\hispa\102373.jpg,hispa,11
+D:\Rice\data\paddy_doctor\hispa\102386.jpg,hispa,11
+D:\Rice\data\paddy_doctor\hispa\102412.jpg,hispa,11
+D:\Rice\data\paddy_doctor\hispa\102435.jpg,hispa,11
+D:\Rice\data\paddy_doctor\hispa\102495.jpg,hispa,11
+D:\Rice\data\paddy_doctor\hispa\102610.jpg,hispa,11
+D:\Rice\data\paddy_doctor\hispa\102669.jpg,hispa,11
+D:\Rice\data\paddy_doctor\hispa\102712.jpg,hispa,11
+D:\Rice\data\paddy_doctor\hispa\102751.jpg,hispa,11
+D:\Rice\data\paddy_doctor\hispa\102758.jpg,hispa,11
+D:\Rice\data\paddy_doctor\hispa\102781.jpg,hispa,11
+D:\Rice\data\paddy_doctor\hispa\102791.jpg,hispa,11
+D:\Rice\data\paddy_doctor\hispa\102869.jpg,hispa,11
+D:\Rice\data\paddy_doctor\hispa\102903.jpg,hispa,11
+D:\Rice\data\paddy_doctor\hispa\102915.jpg,hispa,11
+D:\Rice\data\paddy_doctor\hispa\102968.jpg,hispa,11
+D:\Rice\data\paddy_doctor\hispa\102998.jpg,hispa,11
+D:\Rice\data\paddy_doctor\hispa\103022.jpg,hispa,11
+D:\Rice\data\paddy_doctor\hispa\103206.jpg,hispa,11
+D:\Rice\data\paddy_doctor\hispa\103226.jpg,hispa,11
+D:\Rice\data\paddy_doctor\hispa\103232.jpg,hispa,11
+D:\Rice\data\paddy_doctor\hispa\103333.jpg,hispa,11
+D:\Rice\data\paddy_doctor\hispa\103335.jpg,hispa,11
+D:\Rice\data\paddy_doctor\hispa\103352.jpg,hispa,11
+D:\Rice\data\paddy_doctor\hispa\103382.jpg,hispa,11
+D:\Rice\data\paddy_doctor\hispa\103386.jpg,hispa,11
+D:\Rice\data\paddy_doctor\hispa\103394.jpg,hispa,11
+D:\Rice\data\paddy_doctor\hispa\103527.jpg,hispa,11
+D:\Rice\data\paddy_doctor\hispa\103551.jpg,hispa,11
+D:\Rice\data\paddy_doctor\hispa\103706.jpg,hispa,11
+D:\Rice\data\paddy_doctor\hispa\103710.jpg,hispa,11
+D:\Rice\data\paddy_doctor\hispa\103752.jpg,hispa,11
+D:\Rice\data\paddy_doctor\hispa\103823.jpg,hispa,11
+D:\Rice\data\paddy_doctor\hispa\103917.jpg,hispa,11
+D:\Rice\data\paddy_doctor\hispa\104034.jpg,hispa,11
+D:\Rice\data\paddy_doctor\hispa\104037.jpg,hispa,11
+D:\Rice\data\paddy_doctor\hispa\104064.jpg,hispa,11
+D:\Rice\data\paddy_doctor\hispa\104073.jpg,hispa,11
+D:\Rice\data\paddy_doctor\hispa\104293.jpg,hispa,11
+D:\Rice\data\paddy_doctor\hispa\104332.jpg,hispa,11
+D:\Rice\data\paddy_doctor\hispa\104380.jpg,hispa,11
+D:\Rice\data\paddy_doctor\hispa\104407.jpg,hispa,11
+D:\Rice\data\paddy_doctor\hispa\104441.jpg,hispa,11
+D:\Rice\data\paddy_doctor\hispa\104446.jpg,hispa,11
+D:\Rice\data\paddy_doctor\hispa\104500.jpg,hispa,11
+D:\Rice\data\paddy_doctor\hispa\104501.jpg,hispa,11
+D:\Rice\data\paddy_doctor\hispa\104581.jpg,hispa,11
+D:\Rice\data\paddy_doctor\hispa\104594.jpg,hispa,11
+D:\Rice\data\paddy_doctor\hispa\104599.jpg,hispa,11
+D:\Rice\data\paddy_doctor\hispa\104638.jpg,hispa,11
+D:\Rice\data\paddy_doctor\hispa\104654.jpg,hispa,11
+D:\Rice\data\paddy_doctor\hispa\104705.jpg,hispa,11
+D:\Rice\data\paddy_doctor\hispa\104735.jpg,hispa,11
+D:\Rice\data\paddy_doctor\hispa\104748.jpg,hispa,11
+D:\Rice\data\paddy_doctor\hispa\104793.jpg,hispa,11
+D:\Rice\data\paddy_doctor\hispa\104826.jpg,hispa,11
+D:\Rice\data\paddy_doctor\hispa\104833.jpg,hispa,11
+D:\Rice\data\paddy_doctor\hispa\104834.jpg,hispa,11
+D:\Rice\data\paddy_doctor\hispa\104877.jpg,hispa,11
+D:\Rice\data\paddy_doctor\hispa\104894.jpg,hispa,11
+D:\Rice\data\paddy_doctor\hispa\104915.jpg,hispa,11
+D:\Rice\data\paddy_doctor\hispa\104947.jpg,hispa,11
+D:\Rice\data\paddy_doctor\hispa\104969.jpg,hispa,11
+D:\Rice\data\paddy_doctor\hispa\104986.jpg,hispa,11
+D:\Rice\data\paddy_doctor\hispa\105012.jpg,hispa,11
+D:\Rice\data\paddy_doctor\hispa\105060.jpg,hispa,11
+D:\Rice\data\paddy_doctor\hispa\105191.jpg,hispa,11
+D:\Rice\data\paddy_doctor\hispa\105362.jpg,hispa,11
+D:\Rice\data\paddy_doctor\hispa\105367.jpg,hispa,11
+D:\Rice\data\paddy_doctor\hispa\105382.jpg,hispa,11
+D:\Rice\data\paddy_doctor\hispa\105414.jpg,hispa,11
+D:\Rice\data\paddy_doctor\hispa\105436.jpg,hispa,11
+D:\Rice\data\paddy_doctor\hispa\105455.jpg,hispa,11
+D:\Rice\data\paddy_doctor\hispa\105473.jpg,hispa,11
+D:\Rice\data\paddy_doctor\hispa\105546.jpg,hispa,11
+D:\Rice\data\paddy_doctor\hispa\105567.jpg,hispa,11
+D:\Rice\data\paddy_doctor\hispa\105610.jpg,hispa,11
+D:\Rice\data\paddy_doctor\hispa\105704.jpg,hispa,11
+D:\Rice\data\paddy_doctor\hispa\105712.jpg,hispa,11
+D:\Rice\data\paddy_doctor\hispa\105923.jpg,hispa,11
+D:\Rice\data\paddy_doctor\hispa\106017.jpg,hispa,11
+D:\Rice\data\paddy_doctor\hispa\106109.jpg,hispa,11
+D:\Rice\data\paddy_doctor\hispa\106112.jpg,hispa,11
+D:\Rice\data\paddy_doctor\hispa\106234.jpg,hispa,11
+D:\Rice\data\paddy_doctor\hispa\106239.jpg,hispa,11
+D:\Rice\data\paddy_doctor\hispa\106252.jpg,hispa,11
+D:\Rice\data\paddy_doctor\hispa\106253.jpg,hispa,11
+D:\Rice\data\paddy_doctor\hispa\106270.jpg,hispa,11
+D:\Rice\data\paddy_doctor\hispa\106275.jpg,hispa,11
+D:\Rice\data\paddy_doctor\hispa\106304.jpg,hispa,11
+D:\Rice\data\paddy_doctor\hispa\106307.jpg,hispa,11
+D:\Rice\data\paddy_doctor\hispa\106408.jpg,hispa,11
+D:\Rice\data\paddy_doctor\hispa\106420.jpg,hispa,11
+D:\Rice\data\paddy_doctor\hispa\106446.jpg,hispa,11
+D:\Rice\data\paddy_doctor\hispa\106518.jpg,hispa,11
+D:\Rice\data\paddy_doctor\hispa\106530.jpg,hispa,11
+D:\Rice\data\paddy_doctor\hispa\106534.jpg,hispa,11
+D:\Rice\data\paddy_doctor\hispa\106561.jpg,hispa,11
+D:\Rice\data\paddy_doctor\hispa\106580.jpg,hispa,11
+D:\Rice\data\paddy_doctor\hispa\106600.jpg,hispa,11
+D:\Rice\data\paddy_doctor\hispa\106601.jpg,hispa,11
+D:\Rice\data\paddy_doctor\hispa\106610.jpg,hispa,11
+D:\Rice\data\paddy_doctor\hispa\106673.jpg,hispa,11
+D:\Rice\data\paddy_doctor\hispa\106751.jpg,hispa,11
+D:\Rice\data\paddy_doctor\hispa\106819.jpg,hispa,11
+D:\Rice\data\paddy_doctor\hispa\106826.jpg,hispa,11
+D:\Rice\data\paddy_doctor\hispa\106841.jpg,hispa,11
+D:\Rice\data\paddy_doctor\hispa\106849.jpg,hispa,11
+D:\Rice\data\paddy_doctor\hispa\106858.jpg,hispa,11
+D:\Rice\data\paddy_doctor\hispa\106923.jpg,hispa,11
+D:\Rice\data\paddy_doctor\hispa\106927.jpg,hispa,11
+D:\Rice\data\paddy_doctor\hispa\106939.jpg,hispa,11
+D:\Rice\data\paddy_doctor\hispa\107085.jpg,hispa,11
+D:\Rice\data\paddy_doctor\hispa\107143.jpg,hispa,11
+D:\Rice\data\paddy_doctor\hispa\107188.jpg,hispa,11
+D:\Rice\data\paddy_doctor\hispa\107201.jpg,hispa,11
+D:\Rice\data\paddy_doctor\hispa\107343.jpg,hispa,11
+D:\Rice\data\paddy_doctor\hispa\107461.jpg,hispa,11
+D:\Rice\data\paddy_doctor\hispa\107618.jpg,hispa,11
+D:\Rice\data\paddy_doctor\hispa\107637.jpg,hispa,11
+D:\Rice\data\paddy_doctor\hispa\107658.jpg,hispa,11
+D:\Rice\data\paddy_doctor\hispa\107723.jpg,hispa,11
+D:\Rice\data\paddy_doctor\hispa\107739.jpg,hispa,11
+D:\Rice\data\paddy_doctor\hispa\107779.jpg,hispa,11
+D:\Rice\data\paddy_doctor\hispa\107806.jpg,hispa,11
+D:\Rice\data\paddy_doctor\hispa\107832.jpg,hispa,11
+D:\Rice\data\paddy_doctor\hispa\107840.jpg,hispa,11
+D:\Rice\data\paddy_doctor\hispa\107917.jpg,hispa,11
+D:\Rice\data\paddy_doctor\hispa\107922.jpg,hispa,11
+D:\Rice\data\paddy_doctor\hispa\107935.jpg,hispa,11
+D:\Rice\data\paddy_doctor\hispa\107968.jpg,hispa,11
+D:\Rice\data\paddy_doctor\hispa\108051.jpg,hispa,11
+D:\Rice\data\paddy_doctor\hispa\108109.jpg,hispa,11
+D:\Rice\data\paddy_doctor\hispa\108113.jpg,hispa,11
+D:\Rice\data\paddy_doctor\hispa\108167.jpg,hispa,11
+D:\Rice\data\paddy_doctor\hispa\108207.jpg,hispa,11
+D:\Rice\data\paddy_doctor\hispa\108312.jpg,hispa,11
+D:\Rice\data\paddy_doctor\hispa\108322.jpg,hispa,11
+D:\Rice\data\paddy_doctor\hispa\108384.jpg,hispa,11
+D:\Rice\data\paddy_doctor\hispa\108530.jpg,hispa,11
+D:\Rice\data\paddy_doctor\hispa\108566.jpg,hispa,11
+D:\Rice\data\paddy_doctor\hispa\108619.jpg,hispa,11
+D:\Rice\data\paddy_doctor\hispa\108640.jpg,hispa,11
+D:\Rice\data\paddy_doctor\hispa\108645.jpg,hispa,11
+D:\Rice\data\paddy_doctor\hispa\108801.jpg,hispa,11
+D:\Rice\data\paddy_doctor\hispa\108803.jpg,hispa,11
+D:\Rice\data\paddy_doctor\hispa\108909.jpg,hispa,11
+D:\Rice\data\paddy_doctor\hispa\108924.jpg,hispa,11
+D:\Rice\data\paddy_doctor\hispa\108969.jpg,hispa,11
+D:\Rice\data\paddy_doctor\hispa\108979.jpg,hispa,11
+D:\Rice\data\paddy_doctor\hispa\108991.jpg,hispa,11
+D:\Rice\data\paddy_doctor\hispa\109033.jpg,hispa,11
+D:\Rice\data\paddy_doctor\hispa\109090.jpg,hispa,11
+D:\Rice\data\paddy_doctor\hispa\109107.jpg,hispa,11
+D:\Rice\data\paddy_doctor\hispa\109130.jpg,hispa,11
+D:\Rice\data\paddy_doctor\hispa\109220.jpg,hispa,11
+D:\Rice\data\paddy_doctor\hispa\109267.jpg,hispa,11
+D:\Rice\data\paddy_doctor\hispa\109582.jpg,hispa,11
+D:\Rice\data\paddy_doctor\hispa\109595.jpg,hispa,11
+D:\Rice\data\paddy_doctor\hispa\109644.jpg,hispa,11
+D:\Rice\data\paddy_doctor\hispa\109661.jpg,hispa,11
+D:\Rice\data\paddy_doctor\hispa\109713.jpg,hispa,11
+D:\Rice\data\paddy_doctor\hispa\109730.jpg,hispa,11
+D:\Rice\data\paddy_doctor\hispa\109757.jpg,hispa,11
+D:\Rice\data\paddy_doctor\hispa\109759.jpg,hispa,11
+D:\Rice\data\paddy_doctor\hispa\109786.jpg,hispa,11
+D:\Rice\data\paddy_doctor\hispa\109797.jpg,hispa,11
+D:\Rice\data\paddy_doctor\hispa\109803.jpg,hispa,11
+D:\Rice\data\paddy_doctor\hispa\109826.jpg,hispa,11
+D:\Rice\data\paddy_doctor\hispa\109847.jpg,hispa,11
+D:\Rice\data\paddy_doctor\hispa\109855.jpg,hispa,11
+D:\Rice\data\paddy_doctor\hispa\109992.jpg,hispa,11
+D:\Rice\data\paddy_doctor\hispa\110133.jpg,hispa,11
+D:\Rice\data\paddy_doctor\hispa\110191.jpg,hispa,11
+D:\Rice\data\paddy_doctor\hispa\110196.jpg,hispa,11
+D:\Rice\data\paddy_doctor\hispa\110225.jpg,hispa,11
+D:\Rice\data\paddy_doctor\hispa\110377.jpg,hispa,11
+D:\Rice\data\paddy_doctor\hispa\110383.jpg,hispa,11
+D:\Rice\data\paddy_doctor\hispa\110399.jpg,hispa,11
+D:\Rice\data\paddy_doctor\normal\100109.jpg,healthy,10
+D:\Rice\data\paddy_doctor\normal\100172.jpg,healthy,10
+D:\Rice\data\paddy_doctor\normal\100176.jpg,healthy,10
+D:\Rice\data\paddy_doctor\normal\100283.jpg,healthy,10
+D:\Rice\data\paddy_doctor\normal\100324.jpg,healthy,10
+D:\Rice\data\paddy_doctor\normal\100332.jpg,healthy,10
+D:\Rice\data\paddy_doctor\normal\100376.jpg,healthy,10
+D:\Rice\data\paddy_doctor\normal\100392.jpg,healthy,10
+D:\Rice\data\paddy_doctor\normal\100419.jpg,healthy,10
+D:\Rice\data\paddy_doctor\normal\100441.jpg,healthy,10
+D:\Rice\data\paddy_doctor\normal\100506.jpg,healthy,10
+D:\Rice\data\paddy_doctor\normal\100544.jpg,healthy,10
+D:\Rice\data\paddy_doctor\normal\100549.jpg,healthy,10
+D:\Rice\data\paddy_doctor\normal\100663.jpg,healthy,10
+D:\Rice\data\paddy_doctor\normal\100693.jpg,healthy,10
+D:\Rice\data\paddy_doctor\normal\100729.jpg,healthy,10
+D:\Rice\data\paddy_doctor\normal\100777.jpg,healthy,10
+D:\Rice\data\paddy_doctor\normal\100802.jpg,healthy,10
+D:\Rice\data\paddy_doctor\normal\100816.jpg,healthy,10
+D:\Rice\data\paddy_doctor\normal\100917.jpg,healthy,10
+D:\Rice\data\paddy_doctor\normal\100928.jpg,healthy,10
+D:\Rice\data\paddy_doctor\normal\100973.jpg,healthy,10
+D:\Rice\data\paddy_doctor\normal\101030.jpg,healthy,10
+D:\Rice\data\paddy_doctor\normal\101111.jpg,healthy,10
+D:\Rice\data\paddy_doctor\normal\101112.jpg,healthy,10
+D:\Rice\data\paddy_doctor\normal\101166.jpg,healthy,10
+D:\Rice\data\paddy_doctor\normal\101197.jpg,healthy,10
+D:\Rice\data\paddy_doctor\normal\101256.jpg,healthy,10
+D:\Rice\data\paddy_doctor\normal\101314.jpg,healthy,10
+D:\Rice\data\paddy_doctor\normal\101438.jpg,healthy,10
+D:\Rice\data\paddy_doctor\normal\101444.jpg,healthy,10
+D:\Rice\data\paddy_doctor\normal\101542.jpg,healthy,10
+D:\Rice\data\paddy_doctor\normal\101563.jpg,healthy,10
+D:\Rice\data\paddy_doctor\normal\101575.jpg,healthy,10
+D:\Rice\data\paddy_doctor\normal\101616.jpg,healthy,10
+D:\Rice\data\paddy_doctor\normal\101677.jpg,healthy,10
+D:\Rice\data\paddy_doctor\normal\101716.jpg,healthy,10
+D:\Rice\data\paddy_doctor\normal\101753.jpg,healthy,10
+D:\Rice\data\paddy_doctor\normal\101831.jpg,healthy,10
+D:\Rice\data\paddy_doctor\normal\101837.jpg,healthy,10
+D:\Rice\data\paddy_doctor\normal\101848.jpg,healthy,10
+D:\Rice\data\paddy_doctor\normal\101958.jpg,healthy,10
+D:\Rice\data\paddy_doctor\normal\102025.jpg,healthy,10
+D:\Rice\data\paddy_doctor\normal\102232.jpg,healthy,10
+D:\Rice\data\paddy_doctor\normal\102315.jpg,healthy,10
+D:\Rice\data\paddy_doctor\normal\102332.jpg,healthy,10
+D:\Rice\data\paddy_doctor\normal\102359.jpg,healthy,10
+D:\Rice\data\paddy_doctor\normal\102370.jpg,healthy,10
+D:\Rice\data\paddy_doctor\normal\102377.jpg,healthy,10
+D:\Rice\data\paddy_doctor\normal\102451.jpg,healthy,10
+D:\Rice\data\paddy_doctor\normal\102526.jpg,healthy,10
+D:\Rice\data\paddy_doctor\normal\102572.jpg,healthy,10
+D:\Rice\data\paddy_doctor\normal\102593.jpg,healthy,10
+D:\Rice\data\paddy_doctor\normal\102594.jpg,healthy,10
+D:\Rice\data\paddy_doctor\normal\102637.jpg,healthy,10
+D:\Rice\data\paddy_doctor\normal\102650.jpg,healthy,10
+D:\Rice\data\paddy_doctor\normal\102693.jpg,healthy,10
+D:\Rice\data\paddy_doctor\normal\102718.jpg,healthy,10
+D:\Rice\data\paddy_doctor\normal\102873.jpg,healthy,10
+D:\Rice\data\paddy_doctor\normal\102888.jpg,healthy,10
+D:\Rice\data\paddy_doctor\normal\102930.jpg,healthy,10
+D:\Rice\data\paddy_doctor\normal\102950.jpg,healthy,10
+D:\Rice\data\paddy_doctor\normal\102975.jpg,healthy,10
+D:\Rice\data\paddy_doctor\normal\103009.jpg,healthy,10
+D:\Rice\data\paddy_doctor\normal\103016.jpg,healthy,10
+D:\Rice\data\paddy_doctor\normal\103101.jpg,healthy,10
+D:\Rice\data\paddy_doctor\normal\103112.jpg,healthy,10
+D:\Rice\data\paddy_doctor\normal\103137.jpg,healthy,10
+D:\Rice\data\paddy_doctor\normal\103167.jpg,healthy,10
+D:\Rice\data\paddy_doctor\normal\103175.jpg,healthy,10
+D:\Rice\data\paddy_doctor\normal\103213.jpg,healthy,10
+D:\Rice\data\paddy_doctor\normal\103282.jpg,healthy,10
+D:\Rice\data\paddy_doctor\normal\103309.jpg,healthy,10
+D:\Rice\data\paddy_doctor\normal\103353.jpg,healthy,10
+D:\Rice\data\paddy_doctor\normal\103433.jpg,healthy,10
+D:\Rice\data\paddy_doctor\normal\103462.jpg,healthy,10
+D:\Rice\data\paddy_doctor\normal\103473.jpg,healthy,10
+D:\Rice\data\paddy_doctor\normal\103543.jpg,healthy,10
+D:\Rice\data\paddy_doctor\normal\103564.jpg,healthy,10
+D:\Rice\data\paddy_doctor\normal\103593.jpg,healthy,10
+D:\Rice\data\paddy_doctor\normal\103643.jpg,healthy,10
+D:\Rice\data\paddy_doctor\normal\103701.jpg,healthy,10
+D:\Rice\data\paddy_doctor\normal\103721.jpg,healthy,10
+D:\Rice\data\paddy_doctor\normal\103723.jpg,healthy,10
+D:\Rice\data\paddy_doctor\normal\103763.jpg,healthy,10
+D:\Rice\data\paddy_doctor\normal\103846.jpg,healthy,10
+D:\Rice\data\paddy_doctor\normal\103849.jpg,healthy,10
+D:\Rice\data\paddy_doctor\normal\103876.jpg,healthy,10
+D:\Rice\data\paddy_doctor\normal\103879.jpg,healthy,10
+D:\Rice\data\paddy_doctor\normal\103904.jpg,healthy,10
+D:\Rice\data\paddy_doctor\normal\103916.jpg,healthy,10
+D:\Rice\data\paddy_doctor\normal\103922.jpg,healthy,10
+D:\Rice\data\paddy_doctor\normal\103960.jpg,healthy,10
+D:\Rice\data\paddy_doctor\normal\103982.jpg,healthy,10
+D:\Rice\data\paddy_doctor\normal\104010.jpg,healthy,10
+D:\Rice\data\paddy_doctor\normal\104013.jpg,healthy,10
+D:\Rice\data\paddy_doctor\normal\104051.jpg,healthy,10
+D:\Rice\data\paddy_doctor\normal\104137.jpg,healthy,10
+D:\Rice\data\paddy_doctor\normal\104252.jpg,healthy,10
+D:\Rice\data\paddy_doctor\normal\104277.jpg,healthy,10
+D:\Rice\data\paddy_doctor\normal\104295.jpg,healthy,10
+D:\Rice\data\paddy_doctor\normal\104303.jpg,healthy,10
+D:\Rice\data\paddy_doctor\normal\104313.jpg,healthy,10
+D:\Rice\data\paddy_doctor\normal\104323.jpg,healthy,10
+D:\Rice\data\paddy_doctor\normal\104388.jpg,healthy,10
+D:\Rice\data\paddy_doctor\normal\104396.jpg,healthy,10
+D:\Rice\data\paddy_doctor\normal\104497.jpg,healthy,10
+D:\Rice\data\paddy_doctor\normal\104534.jpg,healthy,10
+D:\Rice\data\paddy_doctor\normal\104598.jpg,healthy,10
+D:\Rice\data\paddy_doctor\normal\104600.jpg,healthy,10
+D:\Rice\data\paddy_doctor\normal\104668.jpg,healthy,10
+D:\Rice\data\paddy_doctor\normal\104680.jpg,healthy,10
+D:\Rice\data\paddy_doctor\normal\104727.jpg,healthy,10
+D:\Rice\data\paddy_doctor\normal\104755.jpg,healthy,10
+D:\Rice\data\paddy_doctor\normal\104789.jpg,healthy,10
+D:\Rice\data\paddy_doctor\normal\104840.jpg,healthy,10
+D:\Rice\data\paddy_doctor\normal\104889.jpg,healthy,10
+D:\Rice\data\paddy_doctor\normal\104893.jpg,healthy,10
+D:\Rice\data\paddy_doctor\normal\104897.jpg,healthy,10
+D:\Rice\data\paddy_doctor\normal\104963.jpg,healthy,10
+D:\Rice\data\paddy_doctor\normal\105084.jpg,healthy,10
+D:\Rice\data\paddy_doctor\normal\105114.jpg,healthy,10
+D:\Rice\data\paddy_doctor\normal\105144.jpg,healthy,10
+D:\Rice\data\paddy_doctor\normal\105154.jpg,healthy,10
+D:\Rice\data\paddy_doctor\normal\105289.jpg,healthy,10
+D:\Rice\data\paddy_doctor\normal\105328.jpg,healthy,10
+D:\Rice\data\paddy_doctor\normal\105337.jpg,healthy,10
+D:\Rice\data\paddy_doctor\normal\105341.jpg,healthy,10
+D:\Rice\data\paddy_doctor\normal\105343.jpg,healthy,10
+D:\Rice\data\paddy_doctor\normal\105448.jpg,healthy,10
+D:\Rice\data\paddy_doctor\normal\105459.jpg,healthy,10
+D:\Rice\data\paddy_doctor\normal\105460.jpg,healthy,10
+D:\Rice\data\paddy_doctor\normal\105484.jpg,healthy,10
+D:\Rice\data\paddy_doctor\normal\105508.jpg,healthy,10
+D:\Rice\data\paddy_doctor\normal\105534.jpg,healthy,10
+D:\Rice\data\paddy_doctor\normal\105542.jpg,healthy,10
+D:\Rice\data\paddy_doctor\normal\105545.jpg,healthy,10
+D:\Rice\data\paddy_doctor\normal\105655.jpg,healthy,10
+D:\Rice\data\paddy_doctor\normal\105676.jpg,healthy,10
+D:\Rice\data\paddy_doctor\normal\105690.jpg,healthy,10
+D:\Rice\data\paddy_doctor\normal\105766.jpg,healthy,10
+D:\Rice\data\paddy_doctor\normal\105806.jpg,healthy,10
+D:\Rice\data\paddy_doctor\normal\105829.jpg,healthy,10
+D:\Rice\data\paddy_doctor\normal\105842.jpg,healthy,10
+D:\Rice\data\paddy_doctor\normal\105843.jpg,healthy,10
+D:\Rice\data\paddy_doctor\normal\105849.jpg,healthy,10
+D:\Rice\data\paddy_doctor\normal\105869.jpg,healthy,10
+D:\Rice\data\paddy_doctor\normal\106014.jpg,healthy,10
+D:\Rice\data\paddy_doctor\normal\106035.jpg,healthy,10
+D:\Rice\data\paddy_doctor\normal\106177.jpg,healthy,10
+D:\Rice\data\paddy_doctor\normal\106213.jpg,healthy,10
+D:\Rice\data\paddy_doctor\normal\106315.jpg,healthy,10
+D:\Rice\data\paddy_doctor\normal\106363.jpg,healthy,10
+D:\Rice\data\paddy_doctor\normal\106385.jpg,healthy,10
+D:\Rice\data\paddy_doctor\normal\106391.jpg,healthy,10
+D:\Rice\data\paddy_doctor\normal\106404.jpg,healthy,10
+D:\Rice\data\paddy_doctor\normal\106512.jpg,healthy,10
+D:\Rice\data\paddy_doctor\normal\106522.jpg,healthy,10
+D:\Rice\data\paddy_doctor\normal\106551.jpg,healthy,10
+D:\Rice\data\paddy_doctor\normal\106688.jpg,healthy,10
+D:\Rice\data\paddy_doctor\normal\106694.jpg,healthy,10
+D:\Rice\data\paddy_doctor\normal\106703.jpg,healthy,10
+D:\Rice\data\paddy_doctor\normal\106714.jpg,healthy,10
+D:\Rice\data\paddy_doctor\normal\106717.jpg,healthy,10
+D:\Rice\data\paddy_doctor\normal\106722.jpg,healthy,10
+D:\Rice\data\paddy_doctor\normal\106795.jpg,healthy,10
+D:\Rice\data\paddy_doctor\normal\106831.jpg,healthy,10
+D:\Rice\data\paddy_doctor\normal\106852.jpg,healthy,10
+D:\Rice\data\paddy_doctor\normal\106931.jpg,healthy,10
+D:\Rice\data\paddy_doctor\normal\106932.jpg,healthy,10
+D:\Rice\data\paddy_doctor\normal\106956.jpg,healthy,10
+D:\Rice\data\paddy_doctor\normal\107060.jpg,healthy,10
+D:\Rice\data\paddy_doctor\normal\107115.jpg,healthy,10
+D:\Rice\data\paddy_doctor\normal\107175.jpg,healthy,10
+D:\Rice\data\paddy_doctor\normal\107259.jpg,healthy,10
+D:\Rice\data\paddy_doctor\normal\107267.jpg,healthy,10
+D:\Rice\data\paddy_doctor\normal\107280.jpg,healthy,10
+D:\Rice\data\paddy_doctor\normal\107381.jpg,healthy,10
+D:\Rice\data\paddy_doctor\normal\107442.jpg,healthy,10
+D:\Rice\data\paddy_doctor\normal\107491.jpg,healthy,10
+D:\Rice\data\paddy_doctor\normal\107497.jpg,healthy,10
+D:\Rice\data\paddy_doctor\normal\107507.jpg,healthy,10
+D:\Rice\data\paddy_doctor\normal\107509.jpg,healthy,10
+D:\Rice\data\paddy_doctor\normal\107527.jpg,healthy,10
+D:\Rice\data\paddy_doctor\normal\107551.jpg,healthy,10
+D:\Rice\data\paddy_doctor\normal\107613.jpg,healthy,10
+D:\Rice\data\paddy_doctor\normal\107685.jpg,healthy,10
+D:\Rice\data\paddy_doctor\normal\107708.jpg,healthy,10
+D:\Rice\data\paddy_doctor\normal\107778.jpg,healthy,10
+D:\Rice\data\paddy_doctor\normal\107808.jpg,healthy,10
+D:\Rice\data\paddy_doctor\normal\107909.jpg,healthy,10
+D:\Rice\data\paddy_doctor\normal\107945.jpg,healthy,10
+D:\Rice\data\paddy_doctor\normal\108012.jpg,healthy,10
+D:\Rice\data\paddy_doctor\normal\108058.jpg,healthy,10
+D:\Rice\data\paddy_doctor\normal\108134.jpg,healthy,10
+D:\Rice\data\paddy_doctor\normal\108196.jpg,healthy,10
+D:\Rice\data\paddy_doctor\normal\108208.jpg,healthy,10
+D:\Rice\data\paddy_doctor\normal\108242.jpg,healthy,10
+D:\Rice\data\paddy_doctor\normal\108299.jpg,healthy,10
+D:\Rice\data\paddy_doctor\normal\108325.jpg,healthy,10
+D:\Rice\data\paddy_doctor\normal\108355.jpg,healthy,10
+D:\Rice\data\paddy_doctor\normal\108388.jpg,healthy,10
+D:\Rice\data\paddy_doctor\normal\108444.jpg,healthy,10
+D:\Rice\data\paddy_doctor\normal\108478.jpg,healthy,10
+D:\Rice\data\paddy_doctor\normal\108480.jpg,healthy,10
+D:\Rice\data\paddy_doctor\normal\108485.jpg,healthy,10
+D:\Rice\data\paddy_doctor\normal\108525.jpg,healthy,10
+D:\Rice\data\paddy_doctor\normal\108556.jpg,healthy,10
+D:\Rice\data\paddy_doctor\normal\108580.jpg,healthy,10
+D:\Rice\data\paddy_doctor\normal\108614.jpg,healthy,10
+D:\Rice\data\paddy_doctor\normal\108629.jpg,healthy,10
+D:\Rice\data\paddy_doctor\normal\108634.jpg,healthy,10
+D:\Rice\data\paddy_doctor\normal\108657.jpg,healthy,10
+D:\Rice\data\paddy_doctor\normal\108672.jpg,healthy,10
+D:\Rice\data\paddy_doctor\normal\108726.jpg,healthy,10
+D:\Rice\data\paddy_doctor\normal\108769.jpg,healthy,10
+D:\Rice\data\paddy_doctor\normal\108806.jpg,healthy,10
+D:\Rice\data\paddy_doctor\normal\108842.jpg,healthy,10
+D:\Rice\data\paddy_doctor\normal\108889.jpg,healthy,10
+D:\Rice\data\paddy_doctor\normal\108919.jpg,healthy,10
+D:\Rice\data\paddy_doctor\normal\108958.jpg,healthy,10
+D:\Rice\data\paddy_doctor\normal\109041.jpg,healthy,10
+D:\Rice\data\paddy_doctor\normal\109050.jpg,healthy,10
+D:\Rice\data\paddy_doctor\normal\109054.jpg,healthy,10
+D:\Rice\data\paddy_doctor\normal\109061.jpg,healthy,10
+D:\Rice\data\paddy_doctor\normal\109087.jpg,healthy,10
+D:\Rice\data\paddy_doctor\normal\109333.jpg,healthy,10
+D:\Rice\data\paddy_doctor\normal\109348.jpg,healthy,10
+D:\Rice\data\paddy_doctor\normal\109363.jpg,healthy,10
+D:\Rice\data\paddy_doctor\normal\109386.jpg,healthy,10
+D:\Rice\data\paddy_doctor\normal\109426.jpg,healthy,10
+D:\Rice\data\paddy_doctor\normal\109463.jpg,healthy,10
+D:\Rice\data\paddy_doctor\normal\109471.jpg,healthy,10
+D:\Rice\data\paddy_doctor\normal\109480.jpg,healthy,10
+D:\Rice\data\paddy_doctor\normal\109483.jpg,healthy,10
+D:\Rice\data\paddy_doctor\normal\109521.jpg,healthy,10
+D:\Rice\data\paddy_doctor\normal\109659.jpg,healthy,10
+D:\Rice\data\paddy_doctor\normal\109675.jpg,healthy,10
+D:\Rice\data\paddy_doctor\normal\109760.jpg,healthy,10
+D:\Rice\data\paddy_doctor\normal\109781.jpg,healthy,10
+D:\Rice\data\paddy_doctor\normal\109877.jpg,healthy,10
+D:\Rice\data\paddy_doctor\normal\109915.jpg,healthy,10
+D:\Rice\data\paddy_doctor\normal\109974.jpg,healthy,10
+D:\Rice\data\paddy_doctor\normal\109990.jpg,healthy,10
+D:\Rice\data\paddy_doctor\normal\109997.jpg,healthy,10
+D:\Rice\data\paddy_doctor\normal\110012.jpg,healthy,10
+D:\Rice\data\paddy_doctor\normal\110281.jpg,healthy,10
+D:\Rice\data\paddy_doctor\normal\110404.jpg,healthy,10
+D:\Rice\data\paddy_doctor\tungro\100011.jpg,tungro,18
+D:\Rice\data\paddy_doctor\tungro\100013.jpg,tungro,18
+D:\Rice\data\paddy_doctor\tungro\100014.jpg,tungro,18
+D:\Rice\data\paddy_doctor\tungro\100140.jpg,tungro,18
+D:\Rice\data\paddy_doctor\tungro\100333.jpg,tungro,18
+D:\Rice\data\paddy_doctor\tungro\100342.jpg,tungro,18
+D:\Rice\data\paddy_doctor\tungro\100464.jpg,tungro,18
+D:\Rice\data\paddy_doctor\tungro\100471.jpg,tungro,18
+D:\Rice\data\paddy_doctor\tungro\100557.jpg,tungro,18
+D:\Rice\data\paddy_doctor\tungro\100614.jpg,tungro,18
+D:\Rice\data\paddy_doctor\tungro\100689.jpg,tungro,18
+D:\Rice\data\paddy_doctor\tungro\100968.jpg,tungro,18
+D:\Rice\data\paddy_doctor\tungro\100990.jpg,tungro,18
+D:\Rice\data\paddy_doctor\tungro\101008.jpg,tungro,18
+D:\Rice\data\paddy_doctor\tungro\101036.jpg,tungro,18
+D:\Rice\data\paddy_doctor\tungro\101207.jpg,tungro,18
+D:\Rice\data\paddy_doctor\tungro\101243.jpg,tungro,18
+D:\Rice\data\paddy_doctor\tungro\101301.jpg,tungro,18
+D:\Rice\data\paddy_doctor\tungro\101399.jpg,tungro,18
+D:\Rice\data\paddy_doctor\tungro\101437.jpg,tungro,18
+D:\Rice\data\paddy_doctor\tungro\101445.jpg,tungro,18
+D:\Rice\data\paddy_doctor\tungro\101482.jpg,tungro,18
+D:\Rice\data\paddy_doctor\tungro\101726.jpg,tungro,18
+D:\Rice\data\paddy_doctor\tungro\101733.jpg,tungro,18
+D:\Rice\data\paddy_doctor\tungro\101889.jpg,tungro,18
+D:\Rice\data\paddy_doctor\tungro\101949.jpg,tungro,18
+D:\Rice\data\paddy_doctor\tungro\101978.jpg,tungro,18
+D:\Rice\data\paddy_doctor\tungro\102014.jpg,tungro,18
+D:\Rice\data\paddy_doctor\tungro\102024.jpg,tungro,18
+D:\Rice\data\paddy_doctor\tungro\102037.jpg,tungro,18
+D:\Rice\data\paddy_doctor\tungro\102040.jpg,tungro,18
+D:\Rice\data\paddy_doctor\tungro\102294.jpg,tungro,18
+D:\Rice\data\paddy_doctor\tungro\102324.jpg,tungro,18
+D:\Rice\data\paddy_doctor\tungro\102398.jpg,tungro,18
+D:\Rice\data\paddy_doctor\tungro\102416.jpg,tungro,18
+D:\Rice\data\paddy_doctor\tungro\102417.jpg,tungro,18
+D:\Rice\data\paddy_doctor\tungro\102509.jpg,tungro,18
+D:\Rice\data\paddy_doctor\tungro\102539.jpg,tungro,18
+D:\Rice\data\paddy_doctor\tungro\102664.jpg,tungro,18
+D:\Rice\data\paddy_doctor\tungro\102730.jpg,tungro,18
+D:\Rice\data\paddy_doctor\tungro\102907.jpg,tungro,18
+D:\Rice\data\paddy_doctor\tungro\103089.jpg,tungro,18
+D:\Rice\data\paddy_doctor\tungro\103170.jpg,tungro,18
+D:\Rice\data\paddy_doctor\tungro\103202.jpg,tungro,18
+D:\Rice\data\paddy_doctor\tungro\103281.jpg,tungro,18
+D:\Rice\data\paddy_doctor\tungro\103351.jpg,tungro,18
+D:\Rice\data\paddy_doctor\tungro\103356.jpg,tungro,18
+D:\Rice\data\paddy_doctor\tungro\103364.jpg,tungro,18
+D:\Rice\data\paddy_doctor\tungro\103373.jpg,tungro,18
+D:\Rice\data\paddy_doctor\tungro\103420.jpg,tungro,18
+D:\Rice\data\paddy_doctor\tungro\103655.jpg,tungro,18
+D:\Rice\data\paddy_doctor\tungro\103729.jpg,tungro,18
+D:\Rice\data\paddy_doctor\tungro\104016.jpg,tungro,18
+D:\Rice\data\paddy_doctor\tungro\104063.jpg,tungro,18
+D:\Rice\data\paddy_doctor\tungro\104085.jpg,tungro,18
+D:\Rice\data\paddy_doctor\tungro\104094.jpg,tungro,18
+D:\Rice\data\paddy_doctor\tungro\104219.jpg,tungro,18
+D:\Rice\data\paddy_doctor\tungro\104229.jpg,tungro,18
+D:\Rice\data\paddy_doctor\tungro\104234.jpg,tungro,18
+D:\Rice\data\paddy_doctor\tungro\104289.jpg,tungro,18
+D:\Rice\data\paddy_doctor\tungro\104345.jpg,tungro,18
+D:\Rice\data\paddy_doctor\tungro\104367.jpg,tungro,18
+D:\Rice\data\paddy_doctor\tungro\104579.jpg,tungro,18
+D:\Rice\data\paddy_doctor\tungro\104652.jpg,tungro,18
+D:\Rice\data\paddy_doctor\tungro\104655.jpg,tungro,18
+D:\Rice\data\paddy_doctor\tungro\104658.jpg,tungro,18
+D:\Rice\data\paddy_doctor\tungro\104759.jpg,tungro,18
+D:\Rice\data\paddy_doctor\tungro\104763.jpg,tungro,18
+D:\Rice\data\paddy_doctor\tungro\104830.jpg,tungro,18
+D:\Rice\data\paddy_doctor\tungro\104949.jpg,tungro,18
+D:\Rice\data\paddy_doctor\tungro\104970.jpg,tungro,18
+D:\Rice\data\paddy_doctor\tungro\104995.jpg,tungro,18
+D:\Rice\data\paddy_doctor\tungro\105016.jpg,tungro,18
+D:\Rice\data\paddy_doctor\tungro\105104.jpg,tungro,18
+D:\Rice\data\paddy_doctor\tungro\105189.jpg,tungro,18
+D:\Rice\data\paddy_doctor\tungro\105231.jpg,tungro,18
+D:\Rice\data\paddy_doctor\tungro\105311.jpg,tungro,18
+D:\Rice\data\paddy_doctor\tungro\105449.jpg,tungro,18
+D:\Rice\data\paddy_doctor\tungro\105575.jpg,tungro,18
+D:\Rice\data\paddy_doctor\tungro\105654.jpg,tungro,18
+D:\Rice\data\paddy_doctor\tungro\105680.jpg,tungro,18
+D:\Rice\data\paddy_doctor\tungro\105718.jpg,tungro,18
+D:\Rice\data\paddy_doctor\tungro\105738.jpg,tungro,18
+D:\Rice\data\paddy_doctor\tungro\105785.jpg,tungro,18
+D:\Rice\data\paddy_doctor\tungro\105797.jpg,tungro,18
+D:\Rice\data\paddy_doctor\tungro\105847.jpg,tungro,18
+D:\Rice\data\paddy_doctor\tungro\105881.jpg,tungro,18
+D:\Rice\data\paddy_doctor\tungro\105973.jpg,tungro,18
+D:\Rice\data\paddy_doctor\tungro\106139.jpg,tungro,18
+D:\Rice\data\paddy_doctor\tungro\106303.jpg,tungro,18
+D:\Rice\data\paddy_doctor\tungro\106389.jpg,tungro,18
+D:\Rice\data\paddy_doctor\tungro\106558.jpg,tungro,18
+D:\Rice\data\paddy_doctor\tungro\106669.jpg,tungro,18
+D:\Rice\data\paddy_doctor\tungro\106684.jpg,tungro,18
+D:\Rice\data\paddy_doctor\tungro\106691.jpg,tungro,18
+D:\Rice\data\paddy_doctor\tungro\106699.jpg,tungro,18
+D:\Rice\data\paddy_doctor\tungro\106716.jpg,tungro,18
+D:\Rice\data\paddy_doctor\tungro\106719.jpg,tungro,18
+D:\Rice\data\paddy_doctor\tungro\106723.jpg,tungro,18
+D:\Rice\data\paddy_doctor\tungro\106724.jpg,tungro,18
+D:\Rice\data\paddy_doctor\tungro\106764.jpg,tungro,18
+D:\Rice\data\paddy_doctor\tungro\106851.jpg,tungro,18
+D:\Rice\data\paddy_doctor\tungro\106883.jpg,tungro,18
+D:\Rice\data\paddy_doctor\tungro\106891.jpg,tungro,18
+D:\Rice\data\paddy_doctor\tungro\106902.jpg,tungro,18
+D:\Rice\data\paddy_doctor\tungro\106913.jpg,tungro,18
+D:\Rice\data\paddy_doctor\tungro\106944.jpg,tungro,18
+D:\Rice\data\paddy_doctor\tungro\107009.jpg,tungro,18
+D:\Rice\data\paddy_doctor\tungro\107089.jpg,tungro,18
+D:\Rice\data\paddy_doctor\tungro\107242.jpg,tungro,18
+D:\Rice\data\paddy_doctor\tungro\107258.jpg,tungro,18
+D:\Rice\data\paddy_doctor\tungro\107371.jpg,tungro,18
+D:\Rice\data\paddy_doctor\tungro\107586.jpg,tungro,18
+D:\Rice\data\paddy_doctor\tungro\107605.jpg,tungro,18
+D:\Rice\data\paddy_doctor\tungro\107606.jpg,tungro,18
+D:\Rice\data\paddy_doctor\tungro\107686.jpg,tungro,18
+D:\Rice\data\paddy_doctor\tungro\107705.jpg,tungro,18
+D:\Rice\data\paddy_doctor\tungro\107754.jpg,tungro,18
+D:\Rice\data\paddy_doctor\tungro\107801.jpg,tungro,18
+D:\Rice\data\paddy_doctor\tungro\107811.jpg,tungro,18
+D:\Rice\data\paddy_doctor\tungro\107869.jpg,tungro,18
+D:\Rice\data\paddy_doctor\tungro\107930.jpg,tungro,18
+D:\Rice\data\paddy_doctor\tungro\108040.jpg,tungro,18
+D:\Rice\data\paddy_doctor\tungro\108042.jpg,tungro,18
+D:\Rice\data\paddy_doctor\tungro\108106.jpg,tungro,18
+D:\Rice\data\paddy_doctor\tungro\108407.jpg,tungro,18
+D:\Rice\data\paddy_doctor\tungro\108417.jpg,tungro,18
+D:\Rice\data\paddy_doctor\tungro\108445.jpg,tungro,18
+D:\Rice\data\paddy_doctor\tungro\108602.jpg,tungro,18
+D:\Rice\data\paddy_doctor\tungro\108648.jpg,tungro,18
+D:\Rice\data\paddy_doctor\tungro\108680.jpg,tungro,18
+D:\Rice\data\paddy_doctor\tungro\108694.jpg,tungro,18
+D:\Rice\data\paddy_doctor\tungro\108734.jpg,tungro,18
+D:\Rice\data\paddy_doctor\tungro\108756.jpg,tungro,18
+D:\Rice\data\paddy_doctor\tungro\108887.jpg,tungro,18
+D:\Rice\data\paddy_doctor\tungro\108971.jpg,tungro,18
+D:\Rice\data\paddy_doctor\tungro\109122.jpg,tungro,18
+D:\Rice\data\paddy_doctor\tungro\109147.jpg,tungro,18
+D:\Rice\data\paddy_doctor\tungro\109163.jpg,tungro,18
+D:\Rice\data\paddy_doctor\tungro\109167.jpg,tungro,18
+D:\Rice\data\paddy_doctor\tungro\109279.jpg,tungro,18
+D:\Rice\data\paddy_doctor\tungro\109389.jpg,tungro,18
+D:\Rice\data\paddy_doctor\tungro\109406.jpg,tungro,18
+D:\Rice\data\paddy_doctor\tungro\109417.jpg,tungro,18
+D:\Rice\data\paddy_doctor\tungro\109538.jpg,tungro,18
+D:\Rice\data\paddy_doctor\tungro\109706.jpg,tungro,18
+D:\Rice\data\paddy_doctor\tungro\109721.jpg,tungro,18
+D:\Rice\data\paddy_doctor\tungro\109982.jpg,tungro,18
+D:\Rice\data\paddy_doctor\tungro\110199.jpg,tungro,18
+D:\Rice\data\paddy_doctor\tungro\110218.jpg,tungro,18
+D:\Rice\data\paddy_doctor\tungro\110297.jpg,tungro,18
+D:\Rice\data\paddy_doctor\tungro\110358.jpg,tungro,18
+D:\Rice\data\paddy_doctor\tungro\110403.jpg,tungro,18
+D:\Rice\data\philippines\bacterial_leaf_blight\r__BLB_multi_leaf (15).jpg,bacterial_leaf_blight,0
+D:\Rice\data\philippines\bacterial_leaf_blight\r__BLB_multi_leaf (16).jpg,bacterial_leaf_blight,0
+D:\Rice\data\philippines\bacterial_leaf_blight\r__BLB_multi_leaf (24).jpg,bacterial_leaf_blight,0
+D:\Rice\data\philippines\bacterial_leaf_blight\r__BLB_multi_leaf (28).jpg,bacterial_leaf_blight,0
+D:\Rice\data\philippines\bacterial_leaf_blight\r__BLB_multi_leaf (43).jpg,bacterial_leaf_blight,0
+D:\Rice\data\philippines\bacterial_leaf_blight\r__BLB_multi_leaf (48).jpg,bacterial_leaf_blight,0
+D:\Rice\data\philippines\bacterial_leaf_blight\r__BLB_multi_leaf (8).jpg,bacterial_leaf_blight,0
+D:\Rice\data\philippines\bacterial_leaf_blight\r__BLB_multi_leaf(50).jpg,bacterial_leaf_blight,0
+D:\Rice\data\philippines\bacterial_leaf_blight\r__BLB_single (26).jpg,bacterial_leaf_blight,0
+D:\Rice\data\philippines\bacterial_leaf_blight\r__BLB_single (31).jpg,bacterial_leaf_blight,0
+D:\Rice\data\philippines\bacterial_leaf_blight\r__BLB_single (39).jpg,bacterial_leaf_blight,0
+D:\Rice\data\philippines\bacterial_leaf_blight\r__BLB_single (4).jpg,bacterial_leaf_blight,0
+D:\Rice\data\philippines\bacterial_leaf_blight\r__BLB_single (42).jpg,bacterial_leaf_blight,0
+D:\Rice\data\philippines\bacterial_leaf_blight\r__BLB_single (8).jpg,bacterial_leaf_blight,0
+D:\Rice\data\philippines\bacterial_leaf_blight\x__BLB (103).jpg,bacterial_leaf_blight,0
+D:\Rice\data\philippines\bacterial_leaf_blight\x__BLB (112).jpg,bacterial_leaf_blight,0
+D:\Rice\data\philippines\bacterial_leaf_blight\x__BLB (114).jpg,bacterial_leaf_blight,0
+D:\Rice\data\philippines\bacterial_leaf_blight\x__BLB (115).jpg,bacterial_leaf_blight,0
+D:\Rice\data\philippines\bacterial_leaf_blight\x__BLB (126).jpg,bacterial_leaf_blight,0
+D:\Rice\data\philippines\bacterial_leaf_blight\x__BLB (129).jpg,bacterial_leaf_blight,0
+D:\Rice\data\philippines\bacterial_leaf_blight\x__BLB (140).jpg,bacterial_leaf_blight,0
+D:\Rice\data\philippines\bacterial_leaf_blight\x__BLB (16).jpg,bacterial_leaf_blight,0
+D:\Rice\data\philippines\bacterial_leaf_blight\x__BLB (17).jpg,bacterial_leaf_blight,0
+D:\Rice\data\philippines\bacterial_leaf_blight\x__BLB (28).jpg,bacterial_leaf_blight,0
+D:\Rice\data\philippines\bacterial_leaf_blight\x__BLB (29).jpg,bacterial_leaf_blight,0
+D:\Rice\data\philippines\bacterial_leaf_blight\x__BLB (3).jpg,bacterial_leaf_blight,0
+D:\Rice\data\philippines\bacterial_leaf_blight\x__BLB (30).jpg,bacterial_leaf_blight,0
+D:\Rice\data\philippines\bacterial_leaf_blight\x__BLB (4).jpg,bacterial_leaf_blight,0
+D:\Rice\data\philippines\bacterial_leaf_blight\x__BLB (48).jpg,bacterial_leaf_blight,0
+D:\Rice\data\philippines\bacterial_leaf_blight\x__BLB (55).jpg,bacterial_leaf_blight,0
+D:\Rice\data\philippines\bacterial_leaf_blight\x__BLB (57).jpg,bacterial_leaf_blight,0
+D:\Rice\data\philippines\bacterial_leaf_blight\x__BLB (71).jpg,bacterial_leaf_blight,0
+D:\Rice\data\philippines\bacterial_leaf_blight\x__BLB (76).jpg,bacterial_leaf_blight,0
+D:\Rice\data\philippines\bacterial_leaf_blight\x__BLB (81).jpg,bacterial_leaf_blight,0
+D:\Rice\data\philippines\bacterial_leaf_blight\x__BLB (95).jpg,bacterial_leaf_blight,0
+D:\Rice\data\philippines\bacterial_leaf_streak\r__BLS (100).jpg,bacterial_leaf_streak,1
+D:\Rice\data\philippines\bacterial_leaf_streak\r__BLS (13).jpg,bacterial_leaf_streak,1
+D:\Rice\data\philippines\bacterial_leaf_streak\r__BLS (16).jpg,bacterial_leaf_streak,1
+D:\Rice\data\philippines\bacterial_leaf_streak\r__BLS (3).jpg,bacterial_leaf_streak,1
+D:\Rice\data\philippines\bacterial_leaf_streak\r__BLS (30).jpg,bacterial_leaf_streak,1
+D:\Rice\data\philippines\bacterial_leaf_streak\r__BLS (41).jpg,bacterial_leaf_streak,1
+D:\Rice\data\philippines\bacterial_leaf_streak\r__BLS (44).jpg,bacterial_leaf_streak,1
+D:\Rice\data\philippines\bacterial_leaf_streak\r__BLS (48).jpg,bacterial_leaf_streak,1
+D:\Rice\data\philippines\bacterial_leaf_streak\r__BLS (49).jpg,bacterial_leaf_streak,1
+D:\Rice\data\philippines\bacterial_leaf_streak\r__BLS (73).jpg,bacterial_leaf_streak,1
+D:\Rice\data\philippines\bacterial_leaf_streak\r__BLS (75).jpg,bacterial_leaf_streak,1
+D:\Rice\data\philippines\bacterial_leaf_streak\r__BLS (86).jpg,bacterial_leaf_streak,1
+D:\Rice\data\philippines\bacterial_leaf_streak\r__BLS (97).jpg,bacterial_leaf_streak,1
+D:\Rice\data\philippines\bakanae\r__Bakanae (10).jpeg,bakanae,3
+D:\Rice\data\philippines\bakanae\r__Bakanae (20).jpeg,bakanae,3
+D:\Rice\data\philippines\bakanae\r__Bakanae (3).jpeg,bakanae,3
+D:\Rice\data\philippines\bakanae\r__Bakanae (37).jpeg,bakanae,3
+D:\Rice\data\philippines\bakanae\r__Bakanae (4).jpeg,bakanae,3
+D:\Rice\data\philippines\bakanae\r__Bakanae (40).jpeg,bakanae,3
+D:\Rice\data\philippines\bakanae\r__Bakanae (44).jpeg,bakanae,3
+D:\Rice\data\philippines\bakanae\r__Bakanae (52).jpeg,bakanae,3
+D:\Rice\data\philippines\bakanae\r__Bakanae (53).jpeg,bakanae,3
+D:\Rice\data\philippines\bakanae\r__Bakanae (65).jpeg,bakanae,3
+D:\Rice\data\philippines\bakanae\r__Bakanae (72).jpeg,bakanae,3
+D:\Rice\data\philippines\bakanae\r__Bakanae (74).jpeg,bakanae,3
+D:\Rice\data\philippines\bakanae\r__Bakanae (76).jpeg,bakanae,3
+D:\Rice\data\philippines\bakanae\r__Bakanae (85).jpeg,bakanae,3
+D:\Rice\data\philippines\bakanae\r__Bakanae (94).jpeg,bakanae,3
+D:\Rice\data\philippines\brown_spot\r__Brown_Spot_multi_leaf (23).jpg,brown_spot,5
+D:\Rice\data\philippines\brown_spot\r__Brown_Spot_multi_leaf (31).jpg,brown_spot,5
+D:\Rice\data\philippines\brown_spot\r__Brown_Spot_multi_leaf (32).jpg,brown_spot,5
+D:\Rice\data\philippines\brown_spot\r__Brown_Spot_multi_leaf (33).jpg,brown_spot,5
+D:\Rice\data\philippines\brown_spot\r__Brown_Spot_multi_leaf (42).jpg,brown_spot,5
+D:\Rice\data\philippines\brown_spot\r__Brown_Spot_multi_leaf (46).jpg,brown_spot,5
+D:\Rice\data\philippines\brown_spot\r__Brown_Spot_multi_leaf (47).jpg,brown_spot,5
+D:\Rice\data\philippines\brown_spot\r__Brown_Spot_single (12).jpg,brown_spot,5
+D:\Rice\data\philippines\brown_spot\r__Brown_Spot_single (15).jpg,brown_spot,5
+D:\Rice\data\philippines\brown_spot\r__Brown_Spot_single (25).jpg,brown_spot,5
+D:\Rice\data\philippines\brown_spot\r__Brown_Spot_single (40).jpg,brown_spot,5
+D:\Rice\data\philippines\brown_spot\r__Brown_Spot_single (7).jpg,brown_spot,5
+D:\Rice\data\philippines\brown_spot\x__Brown_spot (11).jpg,brown_spot,5
+D:\Rice\data\philippines\brown_spot\x__Brown_spot (112).jpg,brown_spot,5
+D:\Rice\data\philippines\brown_spot\x__Brown_spot (12).jpg,brown_spot,5
+D:\Rice\data\philippines\brown_spot\x__Brown_spot (127).jpg,brown_spot,5
+D:\Rice\data\philippines\brown_spot\x__Brown_spot (137).jpg,brown_spot,5
+D:\Rice\data\philippines\brown_spot\x__Brown_spot (140).jpg,brown_spot,5
+D:\Rice\data\philippines\brown_spot\x__Brown_spot (145).jpg,brown_spot,5
+D:\Rice\data\philippines\brown_spot\x__Brown_spot (15).jpg,brown_spot,5
+D:\Rice\data\philippines\brown_spot\x__Brown_spot (18).jpg,brown_spot,5
+D:\Rice\data\philippines\brown_spot\x__Brown_spot (31).jpg,brown_spot,5
+D:\Rice\data\philippines\brown_spot\x__Brown_spot (49).jpg,brown_spot,5
+D:\Rice\data\philippines\brown_spot\x__Brown_spot (53).jpg,brown_spot,5
+D:\Rice\data\philippines\brown_spot\x__Brown_spot (60).jpg,brown_spot,5
+D:\Rice\data\philippines\brown_spot\x__Brown_spot (74).jpg,brown_spot,5
+D:\Rice\data\philippines\brown_spot\x__Brown_spot (76).jpg,brown_spot,5
+D:\Rice\data\philippines\brown_spot\x__Brown_spot (79).jpg,brown_spot,5
+D:\Rice\data\philippines\brown_spot\x__Brown_spot (80).jpg,brown_spot,5
+D:\Rice\data\philippines\brown_spot\x__Brown_spot (81).jpg,brown_spot,5
+D:\Rice\data\philippines\brown_spot\x__Brown_spot (82).jpg,brown_spot,5
+D:\Rice\data\philippines\brown_spot\x__Brown_spot (84).jpg,brown_spot,5
+D:\Rice\data\philippines\brown_spot\x__Brown_spot (89).jpg,brown_spot,5
+D:\Rice\data\philippines\brown_spot\x__Brown_spot (91).jpg,brown_spot,5
+D:\Rice\data\philippines\brown_spot\x__Brown_spot (95).jpg,brown_spot,5
+D:\Rice\data\philippines\brown_spot\x__Brown_spot (96).jpg,brown_spot,5
+D:\Rice\data\philippines\grassy_stunt_virus\r__Grassy_virus (11).jpeg,grassy_stunt_virus,9
+D:\Rice\data\philippines\grassy_stunt_virus\r__Grassy_virus (13).jpeg,grassy_stunt_virus,9
+D:\Rice\data\philippines\grassy_stunt_virus\r__Grassy_virus (18).jpeg,grassy_stunt_virus,9
+D:\Rice\data\philippines\grassy_stunt_virus\r__Grassy_virus (19).jpeg,grassy_stunt_virus,9
+D:\Rice\data\philippines\grassy_stunt_virus\r__Grassy_virus (24).jpeg,grassy_stunt_virus,9
+D:\Rice\data\philippines\grassy_stunt_virus\r__Grassy_virus (3).jpeg,grassy_stunt_virus,9
+D:\Rice\data\philippines\grassy_stunt_virus\r__Grassy_virus (42).jpeg,grassy_stunt_virus,9
+D:\Rice\data\philippines\grassy_stunt_virus\r__Grassy_virus (43).jpeg,grassy_stunt_virus,9
+D:\Rice\data\philippines\grassy_stunt_virus\r__Grassy_virus (55).jpeg,grassy_stunt_virus,9
+D:\Rice\data\philippines\grassy_stunt_virus\r__Grassy_virus (6).jpeg,grassy_stunt_virus,9
+D:\Rice\data\philippines\grassy_stunt_virus\r__Grassy_virus (63).jpeg,grassy_stunt_virus,9
+D:\Rice\data\philippines\grassy_stunt_virus\r__Grassy_virus (76).jpeg,grassy_stunt_virus,9
+D:\Rice\data\philippines\grassy_stunt_virus\r__Grassy_virus (86).jpeg,grassy_stunt_virus,9
+D:\Rice\data\philippines\grassy_stunt_virus\r__Grassy_virus (91).jpeg,grassy_stunt_virus,9
+D:\Rice\data\philippines\grassy_stunt_virus\r__Grassy_virus (92).jpeg,grassy_stunt_virus,9
+D:\Rice\data\philippines\healthy_rice_plant\r__Healthy (20).jpg,healthy,10
+D:\Rice\data\philippines\healthy_rice_plant\r__Healthy (32).jpg,healthy,10
+D:\Rice\data\philippines\healthy_rice_plant\r__Healthy (33).jpg,healthy,10
+D:\Rice\data\philippines\healthy_rice_plant\r__Healthy (36).jpg,healthy,10
+D:\Rice\data\philippines\healthy_rice_plant\r__Healthy (37).jpg,healthy,10
+D:\Rice\data\philippines\healthy_rice_plant\r__Healthy (4).jpg,healthy,10
+D:\Rice\data\philippines\healthy_rice_plant\r__Healthy (40).jpg,healthy,10
+D:\Rice\data\philippines\healthy_rice_plant\r__Healthy (48).jpg,healthy,10
+D:\Rice\data\philippines\healthy_rice_plant\r__Healthy (57).jpg,healthy,10
+D:\Rice\data\philippines\healthy_rice_plant\r__Healthy (61).jpg,healthy,10
+D:\Rice\data\philippines\healthy_rice_plant\r__Healthy (64).jpg,healthy,10
+D:\Rice\data\philippines\healthy_rice_plant\r__Healthy (69).jpg,healthy,10
+D:\Rice\data\philippines\healthy_rice_plant\r__Healthy (73).jpg,healthy,10
+D:\Rice\data\philippines\healthy_rice_plant\r__Healthy (74).jpg,healthy,10
+D:\Rice\data\philippines\healthy_rice_plant\r__Healthy (75).jpg,healthy,10
+D:\Rice\data\philippines\healthy_rice_plant\r__Healthy (99).jpg,healthy,10
+D:\Rice\data\philippines\healthy_rice_plant\x__Healthy (106).jpg,healthy,10
+D:\Rice\data\philippines\healthy_rice_plant\x__Healthy (108).jpg,healthy,10
+D:\Rice\data\philippines\healthy_rice_plant\x__Healthy (111).jpg,healthy,10
+D:\Rice\data\philippines\healthy_rice_plant\x__Healthy (130).jpg,healthy,10
+D:\Rice\data\philippines\healthy_rice_plant\x__Healthy (133).jpg,healthy,10
+D:\Rice\data\philippines\healthy_rice_plant\x__Healthy (19).jpg,healthy,10
+D:\Rice\data\philippines\healthy_rice_plant\x__Healthy (31).jpg,healthy,10
+D:\Rice\data\philippines\healthy_rice_plant\x__Healthy (32).jpg,healthy,10
+D:\Rice\data\philippines\healthy_rice_plant\x__Healthy (35).jpg,healthy,10
+D:\Rice\data\philippines\healthy_rice_plant\x__Healthy (36).jpg,healthy,10
+D:\Rice\data\philippines\healthy_rice_plant\x__Healthy (39).jpg,healthy,10
+D:\Rice\data\philippines\healthy_rice_plant\x__Healthy (4).jpg,healthy,10
+D:\Rice\data\philippines\healthy_rice_plant\x__Healthy (44).jpg,healthy,10
+D:\Rice\data\philippines\healthy_rice_plant\x__Healthy (46).jpg,healthy,10
+D:\Rice\data\philippines\healthy_rice_plant\x__Healthy (48).jpg,healthy,10
+D:\Rice\data\philippines\healthy_rice_plant\x__Healthy (55).jpg,healthy,10
+D:\Rice\data\philippines\healthy_rice_plant\x__Healthy (56).jpg,healthy,10
+D:\Rice\data\philippines\healthy_rice_plant\x__Healthy (78).jpg,healthy,10
+D:\Rice\data\philippines\healthy_rice_plant\x__Healthy (93).jpg,healthy,10
+D:\Rice\data\philippines\healthy_rice_plant\x__Healthy (97).jpg,healthy,10
+D:\Rice\data\philippines\narrow_brown_spot\r__narrow_brown (12).jpg,narrow_brown_spot,13
+D:\Rice\data\philippines\narrow_brown_spot\r__narrow_brown (20).jpg,narrow_brown_spot,13
+D:\Rice\data\philippines\narrow_brown_spot\r__narrow_brown (24).jpg,narrow_brown_spot,13
+D:\Rice\data\philippines\narrow_brown_spot\r__narrow_brown (25).jpg,narrow_brown_spot,13
+D:\Rice\data\philippines\narrow_brown_spot\r__narrow_brown (31).jpg,narrow_brown_spot,13
+D:\Rice\data\philippines\narrow_brown_spot\r__narrow_brown (41).jpg,narrow_brown_spot,13
+D:\Rice\data\philippines\narrow_brown_spot\r__narrow_brown (42).jpg,narrow_brown_spot,13
+D:\Rice\data\philippines\narrow_brown_spot\r__narrow_brown (45).jpg,narrow_brown_spot,13
+D:\Rice\data\philippines\narrow_brown_spot\r__narrow_brown (50).jpg,narrow_brown_spot,13
+D:\Rice\data\philippines\narrow_brown_spot\r__narrow_brown (67).jpg,narrow_brown_spot,13
+D:\Rice\data\philippines\narrow_brown_spot\r__narrow_brown (69).jpg,narrow_brown_spot,13
+D:\Rice\data\philippines\narrow_brown_spot\r__narrow_brown (70).jpg,narrow_brown_spot,13
+D:\Rice\data\philippines\narrow_brown_spot\r__narrow_brown (72).jpg,narrow_brown_spot,13
+D:\Rice\data\philippines\narrow_brown_spot\r__narrow_brown (81).jpg,narrow_brown_spot,13
+D:\Rice\data\philippines\narrow_brown_spot\r__narrow_brown (86).jpg,narrow_brown_spot,13
+D:\Rice\data\philippines\ragged_stunt_virus\r__Ragged_virus (14).jpeg,ragged_stunt_virus,14
+D:\Rice\data\philippines\ragged_stunt_virus\r__Ragged_virus (20).jpeg,ragged_stunt_virus,14
+D:\Rice\data\philippines\ragged_stunt_virus\r__Ragged_virus (27).jpeg,ragged_stunt_virus,14
+D:\Rice\data\philippines\ragged_stunt_virus\r__Ragged_virus (28).jpeg,ragged_stunt_virus,14
+D:\Rice\data\philippines\ragged_stunt_virus\r__Ragged_virus (34).jpeg,ragged_stunt_virus,14
+D:\Rice\data\philippines\ragged_stunt_virus\r__Ragged_virus (40).jpeg,ragged_stunt_virus,14
+D:\Rice\data\philippines\ragged_stunt_virus\r__Ragged_virus (43).jpeg,ragged_stunt_virus,14
+D:\Rice\data\philippines\ragged_stunt_virus\r__Ragged_virus (46).jpeg,ragged_stunt_virus,14
+D:\Rice\data\philippines\ragged_stunt_virus\r__Ragged_virus (52).jpeg,ragged_stunt_virus,14
+D:\Rice\data\philippines\ragged_stunt_virus\r__Ragged_virus (7).jpeg,ragged_stunt_virus,14
+D:\Rice\data\philippines\ragged_stunt_virus\r__Ragged_virus (86).jpeg,ragged_stunt_virus,14
+D:\Rice\data\philippines\ragged_stunt_virus\r__Ragged_virus (92).jpeg,ragged_stunt_virus,14
+D:\Rice\data\philippines\ragged_stunt_virus\r__Ragged_virus (93).jpeg,ragged_stunt_virus,14
+D:\Rice\data\philippines\ragged_stunt_virus\r__Ragged_virus (94).jpeg,ragged_stunt_virus,14
+D:\Rice\data\philippines\ragged_stunt_virus\r__Ragged_virus (98).jpeg,ragged_stunt_virus,14
+D:\Rice\data\philippines\rice_blast\r__Blast (16).jpg,blast,4
+D:\Rice\data\philippines\rice_blast\r__Blast (17).jpg,blast,4
+D:\Rice\data\philippines\rice_blast\r__Blast (28).jpg,blast,4
+D:\Rice\data\philippines\rice_blast\r__Blast (3).jpg,blast,4
+D:\Rice\data\philippines\rice_blast\r__Blast (34).jpg,blast,4
+D:\Rice\data\philippines\rice_blast\r__Blast (44).jpg,blast,4
+D:\Rice\data\philippines\rice_blast\r__Blast (52).jpg,blast,4
+D:\Rice\data\philippines\rice_blast\r__Blast (57).jpg,blast,4
+D:\Rice\data\philippines\rice_blast\r__Blast (61).jpg,blast,4
+D:\Rice\data\philippines\rice_blast\r__Blast (72).jpg,blast,4
+D:\Rice\data\philippines\rice_blast\r__Blast (79).jpg,blast,4
+D:\Rice\data\philippines\rice_blast\r__Blast (8).jpg,blast,4
+D:\Rice\data\philippines\rice_blast\r__Blast (89).jpg,blast,4
+D:\Rice\data\philippines\rice_blast\r__Blast (9).jpg,blast,4
+D:\Rice\data\philippines\rice_blast\r__Blast (97).jpg,blast,4
+D:\Rice\data\philippines\rice_blast\x__Rice_blast (10).jpg,blast,4
+D:\Rice\data\philippines\rice_blast\x__Rice_blast (102).jpg,blast,4
+D:\Rice\data\philippines\rice_blast\x__Rice_blast (124).jpg,blast,4
+D:\Rice\data\philippines\rice_blast\x__Rice_blast (126).jpg,blast,4
+D:\Rice\data\philippines\rice_blast\x__Rice_blast (18).jpg,blast,4
+D:\Rice\data\philippines\rice_blast\x__Rice_blast (19).jpg,blast,4
+D:\Rice\data\philippines\rice_blast\x__Rice_blast (2).jpg,blast,4
+D:\Rice\data\philippines\rice_blast\x__Rice_blast (24).jpg,blast,4
+D:\Rice\data\philippines\rice_blast\x__Rice_blast (39).jpg,blast,4
+D:\Rice\data\philippines\rice_blast\x__Rice_blast (41).jpg,blast,4
+D:\Rice\data\philippines\rice_blast\x__Rice_blast (45).jpg,blast,4
+D:\Rice\data\philippines\rice_blast\x__Rice_blast (49).jpg,blast,4
+D:\Rice\data\philippines\rice_blast\x__Rice_blast (57).jpg,blast,4
+D:\Rice\data\philippines\rice_blast\x__Rice_blast (70).jpg,blast,4
+D:\Rice\data\philippines\rice_blast\x__Rice_blast (74).jpg,blast,4
+D:\Rice\data\philippines\rice_blast\x__Rice_blast (82).jpg,blast,4
+D:\Rice\data\philippines\rice_blast\x__Rice_blast (88).jpg,blast,4
+D:\Rice\data\philippines\rice_blast\x__Rice_blast (9).jpg,blast,4
+D:\Rice\data\philippines\rice_blast\x__Rice_blast (92).jpg,blast,4
+D:\Rice\data\philippines\rice_blast\x__Rice_blast (97).jpg,blast,4
+D:\Rice\data\philippines\rice_false_smut\r__False_smut (12).jpg,false_smut,8
+D:\Rice\data\philippines\rice_false_smut\r__False_smut (13).jpg,false_smut,8
+D:\Rice\data\philippines\rice_false_smut\r__False_smut (15).jpg,false_smut,8
+D:\Rice\data\philippines\rice_false_smut\r__False_smut (2).jpg,false_smut,8
+D:\Rice\data\philippines\rice_false_smut\r__False_smut (23).jpg,false_smut,8
+D:\Rice\data\philippines\rice_false_smut\r__False_smut (26).jpg,false_smut,8
+D:\Rice\data\philippines\rice_false_smut\r__False_smut (3).jpg,false_smut,8
+D:\Rice\data\philippines\rice_false_smut\r__False_smut (37).jpg,false_smut,8
+D:\Rice\data\philippines\rice_false_smut\r__False_smut (40).jpg,false_smut,8
+D:\Rice\data\philippines\rice_false_smut\r__False_smut (41).jpg,false_smut,8
+D:\Rice\data\philippines\rice_false_smut\r__False_smut (43).jpg,false_smut,8
+D:\Rice\data\philippines\rice_false_smut\r__False_smut (66).jpg,false_smut,8
+D:\Rice\data\philippines\rice_false_smut\r__False_smut (77).jpg,false_smut,8
+D:\Rice\data\philippines\rice_false_smut\r__False_smut (83).jpg,false_smut,8
+D:\Rice\data\philippines\sheath_blight\r__Sheath_blight (26).jpg,sheath_blight,15
+D:\Rice\data\philippines\sheath_blight\r__Sheath_blight (27).jpg,sheath_blight,15
+D:\Rice\data\philippines\sheath_blight\r__Sheath_blight (3).jpg,sheath_blight,15
+D:\Rice\data\philippines\sheath_blight\r__Sheath_blight (32).jpg,sheath_blight,15
+D:\Rice\data\philippines\sheath_blight\r__Sheath_blight (38).jpg,sheath_blight,15
+D:\Rice\data\philippines\sheath_blight\r__Sheath_blight (40).jpg,sheath_blight,15
+D:\Rice\data\philippines\sheath_blight\r__Sheath_blight (48).jpg,sheath_blight,15
+D:\Rice\data\philippines\sheath_blight\r__Sheath_blight (57).jpg,sheath_blight,15
+D:\Rice\data\philippines\sheath_blight\r__Sheath_blight (6).jpg,sheath_blight,15
+D:\Rice\data\philippines\sheath_blight\r__Sheath_blight (64).jpg,sheath_blight,15
+D:\Rice\data\philippines\sheath_blight\r__Sheath_blight (66).jpg,sheath_blight,15
+D:\Rice\data\philippines\sheath_blight\r__Sheath_blight (87).jpg,sheath_blight,15
+D:\Rice\data\philippines\sheath_blight\r__Sheath_blight (90).jpg,sheath_blight,15
+D:\Rice\data\philippines\sheath_blight\r__Sheath_blight (99).jpg,sheath_blight,15
+D:\Rice\data\philippines\sheath_rot\r__Sheath_rot (13).jpg,sheath_rot,16
+D:\Rice\data\philippines\sheath_rot\r__Sheath_rot (16).jpg,sheath_rot,16
+D:\Rice\data\philippines\sheath_rot\r__Sheath_rot (20).jpg,sheath_rot,16
+D:\Rice\data\philippines\sheath_rot\r__Sheath_rot (24).jpg,sheath_rot,16
+D:\Rice\data\philippines\sheath_rot\r__Sheath_rot (50).jpg,sheath_rot,16
+D:\Rice\data\philippines\sheath_rot\r__Sheath_rot (52).jpg,sheath_rot,16
+D:\Rice\data\philippines\sheath_rot\r__Sheath_rot (56).jpg,sheath_rot,16
+D:\Rice\data\philippines\sheath_rot\r__Sheath_rot (59).jpg,sheath_rot,16
+D:\Rice\data\philippines\sheath_rot\r__Sheath_rot (60).jpg,sheath_rot,16
+D:\Rice\data\philippines\sheath_rot\r__Sheath_rot (61).jpg,sheath_rot,16
+D:\Rice\data\philippines\sheath_rot\r__Sheath_rot (72).jpg,sheath_rot,16
+D:\Rice\data\philippines\stem_rot\r__Stem_rot (14).jpeg,stem_rot,17
+D:\Rice\data\philippines\stem_rot\r__Stem_rot (15).jpeg,stem_rot,17
+D:\Rice\data\philippines\stem_rot\r__Stem_rot (25).jpeg,stem_rot,17
+D:\Rice\data\philippines\stem_rot\r__Stem_rot (29).jpeg,stem_rot,17
+D:\Rice\data\philippines\stem_rot\r__Stem_rot (33).jpeg,stem_rot,17
+D:\Rice\data\philippines\stem_rot\r__Stem_rot (39).jpeg,stem_rot,17
+D:\Rice\data\philippines\stem_rot\r__Stem_rot (4).jpeg,stem_rot,17
+D:\Rice\data\philippines\stem_rot\r__Stem_rot (40).jpeg,stem_rot,17
+D:\Rice\data\philippines\stem_rot\r__Stem_rot (44).jpeg,stem_rot,17
+D:\Rice\data\philippines\stem_rot\r__Stem_rot (45).jpeg,stem_rot,17
+D:\Rice\data\philippines\stem_rot\r__Stem_rot (63).jpeg,stem_rot,17
+D:\Rice\data\philippines\stem_rot\r__Stem_rot (69).jpeg,stem_rot,17
+D:\Rice\data\philippines\stem_rot\r__Stem_rot (72).jpeg,stem_rot,17
+D:\Rice\data\philippines\stem_rot\r__Stem_rot (78).jpeg,stem_rot,17
+D:\Rice\data\philippines\stem_rot\r__Stem_rot (88).jpeg,stem_rot,17
+D:\Rice\data\philippines\tungro_virus\r__Tungro_virus (12).jpg,tungro,18
+D:\Rice\data\philippines\tungro_virus\r__Tungro_virus (15).jpg,tungro,18
+D:\Rice\data\philippines\tungro_virus\r__Tungro_virus (33).jpg,tungro,18
+D:\Rice\data\philippines\tungro_virus\r__Tungro_virus (39).jpg,tungro,18
+D:\Rice\data\philippines\tungro_virus\r__Tungro_virus (46).jpg,tungro,18
+D:\Rice\data\philippines\tungro_virus\r__Tungro_virus (5).jpg,tungro,18
+D:\Rice\data\philippines\tungro_virus\r__Tungro_virus (62).jpg,tungro,18
+D:\Rice\data\philippines\tungro_virus\r__Tungro_virus (81).jpg,tungro,18
+D:\Rice\data\philippines\tungro_virus\r__Tungro_virus (82).jpg,tungro,18
+D:\Rice\data\riceleafbd\Bacterial Leaf Blight\306374173_668849494858593_3766180290570057808_n.jpg,bacterial_leaf_blight,0
+D:\Rice\data\riceleafbd\Bacterial Leaf Blight\309935720_624667676025618_6020341465910782064_n.jpg,bacterial_leaf_blight,0
+D:\Rice\data\riceleafbd\Bacterial Leaf Blight\309944835_403163421908295_9126692865745592080_n (1).jpg,bacterial_leaf_blight,0
+D:\Rice\data\riceleafbd\Bacterial Leaf Blight\309981324_5716773368401002_4567453957138815972_n.jpg,bacterial_leaf_blight,0
+D:\Rice\data\riceleafbd\Bacterial Leaf Blight\310106462_1093880197983588_1411787509327726484_n.jpg,bacterial_leaf_blight,0
+D:\Rice\data\riceleafbd\Bacterial Leaf Blight\310108465_1274344353360521_4050189809060602811_n.jpg,bacterial_leaf_blight,0
+D:\Rice\data\riceleafbd\Bacterial Leaf Blight\310111298_562164032386723_1187157458750245682_n (1).jpg,bacterial_leaf_blight,0
+D:\Rice\data\riceleafbd\Bacterial Leaf Blight\310186129_1587918904994279_3358023107928269316_n.jpg,bacterial_leaf_blight,0
+D:\Rice\data\riceleafbd\Bacterial Leaf Blight\310242655_462324529121851_7634462214048329274_n.jpg,bacterial_leaf_blight,0
+D:\Rice\data\riceleafbd\Bacterial Leaf Blight\310301288_829532258098749_271686150820095018_n.jpg,bacterial_leaf_blight,0
+D:\Rice\data\riceleafbd\Bacterial Leaf Blight\310348569_496418645770619_1973838462801256641_n.jpg,bacterial_leaf_blight,0
+D:\Rice\data\riceleafbd\Bacterial Leaf Blight\310488167_3283636195219120_6710492829285452029_n (1).jpg,bacterial_leaf_blight,0
+D:\Rice\data\riceleafbd\Bacterial Leaf Blight\310572527_877480326964706_6234914540895705397_n.jpg,bacterial_leaf_blight,0
+D:\Rice\data\riceleafbd\Bacterial Leaf Blight\310646560_492327916186305_3033082180337223512_n.jpg,bacterial_leaf_blight,0
+D:\Rice\data\riceleafbd\Bacterial Leaf Blight\310670396_429378569378476_2079842306408630720_n (1).jpg,bacterial_leaf_blight,0
+D:\Rice\data\riceleafbd\Bacterial Leaf Blight\310719042_561579772636310_4450666158229352919_n (1).jpg,bacterial_leaf_blight,0
+D:\Rice\data\riceleafbd\Bacterial Leaf Blight\310959560_1164934114442829_2311022066141502967_n (1).jpg,bacterial_leaf_blight,0
+D:\Rice\data\riceleafbd\Bacterial Leaf Blight\311024973_1610391142753270_631261596346559709_n.jpg,bacterial_leaf_blight,0
+D:\Rice\data\riceleafbd\Bacterial Leaf Blight\311176948_1173457476855843_8876369629576747934_n (1).jpg,bacterial_leaf_blight,0
+D:\Rice\data\riceleafbd\Bacterial Leaf Blight\311877206_850779099448782_7344538294085096936_n.jpg,bacterial_leaf_blight,0
+D:\Rice\data\riceleafbd\Bacterial Leaf Blight\311905670_494313549327013_3366459603905626498_n (1).jpg,bacterial_leaf_blight,0
+D:\Rice\data\riceleafbd\Bacterial Leaf Blight\311996253_708829197508056_1204240679350468183_n.jpg,bacterial_leaf_blight,0
+D:\Rice\data\riceleafbd\Bacterial Leaf Blight\312005263_671890507987285_3104310052928250043_n.jpg,bacterial_leaf_blight,0
+D:\Rice\data\riceleafbd\Bacterial Leaf Blight\312117365_3213264032297783_6825796052983078457_n.jpg,bacterial_leaf_blight,0
+D:\Rice\data\riceleafbd\Bacterial Leaf Blight\312216982_865720758115042_5955277785360983136_n.jpg,bacterial_leaf_blight,0
+D:\Rice\data\riceleafbd\Bacterial Leaf Blight\312468370_5637100656380348_703247384194259115_n.jpg,bacterial_leaf_blight,0
+D:\Rice\data\riceleafbd\Bacterial Leaf Blight\312472792_444886301126098_1501912677559689732_n (1).jpg,bacterial_leaf_blight,0
+D:\Rice\data\riceleafbd\Bacterial Leaf Blight\312501455_701030871075552_5552237118172408186_n.jpg,bacterial_leaf_blight,0
+D:\Rice\data\riceleafbd\Bacterial Leaf Blight\312701781_1737299809990745_2445287125465582583_n.jpg,bacterial_leaf_blight,0
+D:\Rice\data\riceleafbd\Bacterial Leaf Blight\312706214_427375179400683_5301068537977839772_n.jpg,bacterial_leaf_blight,0
+D:\Rice\data\riceleafbd\Bacterial Leaf Blight\312729215_2367073810112328_6929513737770592226_n.jpg,bacterial_leaf_blight,0
+D:\Rice\data\riceleafbd\Bacterial Leaf Blight\312735367_788952488860882_5846495993529613836_n.jpg,bacterial_leaf_blight,0
+D:\Rice\data\riceleafbd\Bacterial Leaf Blight\312785445_1599618183789246_6785072920701701173_n.jpg,bacterial_leaf_blight,0
+D:\Rice\data\riceleafbd\Bacterial Leaf Blight\313004913_3389591657947614_3495100598670456610_n.jpg,bacterial_leaf_blight,0
+D:\Rice\data\riceleafbd\Bacterial Leaf Blight\313184079_3469583136607090_449427817064877970_n.jpg,bacterial_leaf_blight,0
+D:\Rice\data\riceleafbd\Bacterial Leaf Blight\313335724_680172380155038_5711655244716331428_n (1).jpg,bacterial_leaf_blight,0
+D:\Rice\data\riceleafbd\Bacterial Leaf Blight\313364190_666995381649861_2601386126776133066_n.jpg,bacterial_leaf_blight,0
+D:\Rice\data\riceleafbd\Bacterial Leaf Blight\313377554_884564552529914_7976321575616993713_n.jpg,bacterial_leaf_blight,0
+D:\Rice\data\riceleafbd\Bacterial Leaf Blight\313387124_524718646179149_2682641858435266165_n.jpg,bacterial_leaf_blight,0
+D:\Rice\data\riceleafbd\Bacterial Leaf Blight\313390589_1512623025830711_8179220880642290492_n.jpg,bacterial_leaf_blight,0
+D:\Rice\data\riceleafbd\Bacterial Leaf Blight\313443110_443164957984102_2372957647976202316_n.jpg,bacterial_leaf_blight,0
+D:\Rice\data\riceleafbd\Bacterial Leaf Blight\313987825_643470467424649_5538335259530142053_n (1).jpg,bacterial_leaf_blight,0
+D:\Rice\data\riceleafbd\Bacterial Leaf Blight\314357746_694845125075823_5816002003456285487_n.jpg,bacterial_leaf_blight,0
+D:\Rice\data\riceleafbd\Bacterial Leaf Blight\314415059_640803711164560_6347233167110396111_n.jpg,bacterial_leaf_blight,0
+D:\Rice\data\riceleafbd\Bacterial Leaf Blight\314451539_1835505676788232_3371884482373564247_n.jpg,bacterial_leaf_blight,0
+D:\Rice\data\riceleafbd\Bacterial Leaf Blight\314635055_786524529119140_9186089258053961087_n.jpg,bacterial_leaf_blight,0
+D:\Rice\data\riceleafbd\Bacterial Leaf Blight\315074520_5751664111539900_3631585951625988479_n.jpg,bacterial_leaf_blight,0
+D:\Rice\data\riceleafbd\Bacterial Leaf Blight\315107087_1171245770130671_2229195706849003534_n.jpg,bacterial_leaf_blight,0
+D:\Rice\data\riceleafbd\Bacterial Leaf Blight\315262988_659326702239981_4957574645755378364_n.jpg,bacterial_leaf_blight,0
+D:\Rice\data\riceleafbd\Bacterial Leaf Blight\316100811_1187208431886572_9196050605949563222_n.jpg,bacterial_leaf_blight,0
+D:\Rice\data\riceleafbd\Brown Spot\309856581_1540544999720159_3167110615008965834_n.jpg,brown_spot,5
+D:\Rice\data\riceleafbd\Brown Spot\309914645_512032790836766_3232278334211904072_n.jpg,brown_spot,5
+D:\Rice\data\riceleafbd\Brown Spot\309946730_2973301759636647_3744589297634946481_n.jpg,brown_spot,5
+D:\Rice\data\riceleafbd\Brown Spot\309962532_861398241722730_4166811756916713153_n.jpg,brown_spot,5
+D:\Rice\data\riceleafbd\Brown Spot\309993664_1567873237000612_7794085351818485330_n.jpg,brown_spot,5
+D:\Rice\data\riceleafbd\Brown Spot\310082918_871415177202516_5002521107004828589_n.jpg,brown_spot,5
+D:\Rice\data\riceleafbd\Brown Spot\310115075_498868342299013_3194400662650127897_n.jpg,brown_spot,5
+D:\Rice\data\riceleafbd\Brown Spot\310240154_653748513071128_7809190233150817814_n.jpg,brown_spot,5
+D:\Rice\data\riceleafbd\Brown Spot\310243653_1175890976471607_174154916313519198_n.jpg,brown_spot,5
+D:\Rice\data\riceleafbd\Brown Spot\310246263_629224232229317_3057882260199121970_n.jpg,brown_spot,5
+D:\Rice\data\riceleafbd\Brown Spot\310279124_1308745899888984_1786932448113474810_n.jpg,brown_spot,5
+D:\Rice\data\riceleafbd\Brown Spot\310310726_521973126475182_1577311798757957966_n.jpg,brown_spot,5
+D:\Rice\data\riceleafbd\Brown Spot\310515645_429000562741465_2293056403644865098_n.jpg,brown_spot,5
+D:\Rice\data\riceleafbd\Brown Spot\310568407_1600675443720770_3405254753128624442_n.jpg,brown_spot,5
+D:\Rice\data\riceleafbd\Brown Spot\310618169_1095591744338175_6293196138231764647_n.jpg,brown_spot,5
+D:\Rice\data\riceleafbd\Brown Spot\310646878_652622709743689_4280957580249613305_n.jpg,brown_spot,5
+D:\Rice\data\riceleafbd\Brown Spot\310862149_2316976765132110_2200817704905796416_n.jpg,brown_spot,5
+D:\Rice\data\riceleafbd\Brown Spot\310885383_815755239635944_8200766767589677304_n.jpg,brown_spot,5
+D:\Rice\data\riceleafbd\Brown Spot\310943241_449647463945146_639634782995154368_n.jpg,brown_spot,5
+D:\Rice\data\riceleafbd\Brown Spot\310949660_683939402972570_2384416694152309614_n.jpg,brown_spot,5
+D:\Rice\data\riceleafbd\Brown Spot\311021703_1507971309689477_3485279124224682658_n.jpg,brown_spot,5
+D:\Rice\data\riceleafbd\Brown Spot\311052757_578359977380937_3643681530688443368_n.jpg,brown_spot,5
+D:\Rice\data\riceleafbd\Brown Spot\311238271_3583923715161873_9176656190329904768_n.jpg,brown_spot,5
+D:\Rice\data\riceleafbd\Brown Spot\311300529_496557825753120_7006532035661778892_n.jpg,brown_spot,5
+D:\Rice\data\riceleafbd\Brown Spot\311377246_810766993317222_9100351975254516487_n.jpg,brown_spot,5
+D:\Rice\data\riceleafbd\Brown Spot\311406569_1095409827827436_6560628508321962026_n.jpg,brown_spot,5
+D:\Rice\data\riceleafbd\Brown Spot\311416513_1109471589709308_8180735797175148639_n.jpg,brown_spot,5
+D:\Rice\data\riceleafbd\Brown Spot\311994477_808004087120124_4789279673069325208_n.jpg,brown_spot,5
+D:\Rice\data\riceleafbd\Brown Spot\312109407_1220699645455560_2742647944434764488_n.jpg,brown_spot,5
+D:\Rice\data\riceleafbd\Brown Spot\312462597_1340965113373984_7107727838575005015_n.jpg,brown_spot,5
+D:\Rice\data\riceleafbd\Brown Spot\312473726_1347140749453800_8586112422622010727_n.jpg,brown_spot,5
+D:\Rice\data\riceleafbd\Brown Spot\312483884_1135763497066114_1872967696229782204_n.jpg,brown_spot,5
+D:\Rice\data\riceleafbd\Brown Spot\312503446_540164490875263_2001101002353738981_n.jpg,brown_spot,5
+D:\Rice\data\riceleafbd\Brown Spot\312543158_1535564896911975_8790435692373126595_n.jpg,brown_spot,5
+D:\Rice\data\riceleafbd\Brown Spot\312599184_5789777247745082_6383773596011309887_n.jpg,brown_spot,5
+D:\Rice\data\riceleafbd\Brown Spot\312657031_501514062025673_1489350545664885358_n.jpg,brown_spot,5
+D:\Rice\data\riceleafbd\Brown Spot\312785445_494747079380367_5564936186963074528_n.jpg,brown_spot,5
+D:\Rice\data\riceleafbd\Brown Spot\312814751_497951362394840_2572588937313993891_n.jpg,brown_spot,5
+D:\Rice\data\riceleafbd\Brown Spot\313013515_449283840610204_7718562001052880566_n.jpg,brown_spot,5
+D:\Rice\data\riceleafbd\Brown Spot\313476491_3175701916074728_527524997302136500_n.jpg,brown_spot,5
+D:\Rice\data\riceleafbd\Brown Spot\313497222_1182350742356260_5290045930983092519_n.jpg,brown_spot,5
+D:\Rice\data\riceleafbd\Brown Spot\313549376_556381899657306_7967741370575984897_n.jpg,brown_spot,5
+D:\Rice\data\riceleafbd\Brown Spot\313792446_1180428119542131_6726753210234874025_n.jpg,brown_spot,5
+D:\Rice\data\riceleafbd\Brown Spot\313839151_1512509475894873_2957257885488620837_n.jpg,brown_spot,5
+D:\Rice\data\riceleafbd\Brown Spot\313905884_1541156186329606_6073291171599025418_n.jpg,brown_spot,5
+D:\Rice\data\riceleafbd\Brown Spot\314411012_787021242366649_5043583151562013626_n.jpg,brown_spot,5
+D:\Rice\data\riceleafbd\Brown Spot\314909411_840232823692333_8663297012923790195_n.jpg,brown_spot,5
+D:\Rice\data\riceleafbd\Brown Spot\315077830_792639481827514_8300753796232755874_n.jpg,brown_spot,5
+D:\Rice\data\riceleafbd\Brown Spot\315097556_651623386416300_315809802883710010_n.jpg,brown_spot,5
+D:\Rice\data\riceleafbd\Brown Spot\315111727_1257256914842639_765387376634031605_n.jpg,brown_spot,5
+D:\Rice\data\riceleafbd\Brown Spot\315181632_619130999956574_6092454196105885976_n.jpg,brown_spot,5
+D:\Rice\data\riceleafbd\Brown Spot\315258105_1121822611851832_6151382853616864934_n.jpg,brown_spot,5
+D:\Rice\data\riceleafbd\Brown Spot\315310250_1257634864795249_3192148898317066974_n.jpg,brown_spot,5
+D:\Rice\data\riceleafbd\Healthy Leaf\IMG20231027083440_01.jpg,healthy,10
+D:\Rice\data\riceleafbd\Healthy Leaf\IMG20231027083741_01.jpg,healthy,10
+D:\Rice\data\riceleafbd\Healthy Leaf\IMG20231027083959_01.jpg,healthy,10
+D:\Rice\data\riceleafbd\Healthy Leaf\IMG20231027084212_01.jpg,healthy,10
+D:\Rice\data\riceleafbd\Healthy Leaf\IMG20231027084349_01.jpg,healthy,10
+D:\Rice\data\riceleafbd\Healthy Leaf\IMG20231027084401_01.jpg,healthy,10
+D:\Rice\data\riceleafbd\Healthy Leaf\IMG20231027084417.jpg,healthy,10
+D:\Rice\data\riceleafbd\Healthy Leaf\IMG20231027084732_01.jpg,healthy,10
+D:\Rice\data\riceleafbd\Healthy Leaf\IMG20231027084837_01.jpg,healthy,10
+D:\Rice\data\riceleafbd\Healthy Leaf\IMG20231027084926.jpg,healthy,10
+D:\Rice\data\riceleafbd\Healthy Leaf\IMG20231027090212_01.jpg,healthy,10
+D:\Rice\data\riceleafbd\Healthy Leaf\IMG20231027090227_01.jpg,healthy,10
+D:\Rice\data\riceleafbd\Healthy Leaf\IMG20231027090250_01.jpg,healthy,10
+D:\Rice\data\riceleafbd\Healthy Leaf\IMG20231027090303_01.jpg,healthy,10
+D:\Rice\data\riceleafbd\Healthy Leaf\IMG20231027090411_01.jpg,healthy,10
+D:\Rice\data\riceleafbd\Healthy Leaf\IMG20231027090438.jpg,healthy,10
+D:\Rice\data\riceleafbd\Healthy Leaf\IMG20231027090452_01.jpg,healthy,10
+D:\Rice\data\riceleafbd\Healthy Leaf\IMG20231027090500_01.jpg,healthy,10
+D:\Rice\data\riceleafbd\Healthy Leaf\IMG20231027090915.jpg,healthy,10
+D:\Rice\data\riceleafbd\Healthy Leaf\IMG20231027091112_01.jpg,healthy,10
+D:\Rice\data\riceleafbd\Healthy Leaf\IMG20231027091151_01.jpg,healthy,10
+D:\Rice\data\riceleafbd\Healthy Leaf\IMG20231027091201_01.jpg,healthy,10
+D:\Rice\data\riceleafbd\Healthy Leaf\IMG20231027091224_01.jpg,healthy,10
+D:\Rice\data\riceleafbd\Healthy Leaf\IMG20231027091230_01.jpg,healthy,10
+D:\Rice\data\riceleafbd\Healthy Leaf\IMG20231027091247_01.jpg,healthy,10
+D:\Rice\data\riceleafbd\Healthy Leaf\IMG20231027091440.jpg,healthy,10
+D:\Rice\data\riceleafbd\Healthy Leaf\IMG20231027091640_01.jpg,healthy,10
+D:\Rice\data\riceleafbd\Healthy Leaf\IMG20231027091806_01.jpg,healthy,10
+D:\Rice\data\riceleafbd\Healthy Leaf\IMG20231027091902_01.jpg,healthy,10
+D:\Rice\data\riceleafbd\Healthy Leaf\IMG20231027092100_01.jpg,healthy,10
+D:\Rice\data\riceleafbd\Healthy Leaf\IMG20231027092230.jpg,healthy,10
+D:\Rice\data\riceleafbd\Healthy Leaf\IMG20231027092242.jpg,healthy,10
+D:\Rice\data\riceleafbd\Healthy Leaf\IMG20231027092711_01.jpg,healthy,10
+D:\Rice\data\riceleafbd\Healthy Leaf\IMG20231027092721_01.jpg,healthy,10
+D:\Rice\data\riceleafbd\Healthy Leaf\IMG20231027092907_01.jpg,healthy,10
+D:\Rice\data\riceleafbd\Healthy Leaf\IMG20231027093043_01.jpg,healthy,10
+D:\Rice\data\riceleafbd\Healthy Leaf\IMG20231027093145_01.jpg,healthy,10
+D:\Rice\data\riceleafbd\Tungro Virus\20231027_082950.jpg,tungro,18
+D:\Rice\data\riceleafbd\Tungro Virus\20231027_084232.jpg,tungro,18
+D:\Rice\data\riceleafbd\Tungro Virus\20231027_084339.jpg,tungro,18
+D:\Rice\data\riceleafbd\Tungro Virus\20231027_084615.jpg,tungro,18
+D:\Rice\data\riceleafbd\Tungro Virus\20231027_084731.jpg,tungro,18
+D:\Rice\data\riceleafbd\Tungro Virus\20231027_084800.jpg,tungro,18
+D:\Rice\data\riceleafbd\Tungro Virus\20231027_084835.jpg,tungro,18
+D:\Rice\data\riceleafbd\Tungro Virus\20231027_085148.jpg,tungro,18
+D:\Rice\data\riceleafbd\Tungro Virus\20231027_090338.jpg,tungro,18
+D:\Rice\data\riceleafbd\Tungro Virus\20231027_090701.jpg,tungro,18
+D:\Rice\data\riceleafbd\Tungro Virus\20231027_090807.jpg,tungro,18
+D:\Rice\data\riceleafbd\Tungro Virus\20231027_090814.jpg,tungro,18
+D:\Rice\data\riceleafbd\Tungro Virus\20231027_090821.jpg,tungro,18
+D:\Rice\data\riceleafbd\Tungro Virus\20231027_091014.jpg,tungro,18
+D:\Rice\data\riceleafbd\Tungro Virus\20231027_091112.jpg,tungro,18
+D:\Rice\data\riceleafbd\Tungro Virus\20231027_091119.jpg,tungro,18
+D:\Rice\data\riceleafbd\Tungro Virus\20231027_091347.jpg,tungro,18
+D:\Rice\data\riceleafbd\Tungro Virus\20231027_091405.jpg,tungro,18
+D:\Rice\data\riceleafbd\Tungro Virus\20231027_091411.jpg,tungro,18
+D:\Rice\data\riceleafbd\Tungro Virus\20231027_091416.jpg,tungro,18
+D:\Rice\data\riceleafbd\Tungro Virus\20231027_091434.jpg,tungro,18
+D:\Rice\data\riceleafbd\Tungro Virus\20231027_091453.jpg,tungro,18
+D:\Rice\data\riceleafbd\Tungro Virus\20231027_091511.jpg,tungro,18
+D:\Rice\data\riceleafbd\Tungro Virus\20231027_091612.jpg,tungro,18
+D:\Rice\data\riceleafbd\Tungro Virus\20231027_091906.jpg,tungro,18
+D:\Rice\data\riceleafbd\Tungro Virus\20231027_092012.jpg,tungro,18
+D:\Rice\data\riceleafbd\Tungro Virus\20231027_092051.jpg,tungro,18
+D:\Rice\data\riceleafbd\Tungro Virus\20231027_092152.jpg,tungro,18
+D:\Rice\data\riceleafbd\Tungro Virus\20231027_092232.jpg,tungro,18
+D:\Rice\data\riceleafbd\Tungro Virus\20231027_092249.jpg,tungro,18
+D:\Rice\data\riceleafbd\Tungro Virus\20231027_092344.jpg,tungro,18
+D:\Rice\data\riceleafbd\Tungro Virus\20231027_092358.jpg,tungro,18
+D:\Rice\data\riceleafbd\Tungro Virus\20231027_092428.jpg,tungro,18
+D:\Rice\data\riceleafbd\Tungro Virus\20231027_092432.jpg,tungro,18
+D:\Rice\data\riceleafbd\Tungro Virus\20231027_092530.jpg,tungro,18
+D:\Rice\data\riceleafbd\Tungro Virus\20231027_092721.jpg,tungro,18
+D:\Rice\data\riceleafbd\Tungro Virus\20231027_092729.jpg,tungro,18
+D:\Rice\data\riceleafbd\Tungro Virus\20231027_092938.jpg,tungro,18
+D:\Rice\data\riceleafbd\Tungro Virus\310059906_648718010165408_9111129139756640564_n.jpg,tungro,18
+D:\Rice\data\riceleafbd\Tungro Virus\310073746_641071220902093_1844154564457607035_n.jpg,tungro,18
+D:\Rice\data\riceleafbd\Tungro Virus\310090427_798882844546270_2705517204061326425_n (1).jpg,tungro,18
+D:\Rice\data\riceleafbd\Tungro Virus\310235967_692038872077734_8233959099719107321_n.jpg,tungro,18
+D:\Rice\data\riceleafbd\Tungro Virus\310304355_642685684071363_2949118793663218513_n.jpg,tungro,18
+D:\Rice\data\riceleafbd\Tungro Virus\310414448_487949023286030_5183288363010753439_n.jpg,tungro,18
+D:\Rice\data\riceleafbd\Tungro Virus\310517900_535047628013452_188626495743857687_n.jpg,tungro,18
+D:\Rice\data\riceleafbd\Tungro Virus\310644021_3325504807726129_1969690517648212982_n.jpg,tungro,18
+D:\Rice\data\riceleafbd\Tungro Virus\310705175_688693755811520_2723304770977161261_n.jpg,tungro,18
+D:\Rice\data\riceleafbd\Tungro Virus\310794444_5566048033503368_8677618128368401793_n.jpg,tungro,18
+D:\Rice\data\riceleafbd\Tungro Virus\311290581_1174947579773623_4915588994811508522_n.jpg,tungro,18
+D:\Rice\data\riceleafbd\Tungro Virus\311477801_829411965149992_4505844150502370083_n.jpg,tungro,18
+D:\Rice\data\riceleafbd\Tungro Virus\311958416_702332527899167_8337027578548737849_n.jpg,tungro,18
+D:\Rice\data\riceleafbd\Tungro Virus\311982774_497216262461714_3029253594789800980_n.jpg,tungro,18
+D:\Rice\data\riceleafbd\Tungro Virus\312026965_822061342180180_7673092683367473646_n.jpg,tungro,18
+D:\Rice\data\riceleafbd\Tungro Virus\312379173_660196672356452_7373936849988029036_n.jpg,tungro,18
+D:\Rice\data\riceleafbd\Tungro Virus\312470292_855767878929265_2110265727004027892_n.jpg,tungro,18
+D:\Rice\data\riceleafbd\Tungro Virus\312545686_672993700881462_7107649582821136971_n (1).jpg,tungro,18
+D:\Rice\data\riceleafbd\Tungro Virus\312786876_841817763798870_7613152504738535985_n.jpg,tungro,18
+D:\Rice\data\riceleafbd\Tungro Virus\312889488_574444127855327_2024543328451872117_n.jpg,tungro,18
+D:\Rice\data\riceleafbd\Tungro Virus\312892745_1220328658516055_685874829593176905_n.jpg,tungro,18
+D:\Rice\data\riceleafbd\Tungro Virus\313113847_1497363217428791_1754163908149482870_n.jpg,tungro,18
+D:\Rice\data\riceleafbd\Tungro Virus\313199222_3243493292576710_7474365912712924818_n.jpg,tungro,18
+D:\Rice\data\riceleafbd\Tungro Virus\313290051_850042486148444_822354297154567821_n.jpg,tungro,18
+D:\Rice\data\riceleafbd\Tungro Virus\313398992_1315020555911491_3726555706906212414_n.jpg,tungro,18
+D:\Rice\data\riceleafbd\Tungro Virus\313474843_1238166350248747_3707222436565427985_n.jpg,tungro,18
+D:\Rice\data\riceleafbd\Tungro Virus\313479416_896481901758297_3784707154000360244_n.jpg,tungro,18
+D:\Rice\data\riceleafbd\Tungro Virus\313521611_427973569486439_58910322981629660_n.jpg,tungro,18
+D:\Rice\data\riceleafbd\Tungro Virus\313857273_845611629966309_5300173381159104037_n.jpg,tungro,18
+D:\Rice\data\riceleafbd\Tungro Virus\314404506_865258634888614_6971945189331854511_n.jpg,tungro,18
+D:\Rice\data\riceleafbd\Tungro Virus\314416116_493741476053347_7753319753361491463_n.jpg,tungro,18
+D:\Rice\data\riceleafbd\Tungro Virus\314478760_1541757819664010_929515794713908471_n.jpg,tungro,18
+D:\Rice\data\riceleafbd\Tungro Virus\314929536_514257187251721_8473283268031593647_n.jpg,tungro,18
+D:\Rice\data\riceleafbd\Tungro Virus\315005960_535107358462566_1004311371707062439_n.jpg,tungro,18
+D:\Rice\data\riceleafbd\Tungro Virus\315102597_1266038787574065_7208802774790833818_n.jpg,tungro,18
+D:\Rice\data\riceleafbd\Tungro Virus\682569f9-1ecb-4260-922f-5801c4682aff.jpg,tungro,18
+D:\Rice\data\sethy\Bacterialblight\BACTERAILBLIGHT3_003.jpg,bacterial_leaf_blight,0
+D:\Rice\data\sethy\Bacterialblight\BACTERAILBLIGHT3_004.jpg,bacterial_leaf_blight,0
+D:\Rice\data\sethy\Bacterialblight\BACTERAILBLIGHT3_005.jpg,bacterial_leaf_blight,0
+D:\Rice\data\sethy\Bacterialblight\BACTERAILBLIGHT3_006.jpg,bacterial_leaf_blight,0
+D:\Rice\data\sethy\Bacterialblight\BACTERAILBLIGHT3_017.jpg,bacterial_leaf_blight,0
+D:\Rice\data\sethy\Bacterialblight\BACTERAILBLIGHT3_018.jpg,bacterial_leaf_blight,0
+D:\Rice\data\sethy\Bacterialblight\BACTERAILBLIGHT3_019.jpg,bacterial_leaf_blight,0
+D:\Rice\data\sethy\Bacterialblight\BACTERAILBLIGHT3_020.jpg,bacterial_leaf_blight,0
+D:\Rice\data\sethy\Bacterialblight\BACTERAILBLIGHT3_032.jpg,bacterial_leaf_blight,0
+D:\Rice\data\sethy\Bacterialblight\BACTERAILBLIGHT3_033.jpg,bacterial_leaf_blight,0
+D:\Rice\data\sethy\Bacterialblight\BACTERAILBLIGHT3_075.jpg,bacterial_leaf_blight,0
+D:\Rice\data\sethy\Bacterialblight\BACTERAILBLIGHT3_077.jpg,bacterial_leaf_blight,0
+D:\Rice\data\sethy\Bacterialblight\BACTERAILBLIGHT3_080.jpg,bacterial_leaf_blight,0
+D:\Rice\data\sethy\Bacterialblight\BACTERAILBLIGHT3_089.jpg,bacterial_leaf_blight,0
+D:\Rice\data\sethy\Bacterialblight\BACTERAILBLIGHT3_100.jpg,bacterial_leaf_blight,0
+D:\Rice\data\sethy\Bacterialblight\BACTERAILBLIGHT3_105.jpg,bacterial_leaf_blight,0
+D:\Rice\data\sethy\Bacterialblight\BACTERAILBLIGHT3_106.jpg,bacterial_leaf_blight,0
+D:\Rice\data\sethy\Bacterialblight\BACTERAILBLIGHT3_110.JPG,bacterial_leaf_blight,0
+D:\Rice\data\sethy\Bacterialblight\BACTERAILBLIGHT3_112.jpg,bacterial_leaf_blight,0
+D:\Rice\data\sethy\Bacterialblight\BACTERAILBLIGHT3_130.jpg,bacterial_leaf_blight,0
+D:\Rice\data\sethy\Bacterialblight\BACTERAILBLIGHT3_136.JPG,bacterial_leaf_blight,0
+D:\Rice\data\sethy\Bacterialblight\BACTERAILBLIGHT3_150.jpg,bacterial_leaf_blight,0
+D:\Rice\data\sethy\Bacterialblight\BACTERAILBLIGHT3_175.jpg,bacterial_leaf_blight,0
+D:\Rice\data\sethy\Bacterialblight\BACTERAILBLIGHT3_176.jpg,bacterial_leaf_blight,0
+D:\Rice\data\sethy\Bacterialblight\BACTERAILBLIGHT3_185.jpg,bacterial_leaf_blight,0
+D:\Rice\data\sethy\Bacterialblight\BACTERAILBLIGHT3_196.jpg,bacterial_leaf_blight,0
+D:\Rice\data\sethy\Bacterialblight\BACTERAILBLIGHT3_201.jpg,bacterial_leaf_blight,0
+D:\Rice\data\sethy\Bacterialblight\BACTERAILBLIGHT3_206.JPG,bacterial_leaf_blight,0
+D:\Rice\data\sethy\Bacterialblight\BACTERAILBLIGHT3_208.jpg,bacterial_leaf_blight,0
+D:\Rice\data\sethy\Bacterialblight\BACTERAILBLIGHT3_226.jpg,bacterial_leaf_blight,0
+D:\Rice\data\sethy\Bacterialblight\BACTERAILBLIGHT3_232.JPG,bacterial_leaf_blight,0
+D:\Rice\data\sethy\Bacterialblight\BACTERAILBLIGHT3_247.jpg,bacterial_leaf_blight,0
+D:\Rice\data\sethy\Bacterialblight\BACTERAILBLIGHT4_003.jpg,bacterial_leaf_blight,0
+D:\Rice\data\sethy\Bacterialblight\BACTERAILBLIGHT4_004.jpg,bacterial_leaf_blight,0
+D:\Rice\data\sethy\Bacterialblight\BACTERAILBLIGHT4_005.jpg,bacterial_leaf_blight,0
+D:\Rice\data\sethy\Bacterialblight\BACTERAILBLIGHT4_006.jpg,bacterial_leaf_blight,0
+D:\Rice\data\sethy\Bacterialblight\BACTERAILBLIGHT4_017.jpg,bacterial_leaf_blight,0
+D:\Rice\data\sethy\Bacterialblight\BACTERAILBLIGHT4_018.jpg,bacterial_leaf_blight,0
+D:\Rice\data\sethy\Bacterialblight\BACTERAILBLIGHT4_019.jpg,bacterial_leaf_blight,0
+D:\Rice\data\sethy\Bacterialblight\BACTERAILBLIGHT4_020.jpg,bacterial_leaf_blight,0
+D:\Rice\data\sethy\Bacterialblight\BACTERAILBLIGHT4_032.jpg,bacterial_leaf_blight,0
+D:\Rice\data\sethy\Bacterialblight\BACTERAILBLIGHT4_033.jpg,bacterial_leaf_blight,0
+D:\Rice\data\sethy\Bacterialblight\BACTERAILBLIGHT4_075.jpg,bacterial_leaf_blight,0
+D:\Rice\data\sethy\Bacterialblight\BACTERAILBLIGHT4_077.jpg,bacterial_leaf_blight,0
+D:\Rice\data\sethy\Bacterialblight\BACTERAILBLIGHT4_080.jpg,bacterial_leaf_blight,0
+D:\Rice\data\sethy\Bacterialblight\BACTERAILBLIGHT4_089.jpg,bacterial_leaf_blight,0
+D:\Rice\data\sethy\Bacterialblight\BACTERAILBLIGHT4_100.jpg,bacterial_leaf_blight,0
+D:\Rice\data\sethy\Bacterialblight\BACTERAILBLIGHT4_105.jpg,bacterial_leaf_blight,0
+D:\Rice\data\sethy\Bacterialblight\BACTERAILBLIGHT4_106.jpg,bacterial_leaf_blight,0
+D:\Rice\data\sethy\Bacterialblight\BACTERAILBLIGHT4_110.JPG,bacterial_leaf_blight,0
+D:\Rice\data\sethy\Bacterialblight\BACTERAILBLIGHT4_112.jpg,bacterial_leaf_blight,0
+D:\Rice\data\sethy\Bacterialblight\BACTERAILBLIGHT4_130.jpg,bacterial_leaf_blight,0
+D:\Rice\data\sethy\Bacterialblight\BACTERAILBLIGHT4_136.JPG,bacterial_leaf_blight,0
+D:\Rice\data\sethy\Bacterialblight\BACTERAILBLIGHT4_150.jpg,bacterial_leaf_blight,0
+D:\Rice\data\sethy\Bacterialblight\BACTERAILBLIGHT4_175.jpg,bacterial_leaf_blight,0
+D:\Rice\data\sethy\Bacterialblight\BACTERAILBLIGHT4_176.jpg,bacterial_leaf_blight,0
+D:\Rice\data\sethy\Bacterialblight\BACTERAILBLIGHT4_185.jpg,bacterial_leaf_blight,0
+D:\Rice\data\sethy\Bacterialblight\BACTERAILBLIGHT4_196.jpg,bacterial_leaf_blight,0
+D:\Rice\data\sethy\Bacterialblight\BACTERAILBLIGHT4_201.jpg,bacterial_leaf_blight,0
+D:\Rice\data\sethy\Bacterialblight\BACTERAILBLIGHT4_206.JPG,bacterial_leaf_blight,0
+D:\Rice\data\sethy\Bacterialblight\BACTERAILBLIGHT4_208.jpg,bacterial_leaf_blight,0
+D:\Rice\data\sethy\Bacterialblight\BACTERAILBLIGHT4_226.jpg,bacterial_leaf_blight,0
+D:\Rice\data\sethy\Bacterialblight\BACTERAILBLIGHT4_232.JPG,bacterial_leaf_blight,0
+D:\Rice\data\sethy\Bacterialblight\BACTERAILBLIGHT4_247.jpg,bacterial_leaf_blight,0
+D:\Rice\data\sethy\Bacterialblight\BACTERAILBLIGHT5_003.jpg,bacterial_leaf_blight,0
+D:\Rice\data\sethy\Bacterialblight\BACTERAILBLIGHT5_004.jpg,bacterial_leaf_blight,0
+D:\Rice\data\sethy\Bacterialblight\BACTERAILBLIGHT5_005.jpg,bacterial_leaf_blight,0
+D:\Rice\data\sethy\Bacterialblight\BACTERAILBLIGHT5_006.jpg,bacterial_leaf_blight,0
+D:\Rice\data\sethy\Bacterialblight\BACTERAILBLIGHT5_017.jpg,bacterial_leaf_blight,0
+D:\Rice\data\sethy\Bacterialblight\BACTERAILBLIGHT5_018.jpg,bacterial_leaf_blight,0
+D:\Rice\data\sethy\Bacterialblight\BACTERAILBLIGHT5_019.jpg,bacterial_leaf_blight,0
+D:\Rice\data\sethy\Bacterialblight\BACTERAILBLIGHT5_020.jpg,bacterial_leaf_blight,0
+D:\Rice\data\sethy\Bacterialblight\BACTERAILBLIGHT5_032.jpg,bacterial_leaf_blight,0
+D:\Rice\data\sethy\Bacterialblight\BACTERAILBLIGHT5_033.jpg,bacterial_leaf_blight,0
+D:\Rice\data\sethy\Bacterialblight\BACTERAILBLIGHT5_075.jpg,bacterial_leaf_blight,0
+D:\Rice\data\sethy\Bacterialblight\BACTERAILBLIGHT5_077.jpg,bacterial_leaf_blight,0
+D:\Rice\data\sethy\Bacterialblight\BACTERAILBLIGHT5_080.jpg,bacterial_leaf_blight,0
+D:\Rice\data\sethy\Bacterialblight\BACTERAILBLIGHT5_089.jpg,bacterial_leaf_blight,0
+D:\Rice\data\sethy\Bacterialblight\BACTERAILBLIGHT5_100.jpg,bacterial_leaf_blight,0
+D:\Rice\data\sethy\Bacterialblight\BACTERAILBLIGHT5_105.jpg,bacterial_leaf_blight,0
+D:\Rice\data\sethy\Bacterialblight\BACTERAILBLIGHT5_106.jpg,bacterial_leaf_blight,0
+D:\Rice\data\sethy\Bacterialblight\BACTERAILBLIGHT5_110.JPG,bacterial_leaf_blight,0
+D:\Rice\data\sethy\Bacterialblight\BACTERAILBLIGHT5_112.jpg,bacterial_leaf_blight,0
+D:\Rice\data\sethy\Bacterialblight\BACTERAILBLIGHT5_130.jpg,bacterial_leaf_blight,0
+D:\Rice\data\sethy\Bacterialblight\BACTERAILBLIGHT5_136.JPG,bacterial_leaf_blight,0
+D:\Rice\data\sethy\Bacterialblight\BACTERAILBLIGHT5_150.jpg,bacterial_leaf_blight,0
+D:\Rice\data\sethy\Bacterialblight\BACTERAILBLIGHT5_175.jpg,bacterial_leaf_blight,0
+D:\Rice\data\sethy\Bacterialblight\BACTERAILBLIGHT5_176.jpg,bacterial_leaf_blight,0
+D:\Rice\data\sethy\Bacterialblight\BACTERAILBLIGHT5_185.jpg,bacterial_leaf_blight,0
+D:\Rice\data\sethy\Bacterialblight\BACTERAILBLIGHT5_196.jpg,bacterial_leaf_blight,0
+D:\Rice\data\sethy\Bacterialblight\BACTERAILBLIGHT5_201.jpg,bacterial_leaf_blight,0
+D:\Rice\data\sethy\Bacterialblight\BACTERAILBLIGHT5_206.JPG,bacterial_leaf_blight,0
+D:\Rice\data\sethy\Bacterialblight\BACTERAILBLIGHT5_208.jpg,bacterial_leaf_blight,0
+D:\Rice\data\sethy\Bacterialblight\BACTERAILBLIGHT5_226.jpg,bacterial_leaf_blight,0
+D:\Rice\data\sethy\Bacterialblight\BACTERAILBLIGHT5_232.JPG,bacterial_leaf_blight,0
+D:\Rice\data\sethy\Bacterialblight\BACTERAILBLIGHT5_247.jpg,bacterial_leaf_blight,0
+D:\Rice\data\sethy\Bacterialblight\BACTERIALBLIGHT1_003.jpg,bacterial_leaf_blight,0
+D:\Rice\data\sethy\Bacterialblight\BACTERIALBLIGHT1_004.jpg,bacterial_leaf_blight,0
+D:\Rice\data\sethy\Bacterialblight\BACTERIALBLIGHT1_005.jpg,bacterial_leaf_blight,0
+D:\Rice\data\sethy\Bacterialblight\BACTERIALBLIGHT1_006.jpg,bacterial_leaf_blight,0
+D:\Rice\data\sethy\Bacterialblight\BACTERIALBLIGHT1_017.jpg,bacterial_leaf_blight,0
+D:\Rice\data\sethy\Bacterialblight\BACTERIALBLIGHT1_018.jpg,bacterial_leaf_blight,0
+D:\Rice\data\sethy\Bacterialblight\BACTERIALBLIGHT1_019.jpg,bacterial_leaf_blight,0
+D:\Rice\data\sethy\Bacterialblight\BACTERIALBLIGHT1_020.jpg,bacterial_leaf_blight,0
+D:\Rice\data\sethy\Bacterialblight\BACTERIALBLIGHT1_032.jpg,bacterial_leaf_blight,0
+D:\Rice\data\sethy\Bacterialblight\BACTERIALBLIGHT1_033.jpg,bacterial_leaf_blight,0
+D:\Rice\data\sethy\Bacterialblight\BACTERIALBLIGHT1_075.jpg,bacterial_leaf_blight,0
+D:\Rice\data\sethy\Bacterialblight\BACTERIALBLIGHT1_077.jpg,bacterial_leaf_blight,0
+D:\Rice\data\sethy\Bacterialblight\BACTERIALBLIGHT1_080.jpg,bacterial_leaf_blight,0
+D:\Rice\data\sethy\Bacterialblight\BACTERIALBLIGHT1_089.jpg,bacterial_leaf_blight,0
+D:\Rice\data\sethy\Bacterialblight\BACTERIALBLIGHT1_100.jpg,bacterial_leaf_blight,0
+D:\Rice\data\sethy\Bacterialblight\BACTERIALBLIGHT1_105.jpg,bacterial_leaf_blight,0
+D:\Rice\data\sethy\Bacterialblight\BACTERIALBLIGHT1_106.jpg,bacterial_leaf_blight,0
+D:\Rice\data\sethy\Bacterialblight\BACTERIALBLIGHT1_110.JPG,bacterial_leaf_blight,0
+D:\Rice\data\sethy\Bacterialblight\BACTERIALBLIGHT1_112.jpg,bacterial_leaf_blight,0
+D:\Rice\data\sethy\Bacterialblight\BACTERIALBLIGHT1_130.jpg,bacterial_leaf_blight,0
+D:\Rice\data\sethy\Bacterialblight\BACTERIALBLIGHT1_136.JPG,bacterial_leaf_blight,0
+D:\Rice\data\sethy\Bacterialblight\BACTERIALBLIGHT1_150.jpg,bacterial_leaf_blight,0
+D:\Rice\data\sethy\Bacterialblight\BACTERIALBLIGHT1_175.jpg,bacterial_leaf_blight,0
+D:\Rice\data\sethy\Bacterialblight\BACTERIALBLIGHT1_176.jpg,bacterial_leaf_blight,0
+D:\Rice\data\sethy\Bacterialblight\BACTERIALBLIGHT1_185.jpg,bacterial_leaf_blight,0
+D:\Rice\data\sethy\Bacterialblight\BACTERIALBLIGHT1_196.jpg,bacterial_leaf_blight,0
+D:\Rice\data\sethy\Bacterialblight\BACTERIALBLIGHT1_201.jpg,bacterial_leaf_blight,0
+D:\Rice\data\sethy\Bacterialblight\BACTERIALBLIGHT1_206.JPG,bacterial_leaf_blight,0
+D:\Rice\data\sethy\Bacterialblight\BACTERIALBLIGHT1_208.jpg,bacterial_leaf_blight,0
+D:\Rice\data\sethy\Bacterialblight\BACTERIALBLIGHT1_226.jpg,bacterial_leaf_blight,0
+D:\Rice\data\sethy\Bacterialblight\BACTERIALBLIGHT1_232.JPG,bacterial_leaf_blight,0
+D:\Rice\data\sethy\Bacterialblight\BACTERIALBLIGHT1_247.jpg,bacterial_leaf_blight,0
+D:\Rice\data\sethy\Bacterialblight\BACTERIALBLIGHT2_003.jpg,bacterial_leaf_blight,0
+D:\Rice\data\sethy\Bacterialblight\BACTERIALBLIGHT2_004.jpg,bacterial_leaf_blight,0
+D:\Rice\data\sethy\Bacterialblight\BACTERIALBLIGHT2_005.jpg,bacterial_leaf_blight,0
+D:\Rice\data\sethy\Bacterialblight\BACTERIALBLIGHT2_006.jpg,bacterial_leaf_blight,0
+D:\Rice\data\sethy\Bacterialblight\BACTERIALBLIGHT2_017.jpg,bacterial_leaf_blight,0
+D:\Rice\data\sethy\Bacterialblight\BACTERIALBLIGHT2_018.jpg,bacterial_leaf_blight,0
+D:\Rice\data\sethy\Bacterialblight\BACTERIALBLIGHT2_019.jpg,bacterial_leaf_blight,0
+D:\Rice\data\sethy\Bacterialblight\BACTERIALBLIGHT2_020.jpg,bacterial_leaf_blight,0
+D:\Rice\data\sethy\Bacterialblight\BACTERIALBLIGHT2_032.jpg,bacterial_leaf_blight,0
+D:\Rice\data\sethy\Bacterialblight\BACTERIALBLIGHT2_033.jpg,bacterial_leaf_blight,0
+D:\Rice\data\sethy\Bacterialblight\BACTERIALBLIGHT2_075.jpg,bacterial_leaf_blight,0
+D:\Rice\data\sethy\Bacterialblight\BACTERIALBLIGHT2_077.jpg,bacterial_leaf_blight,0
+D:\Rice\data\sethy\Bacterialblight\BACTERIALBLIGHT2_080.jpg,bacterial_leaf_blight,0
+D:\Rice\data\sethy\Bacterialblight\BACTERIALBLIGHT2_089.jpg,bacterial_leaf_blight,0
+D:\Rice\data\sethy\Bacterialblight\BACTERIALBLIGHT2_100.jpg,bacterial_leaf_blight,0
+D:\Rice\data\sethy\Bacterialblight\BACTERIALBLIGHT2_105.jpg,bacterial_leaf_blight,0
+D:\Rice\data\sethy\Bacterialblight\BACTERIALBLIGHT2_106.jpg,bacterial_leaf_blight,0
+D:\Rice\data\sethy\Bacterialblight\BACTERIALBLIGHT2_110.JPG,bacterial_leaf_blight,0
+D:\Rice\data\sethy\Bacterialblight\BACTERIALBLIGHT2_112.jpg,bacterial_leaf_blight,0
+D:\Rice\data\sethy\Bacterialblight\BACTERIALBLIGHT2_130.jpg,bacterial_leaf_blight,0
+D:\Rice\data\sethy\Bacterialblight\BACTERIALBLIGHT2_136.JPG,bacterial_leaf_blight,0
+D:\Rice\data\sethy\Bacterialblight\BACTERIALBLIGHT2_150.jpg,bacterial_leaf_blight,0
+D:\Rice\data\sethy\Bacterialblight\BACTERIALBLIGHT2_175.jpg,bacterial_leaf_blight,0
+D:\Rice\data\sethy\Bacterialblight\BACTERIALBLIGHT2_176.jpg,bacterial_leaf_blight,0
+D:\Rice\data\sethy\Bacterialblight\BACTERIALBLIGHT2_185.jpg,bacterial_leaf_blight,0
+D:\Rice\data\sethy\Bacterialblight\BACTERIALBLIGHT2_196.jpg,bacterial_leaf_blight,0
+D:\Rice\data\sethy\Bacterialblight\BACTERIALBLIGHT2_201.jpg,bacterial_leaf_blight,0
+D:\Rice\data\sethy\Bacterialblight\BACTERIALBLIGHT2_206.JPG,bacterial_leaf_blight,0
+D:\Rice\data\sethy\Bacterialblight\BACTERIALBLIGHT2_208.jpg,bacterial_leaf_blight,0
+D:\Rice\data\sethy\Bacterialblight\BACTERIALBLIGHT2_226.jpg,bacterial_leaf_blight,0
+D:\Rice\data\sethy\Bacterialblight\BACTERIALBLIGHT2_232.JPG,bacterial_leaf_blight,0
+D:\Rice\data\sethy\Bacterialblight\BACTERIALBLIGHT2_247.jpg,bacterial_leaf_blight,0
+D:\Rice\data\sethy\Bacterialblight\BACTERIALBLIGHT_003.jpg,bacterial_leaf_blight,0
+D:\Rice\data\sethy\Bacterialblight\BACTERIALBLIGHT_004.jpg,bacterial_leaf_blight,0
+D:\Rice\data\sethy\Bacterialblight\BACTERIALBLIGHT_005.jpg,bacterial_leaf_blight,0
+D:\Rice\data\sethy\Bacterialblight\BACTERIALBLIGHT_006.jpg,bacterial_leaf_blight,0
+D:\Rice\data\sethy\Bacterialblight\BACTERIALBLIGHT_017.jpg,bacterial_leaf_blight,0
+D:\Rice\data\sethy\Bacterialblight\BACTERIALBLIGHT_018.jpg,bacterial_leaf_blight,0
+D:\Rice\data\sethy\Bacterialblight\BACTERIALBLIGHT_019.jpg,bacterial_leaf_blight,0
+D:\Rice\data\sethy\Bacterialblight\BACTERIALBLIGHT_020.jpg,bacterial_leaf_blight,0
+D:\Rice\data\sethy\Bacterialblight\BACTERIALBLIGHT_032.jpg,bacterial_leaf_blight,0
+D:\Rice\data\sethy\Bacterialblight\BACTERIALBLIGHT_033.jpg,bacterial_leaf_blight,0
+D:\Rice\data\sethy\Bacterialblight\BACTERIALBLIGHT_075.jpg,bacterial_leaf_blight,0
+D:\Rice\data\sethy\Bacterialblight\BACTERIALBLIGHT_077.jpg,bacterial_leaf_blight,0
+D:\Rice\data\sethy\Bacterialblight\BACTERIALBLIGHT_080.jpg,bacterial_leaf_blight,0
+D:\Rice\data\sethy\Bacterialblight\BACTERIALBLIGHT_089.jpg,bacterial_leaf_blight,0
+D:\Rice\data\sethy\Bacterialblight\BACTERIALBLIGHT_100.jpg,bacterial_leaf_blight,0
+D:\Rice\data\sethy\Bacterialblight\BACTERIALBLIGHT_105.jpg,bacterial_leaf_blight,0
+D:\Rice\data\sethy\Bacterialblight\BACTERIALBLIGHT_106.jpg,bacterial_leaf_blight,0
+D:\Rice\data\sethy\Bacterialblight\BACTERIALBLIGHT_110.JPG,bacterial_leaf_blight,0
+D:\Rice\data\sethy\Bacterialblight\BACTERIALBLIGHT_112.jpg,bacterial_leaf_blight,0
+D:\Rice\data\sethy\Bacterialblight\BACTERIALBLIGHT_130.jpg,bacterial_leaf_blight,0
+D:\Rice\data\sethy\Bacterialblight\BACTERIALBLIGHT_136.JPG,bacterial_leaf_blight,0
+D:\Rice\data\sethy\Bacterialblight\BACTERIALBLIGHT_150.jpg,bacterial_leaf_blight,0
+D:\Rice\data\sethy\Bacterialblight\BACTERIALBLIGHT_175.jpg,bacterial_leaf_blight,0
+D:\Rice\data\sethy\Bacterialblight\BACTERIALBLIGHT_176.jpg,bacterial_leaf_blight,0
+D:\Rice\data\sethy\Bacterialblight\BACTERIALBLIGHT_185.jpg,bacterial_leaf_blight,0
+D:\Rice\data\sethy\Bacterialblight\BACTERIALBLIGHT_196.jpg,bacterial_leaf_blight,0
+D:\Rice\data\sethy\Bacterialblight\BACTERIALBLIGHT_201.jpg,bacterial_leaf_blight,0
+D:\Rice\data\sethy\Bacterialblight\BACTERIALBLIGHT_206.JPG,bacterial_leaf_blight,0
+D:\Rice\data\sethy\Bacterialblight\BACTERIALBLIGHT_208.jpg,bacterial_leaf_blight,0
+D:\Rice\data\sethy\Bacterialblight\BACTERIALBLIGHT_226.jpg,bacterial_leaf_blight,0
+D:\Rice\data\sethy\Bacterialblight\BACTERIALBLIGHT_232.JPG,bacterial_leaf_blight,0
+D:\Rice\data\sethy\Bacterialblight\BACTERIALBLIGHT_247.jpg,bacterial_leaf_blight,0
+D:\Rice\data\sethy\Blast\BLAST1_004.jpg,blast,4
+D:\Rice\data\sethy\Blast\BLAST1_013.jpg,blast,4
+D:\Rice\data\sethy\Blast\BLAST1_024.jpg,blast,4
+D:\Rice\data\sethy\Blast\BLAST1_029.jpg,blast,4
+D:\Rice\data\sethy\Blast\BLAST1_032.jpg,blast,4
+D:\Rice\data\sethy\Blast\BLAST1_034.jpg,blast,4
+D:\Rice\data\sethy\Blast\BLAST1_043.JPG,blast,4
+D:\Rice\data\sethy\Blast\BLAST1_050.JPG,blast,4
+D:\Rice\data\sethy\Blast\BLAST1_062.jpg,blast,4
+D:\Rice\data\sethy\Blast\BLAST1_071.JPG,blast,4
+D:\Rice\data\sethy\Blast\BLAST1_080.jpg,blast,4
+D:\Rice\data\sethy\Blast\BLAST1_084.jpg,blast,4
+D:\Rice\data\sethy\Blast\BLAST1_091.jpg,blast,4
+D:\Rice\data\sethy\Blast\BLAST1_104.jpg,blast,4
+D:\Rice\data\sethy\Blast\BLAST1_107.jpg,blast,4
+D:\Rice\data\sethy\Blast\BLAST1_112.jpg,blast,4
+D:\Rice\data\sethy\Blast\BLAST1_114.jpg,blast,4
+D:\Rice\data\sethy\Blast\BLAST1_121.JPG,blast,4
+D:\Rice\data\sethy\Blast\BLAST1_129.JPG,blast,4
+D:\Rice\data\sethy\Blast\BLAST1_141.jpg,blast,4
+D:\Rice\data\sethy\Blast\BLAST1_150.JPG,blast,4
+D:\Rice\data\sethy\Blast\BLAST1_159.jpg,blast,4
+D:\Rice\data\sethy\Blast\BLAST2_004.jpg,blast,4
+D:\Rice\data\sethy\Blast\BLAST2_013.jpg,blast,4
+D:\Rice\data\sethy\Blast\BLAST2_024.jpg,blast,4
+D:\Rice\data\sethy\Blast\BLAST2_029.jpg,blast,4
+D:\Rice\data\sethy\Blast\BLAST2_032.jpg,blast,4
+D:\Rice\data\sethy\Blast\BLAST2_034.jpg,blast,4
+D:\Rice\data\sethy\Blast\BLAST2_043.JPG,blast,4
+D:\Rice\data\sethy\Blast\BLAST2_050.JPG,blast,4
+D:\Rice\data\sethy\Blast\BLAST2_062.jpg,blast,4
+D:\Rice\data\sethy\Blast\BLAST2_071.JPG,blast,4
+D:\Rice\data\sethy\Blast\BLAST2_080.jpg,blast,4
+D:\Rice\data\sethy\Blast\BLAST2_084.jpg,blast,4
+D:\Rice\data\sethy\Blast\BLAST2_091.jpg,blast,4
+D:\Rice\data\sethy\Blast\BLAST2_104.jpg,blast,4
+D:\Rice\data\sethy\Blast\BLAST2_107.jpg,blast,4
+D:\Rice\data\sethy\Blast\BLAST2_112.jpg,blast,4
+D:\Rice\data\sethy\Blast\BLAST2_114.jpg,blast,4
+D:\Rice\data\sethy\Blast\BLAST2_121.JPG,blast,4
+D:\Rice\data\sethy\Blast\BLAST2_129.JPG,blast,4
+D:\Rice\data\sethy\Blast\BLAST2_141.jpg,blast,4
+D:\Rice\data\sethy\Blast\BLAST2_150.JPG,blast,4
+D:\Rice\data\sethy\Blast\BLAST2_159.jpg,blast,4
+D:\Rice\data\sethy\Blast\BLAST3_004.jpg,blast,4
+D:\Rice\data\sethy\Blast\BLAST3_013.jpg,blast,4
+D:\Rice\data\sethy\Blast\BLAST3_024.jpg,blast,4
+D:\Rice\data\sethy\Blast\BLAST3_029.jpg,blast,4
+D:\Rice\data\sethy\Blast\BLAST3_032.jpg,blast,4
+D:\Rice\data\sethy\Blast\BLAST3_034.jpg,blast,4
+D:\Rice\data\sethy\Blast\BLAST3_043.JPG,blast,4
+D:\Rice\data\sethy\Blast\BLAST3_050.JPG,blast,4
+D:\Rice\data\sethy\Blast\BLAST3_062.jpg,blast,4
+D:\Rice\data\sethy\Blast\BLAST3_071.JPG,blast,4
+D:\Rice\data\sethy\Blast\BLAST3_080.jpg,blast,4
+D:\Rice\data\sethy\Blast\BLAST3_084.jpg,blast,4
+D:\Rice\data\sethy\Blast\BLAST3_091.jpg,blast,4
+D:\Rice\data\sethy\Blast\BLAST3_104.jpg,blast,4
+D:\Rice\data\sethy\Blast\BLAST3_107.jpg,blast,4
+D:\Rice\data\sethy\Blast\BLAST3_112.jpg,blast,4
+D:\Rice\data\sethy\Blast\BLAST3_114.jpg,blast,4
+D:\Rice\data\sethy\Blast\BLAST3_121.JPG,blast,4
+D:\Rice\data\sethy\Blast\BLAST3_129.JPG,blast,4
+D:\Rice\data\sethy\Blast\BLAST3_141.jpg,blast,4
+D:\Rice\data\sethy\Blast\BLAST3_150.JPG,blast,4
+D:\Rice\data\sethy\Blast\BLAST3_159.jpg,blast,4
+D:\Rice\data\sethy\Blast\BLAST4_004.jpg,blast,4
+D:\Rice\data\sethy\Blast\BLAST4_013.jpg,blast,4
+D:\Rice\data\sethy\Blast\BLAST4_024.jpg,blast,4
+D:\Rice\data\sethy\Blast\BLAST4_029.jpg,blast,4
+D:\Rice\data\sethy\Blast\BLAST4_032.jpg,blast,4
+D:\Rice\data\sethy\Blast\BLAST4_034.jpg,blast,4
+D:\Rice\data\sethy\Blast\BLAST4_043.JPG,blast,4
+D:\Rice\data\sethy\Blast\BLAST4_050.JPG,blast,4
+D:\Rice\data\sethy\Blast\BLAST4_062.jpg,blast,4
+D:\Rice\data\sethy\Blast\BLAST4_071.JPG,blast,4
+D:\Rice\data\sethy\Blast\BLAST4_080.jpg,blast,4
+D:\Rice\data\sethy\Blast\BLAST4_084.jpg,blast,4
+D:\Rice\data\sethy\Blast\BLAST4_091.jpg,blast,4
+D:\Rice\data\sethy\Blast\BLAST4_104.jpg,blast,4
+D:\Rice\data\sethy\Blast\BLAST4_107.jpg,blast,4
+D:\Rice\data\sethy\Blast\BLAST4_112.jpg,blast,4
+D:\Rice\data\sethy\Blast\BLAST4_114.jpg,blast,4
+D:\Rice\data\sethy\Blast\BLAST4_121.JPG,blast,4
+D:\Rice\data\sethy\Blast\BLAST4_129.JPG,blast,4
+D:\Rice\data\sethy\Blast\BLAST4_141.jpg,blast,4
+D:\Rice\data\sethy\Blast\BLAST4_150.JPG,blast,4
+D:\Rice\data\sethy\Blast\BLAST4_159.jpg,blast,4
+D:\Rice\data\sethy\Blast\BLAST8_004.jpg,blast,4
+D:\Rice\data\sethy\Blast\BLAST8_013.jpg,blast,4
+D:\Rice\data\sethy\Blast\BLAST8_024.jpg,blast,4
+D:\Rice\data\sethy\Blast\BLAST8_029.jpg,blast,4
+D:\Rice\data\sethy\Blast\BLAST8_032.jpg,blast,4
+D:\Rice\data\sethy\Blast\BLAST8_034.jpg,blast,4
+D:\Rice\data\sethy\Blast\BLAST8_043.JPG,blast,4
+D:\Rice\data\sethy\Blast\BLAST8_050.JPG,blast,4
+D:\Rice\data\sethy\Blast\BLAST8_062.jpg,blast,4
+D:\Rice\data\sethy\Blast\BLAST8_071.JPG,blast,4
+D:\Rice\data\sethy\Blast\BLAST8_080.jpg,blast,4
+D:\Rice\data\sethy\Blast\BLAST8_084.jpg,blast,4
+D:\Rice\data\sethy\Blast\BLAST8_091.jpg,blast,4
+D:\Rice\data\sethy\Blast\BLAST8_104.jpg,blast,4
+D:\Rice\data\sethy\Blast\BLAST8_107.jpg,blast,4
+D:\Rice\data\sethy\Blast\BLAST8_112.jpg,blast,4
+D:\Rice\data\sethy\Blast\BLAST8_114.jpg,blast,4
+D:\Rice\data\sethy\Blast\BLAST8_121.JPG,blast,4
+D:\Rice\data\sethy\Blast\BLAST8_129.JPG,blast,4
+D:\Rice\data\sethy\Blast\BLAST8_141.jpg,blast,4
+D:\Rice\data\sethy\Blast\BLAST8_150.JPG,blast,4
+D:\Rice\data\sethy\Blast\BLAST8_159.jpg,blast,4
+D:\Rice\data\sethy\Blast\BLAST9_004.jpg,blast,4
+D:\Rice\data\sethy\Blast\BLAST9_013.jpg,blast,4
+D:\Rice\data\sethy\Blast\BLAST9_024.jpg,blast,4
+D:\Rice\data\sethy\Blast\BLAST9_029.jpg,blast,4
+D:\Rice\data\sethy\Blast\BLAST9_032.jpg,blast,4
+D:\Rice\data\sethy\Blast\BLAST9_034.jpg,blast,4
+D:\Rice\data\sethy\Blast\BLAST9_043.JPG,blast,4
+D:\Rice\data\sethy\Blast\BLAST9_050.JPG,blast,4
+D:\Rice\data\sethy\Blast\BLAST9_062.jpg,blast,4
+D:\Rice\data\sethy\Blast\BLAST9_071.JPG,blast,4
+D:\Rice\data\sethy\Blast\BLAST9_080.jpg,blast,4
+D:\Rice\data\sethy\Blast\BLAST9_084.jpg,blast,4
+D:\Rice\data\sethy\Blast\BLAST9_091.jpg,blast,4
+D:\Rice\data\sethy\Blast\BLAST9_104.jpg,blast,4
+D:\Rice\data\sethy\Blast\BLAST9_107.jpg,blast,4
+D:\Rice\data\sethy\Blast\BLAST9_112.jpg,blast,4
+D:\Rice\data\sethy\Blast\BLAST9_114.jpg,blast,4
+D:\Rice\data\sethy\Blast\BLAST9_121.JPG,blast,4
+D:\Rice\data\sethy\Blast\BLAST9_129.JPG,blast,4
+D:\Rice\data\sethy\Blast\BLAST9_141.jpg,blast,4
+D:\Rice\data\sethy\Blast\BLAST9_150.JPG,blast,4
+D:\Rice\data\sethy\Blast\BLAST9_159.jpg,blast,4
+D:\Rice\data\sethy\Brownspot\BROWNSPOT1_002.jpg,brown_spot,5
+D:\Rice\data\sethy\Brownspot\BROWNSPOT1_010.jpg,brown_spot,5
+D:\Rice\data\sethy\Brownspot\BROWNSPOT1_011.jpg,brown_spot,5
+D:\Rice\data\sethy\Brownspot\BROWNSPOT1_021.jpg,brown_spot,5
+D:\Rice\data\sethy\Brownspot\BROWNSPOT1_026.jpg,brown_spot,5
+D:\Rice\data\sethy\Brownspot\BROWNSPOT1_029.jpg,brown_spot,5
+D:\Rice\data\sethy\Brownspot\BROWNSPOT1_039.jpg,brown_spot,5
+D:\Rice\data\sethy\Brownspot\BROWNSPOT1_054.jpg,brown_spot,5
+D:\Rice\data\sethy\Brownspot\BROWNSPOT1_067.jpg,brown_spot,5
+D:\Rice\data\sethy\Brownspot\BROWNSPOT1_071.jpg,brown_spot,5
+D:\Rice\data\sethy\Brownspot\BROWNSPOT1_077.jpg,brown_spot,5
+D:\Rice\data\sethy\Brownspot\BROWNSPOT1_078.jpg,brown_spot,5
+D:\Rice\data\sethy\Brownspot\BROWNSPOT1_083.jpg,brown_spot,5
+D:\Rice\data\sethy\Brownspot\BROWNSPOT1_090.jpg,brown_spot,5
+D:\Rice\data\sethy\Brownspot\BROWNSPOT1_102.jpg,brown_spot,5
+D:\Rice\data\sethy\Brownspot\BROWNSPOT1_109.jpg,brown_spot,5
+D:\Rice\data\sethy\Brownspot\BROWNSPOT1_110.jpg,brown_spot,5
+D:\Rice\data\sethy\Brownspot\BROWNSPOT1_120.jpg,brown_spot,5
+D:\Rice\data\sethy\Brownspot\BROWNSPOT1_125.jpg,brown_spot,5
+D:\Rice\data\sethy\Brownspot\BROWNSPOT1_128.jpg,brown_spot,5
+D:\Rice\data\sethy\Brownspot\BROWNSPOT1_138.jpg,brown_spot,5
+D:\Rice\data\sethy\Brownspot\BROWNSPOT1_153.jpg,brown_spot,5
+D:\Rice\data\sethy\Brownspot\BROWNSPOT1_166.jpg,brown_spot,5
+D:\Rice\data\sethy\Brownspot\BROWNSPOT1_170.jpg,brown_spot,5
+D:\Rice\data\sethy\Brownspot\BROWNSPOT1_176.jpg,brown_spot,5
+D:\Rice\data\sethy\Brownspot\BROWNSPOT1_177.jpg,brown_spot,5
+D:\Rice\data\sethy\Brownspot\BROWNSPOT1_183.jpg,brown_spot,5
+D:\Rice\data\sethy\Brownspot\BROWNSPOT1_189.jpg,brown_spot,5
+D:\Rice\data\sethy\Brownspot\BROWNSPOT2_002.jpg,brown_spot,5
+D:\Rice\data\sethy\Brownspot\BROWNSPOT2_010.jpg,brown_spot,5
+D:\Rice\data\sethy\Brownspot\BROWNSPOT2_011.jpg,brown_spot,5
+D:\Rice\data\sethy\Brownspot\BROWNSPOT2_021.jpg,brown_spot,5
+D:\Rice\data\sethy\Brownspot\BROWNSPOT2_026.jpg,brown_spot,5
+D:\Rice\data\sethy\Brownspot\BROWNSPOT2_029.jpg,brown_spot,5
+D:\Rice\data\sethy\Brownspot\BROWNSPOT2_039.jpg,brown_spot,5
+D:\Rice\data\sethy\Brownspot\BROWNSPOT2_054.jpg,brown_spot,5
+D:\Rice\data\sethy\Brownspot\BROWNSPOT2_067.jpg,brown_spot,5
+D:\Rice\data\sethy\Brownspot\BROWNSPOT2_071.jpg,brown_spot,5
+D:\Rice\data\sethy\Brownspot\BROWNSPOT2_077.jpg,brown_spot,5
+D:\Rice\data\sethy\Brownspot\BROWNSPOT2_078.jpg,brown_spot,5
+D:\Rice\data\sethy\Brownspot\BROWNSPOT2_083.jpg,brown_spot,5
+D:\Rice\data\sethy\Brownspot\BROWNSPOT2_090.jpg,brown_spot,5
+D:\Rice\data\sethy\Brownspot\BROWNSPOT2_102.jpg,brown_spot,5
+D:\Rice\data\sethy\Brownspot\BROWNSPOT2_109.jpg,brown_spot,5
+D:\Rice\data\sethy\Brownspot\BROWNSPOT2_110.jpg,brown_spot,5
+D:\Rice\data\sethy\Brownspot\BROWNSPOT2_120.jpg,brown_spot,5
+D:\Rice\data\sethy\Brownspot\BROWNSPOT2_125.jpg,brown_spot,5
+D:\Rice\data\sethy\Brownspot\BROWNSPOT2_128.jpg,brown_spot,5
+D:\Rice\data\sethy\Brownspot\BROWNSPOT2_138.jpg,brown_spot,5
+D:\Rice\data\sethy\Brownspot\BROWNSPOT2_153.jpg,brown_spot,5
+D:\Rice\data\sethy\Brownspot\BROWNSPOT2_166.jpg,brown_spot,5
+D:\Rice\data\sethy\Brownspot\BROWNSPOT2_170.jpg,brown_spot,5
+D:\Rice\data\sethy\Brownspot\BROWNSPOT2_176.jpg,brown_spot,5
+D:\Rice\data\sethy\Brownspot\BROWNSPOT2_177.jpg,brown_spot,5
+D:\Rice\data\sethy\Brownspot\BROWNSPOT2_183.jpg,brown_spot,5
+D:\Rice\data\sethy\Brownspot\BROWNSPOT2_189.jpg,brown_spot,5
+D:\Rice\data\sethy\Brownspot\BROWNSPOT3_002.jpg,brown_spot,5
+D:\Rice\data\sethy\Brownspot\BROWNSPOT3_010.jpg,brown_spot,5
+D:\Rice\data\sethy\Brownspot\BROWNSPOT3_011.jpg,brown_spot,5
+D:\Rice\data\sethy\Brownspot\BROWNSPOT3_021.jpg,brown_spot,5
+D:\Rice\data\sethy\Brownspot\BROWNSPOT3_026.jpg,brown_spot,5
+D:\Rice\data\sethy\Brownspot\BROWNSPOT3_029.jpg,brown_spot,5
+D:\Rice\data\sethy\Brownspot\BROWNSPOT3_039.jpg,brown_spot,5
+D:\Rice\data\sethy\Brownspot\BROWNSPOT3_054.jpg,brown_spot,5
+D:\Rice\data\sethy\Brownspot\BROWNSPOT3_067.jpg,brown_spot,5
+D:\Rice\data\sethy\Brownspot\BROWNSPOT3_071.jpg,brown_spot,5
+D:\Rice\data\sethy\Brownspot\BROWNSPOT3_077.jpg,brown_spot,5
+D:\Rice\data\sethy\Brownspot\BROWNSPOT3_078.jpg,brown_spot,5
+D:\Rice\data\sethy\Brownspot\BROWNSPOT3_083.jpg,brown_spot,5
+D:\Rice\data\sethy\Brownspot\BROWNSPOT3_090.jpg,brown_spot,5
+D:\Rice\data\sethy\Brownspot\BROWNSPOT3_102.jpg,brown_spot,5
+D:\Rice\data\sethy\Brownspot\BROWNSPOT3_109.jpg,brown_spot,5
+D:\Rice\data\sethy\Brownspot\BROWNSPOT3_110.jpg,brown_spot,5
+D:\Rice\data\sethy\Brownspot\BROWNSPOT3_120.jpg,brown_spot,5
+D:\Rice\data\sethy\Brownspot\BROWNSPOT3_125.jpg,brown_spot,5
+D:\Rice\data\sethy\Brownspot\BROWNSPOT3_128.jpg,brown_spot,5
+D:\Rice\data\sethy\Brownspot\BROWNSPOT3_138.jpg,brown_spot,5
+D:\Rice\data\sethy\Brownspot\BROWNSPOT3_153.jpg,brown_spot,5
+D:\Rice\data\sethy\Brownspot\BROWNSPOT3_166.jpg,brown_spot,5
+D:\Rice\data\sethy\Brownspot\BROWNSPOT3_170.jpg,brown_spot,5
+D:\Rice\data\sethy\Brownspot\BROWNSPOT3_176.jpg,brown_spot,5
+D:\Rice\data\sethy\Brownspot\BROWNSPOT3_177.jpg,brown_spot,5
+D:\Rice\data\sethy\Brownspot\BROWNSPOT3_183.jpg,brown_spot,5
+D:\Rice\data\sethy\Brownspot\BROWNSPOT3_189.jpg,brown_spot,5
+D:\Rice\data\sethy\Brownspot\BROWNSPOT6_002.jpg,brown_spot,5
+D:\Rice\data\sethy\Brownspot\BROWNSPOT6_010.jpg,brown_spot,5
+D:\Rice\data\sethy\Brownspot\BROWNSPOT6_011.jpg,brown_spot,5
+D:\Rice\data\sethy\Brownspot\BROWNSPOT6_021.jpg,brown_spot,5
+D:\Rice\data\sethy\Brownspot\BROWNSPOT6_026.jpg,brown_spot,5
+D:\Rice\data\sethy\Brownspot\BROWNSPOT6_029.jpg,brown_spot,5
+D:\Rice\data\sethy\Brownspot\BROWNSPOT6_039.jpg,brown_spot,5
+D:\Rice\data\sethy\Brownspot\BROWNSPOT6_054.jpg,brown_spot,5
+D:\Rice\data\sethy\Brownspot\BROWNSPOT6_067.jpg,brown_spot,5
+D:\Rice\data\sethy\Brownspot\BROWNSPOT6_071.jpg,brown_spot,5
+D:\Rice\data\sethy\Brownspot\BROWNSPOT6_077.jpg,brown_spot,5
+D:\Rice\data\sethy\Brownspot\BROWNSPOT6_078.jpg,brown_spot,5
+D:\Rice\data\sethy\Brownspot\BROWNSPOT6_083.jpg,brown_spot,5
+D:\Rice\data\sethy\Brownspot\BROWNSPOT6_090.jpg,brown_spot,5
+D:\Rice\data\sethy\Brownspot\BROWNSPOT6_102.jpg,brown_spot,5
+D:\Rice\data\sethy\Brownspot\BROWNSPOT6_109.jpg,brown_spot,5
+D:\Rice\data\sethy\Brownspot\BROWNSPOT6_110.jpg,brown_spot,5
+D:\Rice\data\sethy\Brownspot\BROWNSPOT6_120.jpg,brown_spot,5
+D:\Rice\data\sethy\Brownspot\BROWNSPOT6_125.jpg,brown_spot,5
+D:\Rice\data\sethy\Brownspot\BROWNSPOT6_128.jpg,brown_spot,5
+D:\Rice\data\sethy\Brownspot\BROWNSPOT6_138.jpg,brown_spot,5
+D:\Rice\data\sethy\Brownspot\BROWNSPOT6_153.jpg,brown_spot,5
+D:\Rice\data\sethy\Brownspot\BROWNSPOT6_166.jpg,brown_spot,5
+D:\Rice\data\sethy\Brownspot\BROWNSPOT6_170.jpg,brown_spot,5
+D:\Rice\data\sethy\Brownspot\BROWNSPOT6_176.jpg,brown_spot,5
+D:\Rice\data\sethy\Brownspot\BROWNSPOT6_177.jpg,brown_spot,5
+D:\Rice\data\sethy\Brownspot\BROWNSPOT6_183.jpg,brown_spot,5
+D:\Rice\data\sethy\Brownspot\BROWNSPOT6_189.jpg,brown_spot,5
+D:\Rice\data\sethy\Brownspot\BROWNSPOT7_002.jpg,brown_spot,5
+D:\Rice\data\sethy\Brownspot\BROWNSPOT7_010.jpg,brown_spot,5
+D:\Rice\data\sethy\Brownspot\BROWNSPOT7_011.jpg,brown_spot,5
+D:\Rice\data\sethy\Brownspot\BROWNSPOT7_021.jpg,brown_spot,5
+D:\Rice\data\sethy\Brownspot\BROWNSPOT7_026.jpg,brown_spot,5
+D:\Rice\data\sethy\Brownspot\BROWNSPOT7_029.jpg,brown_spot,5
+D:\Rice\data\sethy\Brownspot\BROWNSPOT7_039.jpg,brown_spot,5
+D:\Rice\data\sethy\Brownspot\BROWNSPOT7_054.jpg,brown_spot,5
+D:\Rice\data\sethy\Brownspot\BROWNSPOT7_067.jpg,brown_spot,5
+D:\Rice\data\sethy\Brownspot\BROWNSPOT7_071.jpg,brown_spot,5
+D:\Rice\data\sethy\Brownspot\BROWNSPOT7_077.jpg,brown_spot,5
+D:\Rice\data\sethy\Brownspot\BROWNSPOT7_078.jpg,brown_spot,5
+D:\Rice\data\sethy\Brownspot\BROWNSPOT7_083.jpg,brown_spot,5
+D:\Rice\data\sethy\Brownspot\BROWNSPOT7_090.jpg,brown_spot,5
+D:\Rice\data\sethy\Brownspot\BROWNSPOT7_102.jpg,brown_spot,5
+D:\Rice\data\sethy\Brownspot\BROWNSPOT7_109.jpg,brown_spot,5
+D:\Rice\data\sethy\Brownspot\BROWNSPOT7_110.jpg,brown_spot,5
+D:\Rice\data\sethy\Brownspot\BROWNSPOT7_120.jpg,brown_spot,5
+D:\Rice\data\sethy\Brownspot\BROWNSPOT7_125.jpg,brown_spot,5
+D:\Rice\data\sethy\Brownspot\BROWNSPOT7_128.jpg,brown_spot,5
+D:\Rice\data\sethy\Brownspot\BROWNSPOT7_138.jpg,brown_spot,5
+D:\Rice\data\sethy\Brownspot\BROWNSPOT7_153.jpg,brown_spot,5
+D:\Rice\data\sethy\Brownspot\BROWNSPOT7_166.jpg,brown_spot,5
+D:\Rice\data\sethy\Brownspot\BROWNSPOT7_170.jpg,brown_spot,5
+D:\Rice\data\sethy\Brownspot\BROWNSPOT7_176.jpg,brown_spot,5
+D:\Rice\data\sethy\Brownspot\BROWNSPOT7_177.jpg,brown_spot,5
+D:\Rice\data\sethy\Brownspot\BROWNSPOT7_183.jpg,brown_spot,5
+D:\Rice\data\sethy\Brownspot\BROWNSPOT7_189.jpg,brown_spot,5
+D:\Rice\data\sethy\Brownspot\brownspot_orig_002.jpg,brown_spot,5
+D:\Rice\data\sethy\Brownspot\brownspot_orig_010.jpg,brown_spot,5
+D:\Rice\data\sethy\Brownspot\brownspot_orig_011.jpg,brown_spot,5
+D:\Rice\data\sethy\Brownspot\brownspot_orig_021.jpg,brown_spot,5
+D:\Rice\data\sethy\Brownspot\brownspot_orig_026.jpg,brown_spot,5
+D:\Rice\data\sethy\Brownspot\brownspot_orig_029.jpg,brown_spot,5
+D:\Rice\data\sethy\Brownspot\brownspot_orig_039.jpg,brown_spot,5
+D:\Rice\data\sethy\Brownspot\brownspot_orig_054.jpg,brown_spot,5
+D:\Rice\data\sethy\Brownspot\brownspot_orig_067.jpg,brown_spot,5
+D:\Rice\data\sethy\Brownspot\brownspot_orig_071.jpg,brown_spot,5
+D:\Rice\data\sethy\Brownspot\brownspot_orig_077.jpg,brown_spot,5
+D:\Rice\data\sethy\Brownspot\brownspot_orig_078.jpg,brown_spot,5
+D:\Rice\data\sethy\Brownspot\brownspot_orig_083.jpg,brown_spot,5
+D:\Rice\data\sethy\Brownspot\brownspot_orig_090.jpg,brown_spot,5
+D:\Rice\data\sethy\Brownspot\brownspot_rotated_002.jpg,brown_spot,5
+D:\Rice\data\sethy\Brownspot\brownspot_rotated_009.jpg,brown_spot,5
+D:\Rice\data\sethy\Brownspot\brownspot_rotated_010.jpg,brown_spot,5
+D:\Rice\data\sethy\Brownspot\brownspot_rotated_020.jpg,brown_spot,5
+D:\Rice\data\sethy\Brownspot\brownspot_rotated_025.jpg,brown_spot,5
+D:\Rice\data\sethy\Brownspot\brownspot_rotated_028.jpg,brown_spot,5
+D:\Rice\data\sethy\Brownspot\brownspot_rotated_038.jpg,brown_spot,5
+D:\Rice\data\sethy\Brownspot\brownspot_rotated_053.jpg,brown_spot,5
+D:\Rice\data\sethy\Brownspot\brownspot_rotated_066.jpg,brown_spot,5
+D:\Rice\data\sethy\Brownspot\brownspot_rotated_070.jpg,brown_spot,5
+D:\Rice\data\sethy\Brownspot\brownspot_rotated_076.jpg,brown_spot,5
+D:\Rice\data\sethy\Brownspot\brownspot_rotated_077.jpg,brown_spot,5
+D:\Rice\data\sethy\Brownspot\brownspot_rotated_083.jpg,brown_spot,5
+D:\Rice\data\sethy\Brownspot\brownspot_rotated_089.jpg,brown_spot,5
+D:\Rice\data\sethy\Tungro\TUNGRO1_008.jpg,tungro,18
+D:\Rice\data\sethy\Tungro\TUNGRO1_012.jpg,tungro,18
+D:\Rice\data\sethy\Tungro\TUNGRO1_049.jpg,tungro,18
+D:\Rice\data\sethy\Tungro\TUNGRO1_053.jpg,tungro,18
+D:\Rice\data\sethy\Tungro\TUNGRO1_056.jpg,tungro,18
+D:\Rice\data\sethy\Tungro\TUNGRO1_066.jpg,tungro,18
+D:\Rice\data\sethy\Tungro\TUNGRO1_068.jpg,tungro,18
+D:\Rice\data\sethy\Tungro\TUNGRO1_078.jpg,tungro,18
+D:\Rice\data\sethy\Tungro\TUNGRO1_137.JPG,tungro,18
+D:\Rice\data\sethy\Tungro\TUNGRO1_143.JPG,tungro,18
+D:\Rice\data\sethy\Tungro\TUNGRO1_144.JPG,tungro,18
+D:\Rice\data\sethy\Tungro\TUNGRO1_145.JPG,tungro,18
+D:\Rice\data\sethy\Tungro\TUNGRO1_146.JPG,tungro,18
+D:\Rice\data\sethy\Tungro\TUNGRO1_147.JPG,tungro,18
+D:\Rice\data\sethy\Tungro\TUNGRO1_148.JPG,tungro,18
+D:\Rice\data\sethy\Tungro\TUNGRO1_227.JPG,tungro,18
+D:\Rice\data\sethy\Tungro\TUNGRO1_241.JPG,tungro,18
+D:\Rice\data\sethy\Tungro\TUNGRO1_242.JPG,tungro,18
+D:\Rice\data\sethy\Tungro\TUNGRO1_243.JPG,tungro,18
+D:\Rice\data\sethy\Tungro\TUNGRO1_244.JPG,tungro,18
+D:\Rice\data\sethy\Tungro\TUNGRO2_008.jpg,tungro,18
+D:\Rice\data\sethy\Tungro\TUNGRO2_012.jpg,tungro,18
+D:\Rice\data\sethy\Tungro\TUNGRO2_049.jpg,tungro,18
+D:\Rice\data\sethy\Tungro\TUNGRO2_053.jpg,tungro,18
+D:\Rice\data\sethy\Tungro\TUNGRO2_056.jpg,tungro,18
+D:\Rice\data\sethy\Tungro\TUNGRO2_066.jpg,tungro,18
+D:\Rice\data\sethy\Tungro\TUNGRO2_068.jpg,tungro,18
+D:\Rice\data\sethy\Tungro\TUNGRO2_078.jpg,tungro,18
+D:\Rice\data\sethy\Tungro\TUNGRO2_137.JPG,tungro,18
+D:\Rice\data\sethy\Tungro\TUNGRO2_143.JPG,tungro,18
+D:\Rice\data\sethy\Tungro\TUNGRO2_144.JPG,tungro,18
+D:\Rice\data\sethy\Tungro\TUNGRO2_145.JPG,tungro,18
+D:\Rice\data\sethy\Tungro\TUNGRO2_146.JPG,tungro,18
+D:\Rice\data\sethy\Tungro\TUNGRO2_147.JPG,tungro,18
+D:\Rice\data\sethy\Tungro\TUNGRO2_148.JPG,tungro,18
+D:\Rice\data\sethy\Tungro\TUNGRO2_227.JPG,tungro,18
+D:\Rice\data\sethy\Tungro\TUNGRO2_241.JPG,tungro,18
+D:\Rice\data\sethy\Tungro\TUNGRO2_242.JPG,tungro,18
+D:\Rice\data\sethy\Tungro\TUNGRO2_243.JPG,tungro,18
+D:\Rice\data\sethy\Tungro\TUNGRO2_244.JPG,tungro,18
+D:\Rice\data\sethy\Tungro\TUNGRO3_008.jpg,tungro,18
+D:\Rice\data\sethy\Tungro\TUNGRO3_012.jpg,tungro,18
+D:\Rice\data\sethy\Tungro\TUNGRO3_049.jpg,tungro,18
+D:\Rice\data\sethy\Tungro\TUNGRO3_053.jpg,tungro,18
+D:\Rice\data\sethy\Tungro\TUNGRO3_056.jpg,tungro,18
+D:\Rice\data\sethy\Tungro\TUNGRO3_066.jpg,tungro,18
+D:\Rice\data\sethy\Tungro\TUNGRO3_068.jpg,tungro,18
+D:\Rice\data\sethy\Tungro\TUNGRO3_078.jpg,tungro,18
+D:\Rice\data\sethy\Tungro\TUNGRO3_137.JPG,tungro,18
+D:\Rice\data\sethy\Tungro\TUNGRO3_143.JPG,tungro,18
+D:\Rice\data\sethy\Tungro\TUNGRO3_144.JPG,tungro,18
+D:\Rice\data\sethy\Tungro\TUNGRO3_145.JPG,tungro,18
+D:\Rice\data\sethy\Tungro\TUNGRO3_146.JPG,tungro,18
+D:\Rice\data\sethy\Tungro\TUNGRO3_147.JPG,tungro,18
+D:\Rice\data\sethy\Tungro\TUNGRO3_148.JPG,tungro,18
+D:\Rice\data\sethy\Tungro\TUNGRO3_227.JPG,tungro,18
+D:\Rice\data\sethy\Tungro\TUNGRO3_241.JPG,tungro,18
+D:\Rice\data\sethy\Tungro\TUNGRO3_242.JPG,tungro,18
+D:\Rice\data\sethy\Tungro\TUNGRO3_243.JPG,tungro,18
+D:\Rice\data\sethy\Tungro\TUNGRO3_244.JPG,tungro,18
+D:\Rice\data\sethy\Tungro\TUNGRO4_008.jpg,tungro,18
+D:\Rice\data\sethy\Tungro\TUNGRO4_012.jpg,tungro,18
+D:\Rice\data\sethy\Tungro\TUNGRO4_049.jpg,tungro,18
+D:\Rice\data\sethy\Tungro\TUNGRO4_053.jpg,tungro,18
+D:\Rice\data\sethy\Tungro\TUNGRO4_056.jpg,tungro,18
+D:\Rice\data\sethy\Tungro\TUNGRO4_066.jpg,tungro,18
+D:\Rice\data\sethy\Tungro\TUNGRO4_068.jpg,tungro,18
+D:\Rice\data\sethy\Tungro\TUNGRO4_078.jpg,tungro,18
+D:\Rice\data\sethy\Tungro\TUNGRO4_137.JPG,tungro,18
+D:\Rice\data\sethy\Tungro\TUNGRO4_143.JPG,tungro,18
+D:\Rice\data\sethy\Tungro\TUNGRO4_144.JPG,tungro,18
+D:\Rice\data\sethy\Tungro\TUNGRO4_145.JPG,tungro,18
+D:\Rice\data\sethy\Tungro\TUNGRO4_146.JPG,tungro,18
+D:\Rice\data\sethy\Tungro\TUNGRO4_147.JPG,tungro,18
+D:\Rice\data\sethy\Tungro\TUNGRO4_148.JPG,tungro,18
+D:\Rice\data\sethy\Tungro\TUNGRO4_227.JPG,tungro,18
+D:\Rice\data\sethy\Tungro\TUNGRO4_241.JPG,tungro,18
+D:\Rice\data\sethy\Tungro\TUNGRO4_242.JPG,tungro,18
+D:\Rice\data\sethy\Tungro\TUNGRO4_243.JPG,tungro,18
+D:\Rice\data\sethy\Tungro\TUNGRO4_244.JPG,tungro,18
+D:\Rice\data\sethy\Tungro\TUNGRO5_12.jpg,tungro,18
+D:\Rice\data\sethy\Tungro\TUNGRO5_142.JPG,tungro,18
+D:\Rice\data\sethy\Tungro\TUNGRO5_160.jpg,tungro,18
+D:\Rice\data\sethy\Tungro\TUNGRO5_176.JPG,tungro,18
+D:\Rice\data\sethy\Tungro\TUNGRO5_177.JPG,tungro,18
+D:\Rice\data\sethy\Tungro\TUNGRO5_178.JPG,tungro,18
+D:\Rice\data\sethy\Tungro\TUNGRO5_26.JPG,tungro,18
+D:\Rice\data\sethy\Tungro\TUNGRO5_43.JPG,tungro,18
+D:\Rice\data\sethy\Tungro\TUNGRO5_44.JPG,tungro,18
+D:\Rice\data\sethy\Tungro\TUNGRO5_51.jpg,tungro,18
+D:\Rice\data\sethy\Tungro\TUNGRO5_60.jpg,tungro,18

@@ -1,0 +1,10 @@
+{
+  "n_flags": 541,
+  "by_confidence_and_split": {
+    "high|excluded": 79,
+    "low|train": 322,
+    "medium|train": 140
+  },
+  "n_test_images_flagged": 0,
+  "unmatched": 0
+}

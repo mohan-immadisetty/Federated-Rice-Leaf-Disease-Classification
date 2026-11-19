@@ -1,0 +1,38 @@
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+.pytest_cache/
+.hf/
+
+# Streamlit
+.streamlit/secrets.toml
+
+# Generated Hugging Face Space (weights + sample gallery)
+dist/
+
+# Node / Next.js
+web/node_modules/
+web/.next/
+web/out/
+web/.vercel/
+web/next-env.d.ts
+
+# Env / OS
+.env
+.env.local
+.env.*.local
+.DS_Store
+Thumbs.db
+
+# Large local data that never belongs in the repo
+data/
+cache/
+outputs/
+notebooks/
+rice_handoff/
+rice_v3_pack/
+tools/
+docs/*.pptx
+docs/*.docx

@@ -1,0 +1,20 @@
+file,image_path,md5,true_class,source,split,bytes
+00_bacterial_leaf_blight.jpg,D:\Rice\data\philippines\bacterial_leaf_blight\x__BLB (3).jpg,72e03051ce66f1aebb9f60ebd8458339,bacterial_leaf_blight,philippines,test,6059
+01_bacterial_leaf_streak.jpg,D:\Rice\data\philippines\bacterial_leaf_streak\r__BLS (49).jpg,796f4c16cc7b705ab0a66c737133bbcb,bacterial_leaf_streak,philippines,test,32933
+02_bacterial_panicle_blight.jpg,D:\Rice\data\paddy_doctor\bacterial_panicle_blight\102136.jpg,7158a78d0c3794b680f016a7f4d66b0b,bacterial_panicle_blight,paddy_doctor,test,42108
+03_bakanae.jpeg,D:\Rice\data\philippines\bakanae\r__Bakanae (94).jpeg,e77ce44e9479dfc7b3797861c9f41e45,bakanae,philippines,test,5650
+04_blast.jpg,D:\Rice\data\sethy\Blast\BLAST4_029.jpg,d8fa4e65d464256c9eede6793093e248,blast,sethy,test,7193
+05_brown_spot.jpg,D:\Rice\data\sethy\Brownspot\brownspot_rotated_066.jpg,26548b4d3f1227a84e35b98f6bced998,brown_spot,sethy,test,6519
+06_dead_heart.jpg,D:\Rice\data\paddy_doctor\dead_heart\101963.jpg,eca5a0f3184d3b60072a748637d58148,dead_heart,paddy_doctor,test,41141
+07_downy_mildew.jpg,D:\Rice\data\paddy_doctor\downy_mildew\100296.jpg,fa8038cc3cad7e19975fc11bcb463d18,downy_mildew,paddy_doctor,test,54293
+08_false_smut.jpg,D:\Rice\data\philippines\rice_false_smut\r__False_smut (77).jpg,ee5f9cac244c016291eff2d580daadd9,false_smut,philippines,test,13889
+09_grassy_stunt_virus.jpeg,D:\Rice\data\philippines\grassy_stunt_virus\r__Grassy_virus (55).jpeg,6ddf45d30d8b696e3aa91ffdea82de87,grassy_stunt_virus,philippines,test,5871
+10_healthy.jpg,D:\Rice\data\philippines\healthy_rice_plant\x__Healthy (108).jpg,0ec455b28279593fcab8614f14426538,healthy,philippines,test,17438
+11_hispa.jpg,D:\Rice\data\paddy_doctor\hispa\104407.jpg,aeb74e56d5fcdf05239d094033ee7184,hispa,paddy_doctor,test,38746
+12_leaf_scald.jpg,D:\Rice\data\bd_rice8\Leaf scald\testing__Leaf_scald (43).jpg,6b0a136e224b57a1e135ca57a83338a2,leaf_scald,bd_rice8,test,450992
+13_narrow_brown_spot.jpg,D:\Rice\data\philippines\narrow_brown_spot\r__narrow_brown (69).jpg,7bf1589637a40de093ecfe7a6ef010f0,narrow_brown_spot,philippines,test,4652
+14_ragged_stunt_virus.jpeg,D:\Rice\data\philippines\ragged_stunt_virus\r__Ragged_virus (20).jpeg,0464f146cf4f04a1fd9fec3a3d8f7874,ragged_stunt_virus,philippines,test,6158
+15_sheath_blight.jpg,D:\Rice\data\philippines\sheath_blight\r__Sheath_blight (26).jpg,74ff4d3a869424fec18c4e4da68faa21,sheath_blight,philippines,test,5046
+16_sheath_rot.jpg,D:\Rice\data\philippines\sheath_rot\r__Sheath_rot (59).jpg,7bdef80a3b5ef561e76c1032a1c874b4,sheath_rot,philippines,test,6122
+17_stem_rot.jpeg,D:\Rice\data\philippines\stem_rot\r__Stem_rot (25).jpeg,f7e7a3bbb58fcb820655a3764d86dfa5,stem_rot,philippines,test,6194
+18_tungro.jpg,D:\Rice\data\philippines\tungro_virus\r__Tungro_virus (46).jpg,e52197314f2d717d06121a9beb1d2c0a,tungro,philippines,test,11961

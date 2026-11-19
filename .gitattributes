@@ -1,0 +1,2 @@
+assets/*.pth filter=lfs diff=lfs merge=lfs -text
+space/assets/*.pth filter=lfs diff=lfs merge=lfs -text

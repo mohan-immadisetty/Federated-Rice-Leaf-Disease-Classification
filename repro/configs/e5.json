@@ -1,0 +1,32 @@
+{
+  "exp_id": "E5_concat_v1_lr1e-3",
+  "features": "concat",
+  "train_manifest": "v1",
+  "lr": 0.001,
+  "max_rounds": 3000,
+  "eval_every": 10,
+  "patience_rounds": 300,
+  "weight_decay": 0.0,
+  "family_weight_power": 0.5,
+  "seed": 42,
+  "algorithm": "FedSGD + server Adam (FedAdam, 1 local full-batch gradient step, full participation)",
+  "feature_dim": 2816,
+  "classifier": "linear, 19 classes",
+  "best_round": 80,
+  "rounds_run": 380,
+  "validation": {
+    "accuracy": 0.9260686755430974,
+    "macro_f1": 0.889833736994397,
+    "weighted_f1": 0.928052221791006
+  },
+  "official_test": {
+    "n": 2793,
+    "accuracy": 0.9234,
+    "macro_f1": 0.8958,
+    "strict_subset_n": 2484,
+    "strict_accuracy": 0.9159,
+    "strict_macro_f1": 0.8901
+  },
+  "base_checkpoint": "assets/best_global.pth",
+  "head_checkpoint": "assets/best_head.pth"
+}

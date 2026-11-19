@@ -1,0 +1,97 @@
+[
+  {
+    "file": "00_bacterial_leaf_blight.jpg",
+    "true_class": "bacterial_leaf_blight",
+    "source": "philippines"
+  },
+  {
+    "file": "01_bacterial_leaf_streak.jpg",
+    "true_class": "bacterial_leaf_streak",
+    "source": "philippines"
+  },
+  {
+    "file": "02_bacterial_panicle_blight.jpg",
+    "true_class": "bacterial_panicle_blight",
+    "source": "paddy_doctor"
+  },
+  {
+    "file": "03_bakanae.jpeg",
+    "true_class": "bakanae",
+    "source": "philippines"
+  },
+  {
+    "file": "04_blast.jpg",
+    "true_class": "blast",
+    "source": "sethy"
+  },
+  {
+    "file": "05_brown_spot.jpg",
+    "true_class": "brown_spot",
+    "source": "sethy"
+  },
+  {
+    "file": "06_dead_heart.jpg",
+    "true_class": "dead_heart",
+    "source": "paddy_doctor"
+  },
+  {
+    "file": "07_downy_mildew.jpg",
+    "true_class": "downy_mildew",
+    "source": "paddy_doctor"
+  },
+  {
+    "file": "08_false_smut.jpg",
+    "true_class": "false_smut",
+    "source": "philippines"
+  },
+  {
+    "file": "09_grassy_stunt_virus.jpeg",
+    "true_class": "grassy_stunt_virus",
+    "source": "philippines"
+  },
+  {
+    "file": "10_healthy.jpg",
+    "true_class": "healthy",
+    "source": "philippines"
+  },
+  {
+    "file": "11_hispa.jpg",
+    "true_class": "hispa",
+    "source": "paddy_doctor"
+  },
+  {
+    "file": "12_leaf_scald.jpg",
+    "true_class": "leaf_scald",
+    "source": "bd_rice8"
+  },
+  {
+    "file": "13_narrow_brown_spot.jpg",
+    "true_class": "narrow_brown_spot",
+    "source": "philippines"
+  },
+  {
+    "file": "14_ragged_stunt_virus.jpeg",
+    "true_class": "ragged_stunt_virus",
+    "source": "philippines"
+  },
+  {
+    "file": "15_sheath_blight.jpg",
+    "true_class": "sheath_blight",
+    "source": "philippines"
+  },
+  {
+    "file": "16_sheath_rot.jpg",
+    "true_class": "sheath_rot",
+    "source": "philippines"
+  },
+  {
+    "file": "17_stem_rot.jpeg",
+    "true_class": "stem_rot",
+    "source": "philippines"
+  },
+  {
+    "file": "18_tungro.jpg",
+    "true_class": "tungro",
+    "source": "philippines"
+  }
+]

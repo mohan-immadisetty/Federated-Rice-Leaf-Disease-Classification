@@ -1,0 +1,279 @@
+{
+  "all_pass": true,
+  "n_checks": 51,
+  "checks": {
+    "combined_manifest sha": {
+      "ok": true,
+      "detail": null
+    },
+    "class_mapping.csv sha": {
+      "ok": true,
+      "detail": null
+    },
+    "19 classes in split_meta": {
+      "ok": true,
+      "detail": "da892aa21209"
+    },
+    "manifest v1 sha": {
+      "ok": true,
+      "detail": null
+    },
+    "DINOv2 features sha": {
+      "ok": true,
+      "detail": null
+    },
+    "DINOv2 run_info: dinov2-base, 224px, 21731 rows, md5_verified": {
+      "ok": true,
+      "detail": null
+    },
+    "seed42 backbone sha": {
+      "ok": true,
+      "detail": "3cba13a51f45"
+    },
+    "seed42 backbone identity (arm/seed/round/arch/mapping/split/classes)": {
+      "ok": true,
+      "detail": null
+    },
+    "seed42 head sha": {
+      "ok": true,
+      "detail": "557380ece804"
+    },
+    "seed42 head content (concat, v1, 19x2816, mean/std 2816, classes, round==config best_round)": {
+      "ok": true,
+      "detail": null
+    },
+    "seed42 head -> backbone association": {
+      "ok": true,
+      "detail": null
+    },
+    "seed42 head frozen E5 config": {
+      "ok": true,
+      "detail": null
+    },
+    "seed42 train/val cache -> backbone association": {
+      "ok": true,
+      "detail": null
+    },
+    "seed43 backbone sha": {
+      "ok": true,
+      "detail": "f5660938a2d5"
+    },
+    "seed43 backbone identity (arm/seed/round/arch/mapping/split/classes)": {
+      "ok": true,
+      "detail": null
+    },
+    "seed43 head sha": {
+      "ok": true,
+      "detail": "0f09d0de59b0"
+    },
+    "seed43 head content (concat, v1, 19x2816, mean/std 2816, classes, round==config best_round)": {
+      "ok": true,
+      "detail": null
+    },
+    "seed43 head -> backbone association": {
+      "ok": true,
+      "detail": null
+    },
+    "seed43 head frozen E5 config": {
+      "ok": true,
+      "detail": null
+    },
+    "seed43 train/val cache -> backbone association": {
+      "ok": true,
+      "detail": null
+    },
+    "seed44 backbone sha": {
+      "ok": true,
+      "detail": "4e6ee5d1134f"
+    },
+    "seed44 backbone identity (arm/seed/round/arch/mapping/split/classes)": {
+      "ok": true,
+      "detail": null
+    },
+    "seed44 head sha": {
+      "ok": true,
+      "detail": "6467f875c307"
+    },
+    "seed44 head content (concat, v1, 19x2816, mean/std 2816, classes, round==config best_round)": {
+      "ok": true,
+      "detail": null
+    },
+    "seed44 head -> backbone association": {
+      "ok": true,
+      "detail": null
+    },
+    "seed44 head frozen E5 config": {
+      "ok": true,
+      "detail": null
+    },
+    "seed44 train/val cache -> backbone association": {
+      "ok": true,
+      "detail": null
+    },
+    "re-audit exclusion list identical in both FedAvg experiments": {
+      "ok": true,
+      "detail": 444
+    },
+    "test before exclusion = 3047": {
+      "ok": true,
+      "detail": 3047
+    },
+    "test exclusions from list = 254 (all in test split)": {
+      "ok": true,
+      "detail": null
+    },
+    "val after exclusion = 2854": {
+      "ok": true,
+      "detail": null
+    },
+    "official test n = 2793": {
+      "ok": true,
+      "detail": 2793
+    },
+    "test image_path and md5 unique": {
+      "ok": true,
+      "detail": null
+    },
+    "excluded leak images belong only to val/test": {
+      "ok": true,
+      "detail": null
+    },
+    "no md5 shared train/val": {
+      "ok": true,
+      "detail": null
+    },
+    "no dup_group shared train/val": {
+      "ok": true,
+      "detail": null
+    },
+    "no md5 shared train/test": {
+      "ok": true,
+      "detail": null
+    },
+    "no dup_group shared train/test": {
+      "ok": true,
+      "detail": null
+    },
+    "no md5 shared val/test": {
+      "ok": true,
+      "detail": null
+    },
+    "no dup_group shared val/test": {
+      "ok": true,
+      "detail": null
+    },
+    "no image_path in two splits": {
+      "ok": true,
+      "detail": null
+    },
+    "rice_v3_pack/manifest.csv idx unique and 0..21730": {
+      "ok": true,
+      "detail": null
+    },
+    "rows sharing an md5 have bit-identical DINOv2 features (md5 lookup unambiguous)": {
+      "ok": true,
+      "detail": 2689
+    },
+    "DINOv2 covers every official test md5": {
+      "ok": true,
+      "detail": null
+    },
+    "DINOv2 covers every v0 train md5": {
+      "ok": true,
+      "detail": null
+    },
+    "384-px md5 image cache present for every test image": {
+      "ok": true,
+      "detail": null
+    },
+    "official test IDs == FedAvg notebook seed-42 test IDs": {
+      "ok": true,
+      "detail": null
+    },
+    "official test IDs == head_only_test_evaluation IDs": {
+      "ok": true,
+      "detail": null
+    },
+    "strict rule excludes 309 official test images": {
+      "ok": true,
+      "detail": 309
+    },
+    "strict exclusions == Stage-1 audit list (cos>=0.985, not already excluded)": {
+      "ok": true,
+      "detail": 309
+    },
+    "no pre-existing EfficientNet test features (fresh extraction required)": {
+      "ok": true,
+      "detail": 0
+    }
+  },
+  "info": {
+    "dino_run_info": {
+      "model": "facebook/dinov2-base",
+      "shape": [
+        21731,
+        1536
+      ],
+      "seconds": 850.6,
+      "batch": 16,
+      "size": 224,
+      "gpu": "NVIDIA GeForce RTX 2050",
+      "vram_gb": 4.3,
+      "torch": "2.5.1+cu121",
+      "cuda": "12.1",
+      "python": "3.12.5",
+      "platform": "Windows-11-10.0.26200-SP0",
+      "sha256": "618231fcfbd6990cd48a47e7f5a210063a025ed16a140bb82c743daa575bf298",
+      "md5_verified": true,
+      "manifest_rows": 21731,
+      "smoke": false
+    },
+    "seed42": {
+      "backbone": "D:\\rice\\outputs\\fedavg_masked_local_loss_efficientnetv2_s\\experiments\\20261014_104304\\B_masked_ce_seed42\\best_global.pth",
+      "backbone_sha256": "3cba13a51f45e69bfc4d5934d526a9c7d91765cee01329fa13ed1eccf4d970d9",
+      "head": "D:\\rice\\outputs\\model_improvement_research\\experiments\\E5_concat_v1_lr1e-3\\best_head.pth",
+      "head_sha256": "557380ece80465dac994676ba7fc2d790c1a2397abbb0e4ea16285e5335f845a",
+      "head_round": 80,
+      "head_config": "D:\\rice\\outputs\\model_improvement_research\\experiments\\E5_concat_v1_lr1e-3\\config.json",
+      "head_config_sha256": "c828de23a11b8ed1f6ddd065f7664193225360195d2d11c7e13ae6eab03147fd",
+      "trainval_cache": "D:\\rice\\outputs\\federated_head_only_fedavg\\run_20261021_120729"
+    },
+    "seed43": {
+      "backbone": "D:\\rice\\outputs\\fedavg_masked_local_loss_efficientnetv2_s\\experiments\\20261021_132145\\B_masked_ce_seed43\\best_global.pth",
+      "backbone_sha256": "f5660938a2d51fbe37a5fe7da6d823388cee4f44aa6ea08ea29f5b52f0302b69",
+      "head": "D:\\rice\\outputs\\model_improvement_research\\experiments\\E5_backbone_seed43_44_20261021\\experiments\\E5_bb_seed43\\best_head.pth",
+      "head_sha256": "0f09d0de59b0c151e6e9a6bee87e6d7284f55c3a9ac93cd7f3e05b827d4670a1",
+      "head_round": 250,
+      "head_config": "D:\\rice\\outputs\\model_improvement_research\\experiments\\E5_backbone_seed43_44_20261021\\experiments\\E5_bb_seed43\\config.json",
+      "head_config_sha256": "25319429b6fd6b5093eee5531fd9c8212c1763360b9a3f1aedc0eb178617b8d7",
+      "trainval_cache": "D:\\rice\\outputs\\model_improvement_research\\experiments\\E5_backbone_seed43_44_20261021\\features\\seed43"
+    },
+    "seed44": {
+      "backbone": "D:\\rice\\outputs\\fedavg_masked_local_loss_efficientnetv2_s\\experiments\\20261021_132145\\B_masked_ce_seed44\\best_global.pth",
+      "backbone_sha256": "4e6ee5d1134f36b3fdfe0eee007bc8358e2fdc0501833c9552e567253c749049",
+      "head": "D:\\rice\\outputs\\model_improvement_research\\experiments\\E5_backbone_seed43_44_20261021\\experiments\\E5_bb_seed44\\best_head.pth",
+      "head_sha256": "6467f875c3079af525f299b82118208df5862462428e4d115d73af7f1cef096e",
+      "head_round": 640,
+      "head_config": "D:\\rice\\outputs\\model_improvement_research\\experiments\\E5_backbone_seed43_44_20261021\\experiments\\E5_bb_seed44\\config.json",
+      "head_config_sha256": "d6540efb215b42442f8d515717579904acefb2b8085afd8ed2a0516ca4832caa",
+      "trainval_cache": "D:\\rice\\outputs\\model_improvement_research\\experiments\\E5_backbone_seed43_44_20261021\\features\\seed44"
+    },
+    "test_counts": {
+      "test_split_before_exclusion": 3047,
+      "excluded_by_reaudit": 254,
+      "official": 2793,
+      "strict": 2484,
+      "strict_excluded": 309,
+      "families_official": 2147,
+      "per_client": {
+        "bd_rice8": 252,
+        "paddy_doctor": 1466,
+        "philippines": 278,
+        "riceleafbd": 214,
+        "sethy": 583
+      }
+    },
+    "existing_effnet_test_feature_files": []
+  },
+  "label_columns_read": false
+}

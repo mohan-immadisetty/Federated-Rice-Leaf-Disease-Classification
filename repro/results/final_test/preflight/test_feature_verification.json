@@ -1,0 +1,107 @@
+{
+  "all_pass": true,
+  "seeds": {
+    "42": {
+      "n": 2793,
+      "unique": true,
+      "id_set_equals_preflight": true,
+      "md5_match": true,
+      "source_match": true,
+      "feat_shape": [
+        2793,
+        1280
+      ],
+      "logit_shape": [
+        2793,
+        19
+      ],
+      "backbone_sha_ok": true,
+      "seed_ok": true,
+      "split": "test",
+      "label_columns_read": false,
+      "keys": [
+        "arm",
+        "checkpoint",
+        "checkpoint_sha256",
+        "label_columns_read",
+        "n",
+        "peak_gpu_gib",
+        "procedure",
+        "round",
+        "seconds",
+        "seed",
+        "split"
+      ],
+      "same_order_as_seed42": true,
+      "pass": true
+    },
+    "43": {
+      "n": 2793,
+      "unique": true,
+      "id_set_equals_preflight": true,
+      "md5_match": true,
+      "source_match": true,
+      "feat_shape": [
+        2793,
+        1280
+      ],
+      "logit_shape": [
+        2793,
+        19
+      ],
+      "backbone_sha_ok": true,
+      "seed_ok": true,
+      "split": "test",
+      "label_columns_read": false,
+      "keys": [
+        "arm",
+        "checkpoint",
+        "checkpoint_sha256",
+        "label_columns_read",
+        "n",
+        "peak_gpu_gib",
+        "procedure",
+        "round",
+        "seconds",
+        "seed",
+        "split"
+      ],
+      "same_order_as_seed42": true,
+      "pass": true
+    },
+    "44": {
+      "n": 2793,
+      "unique": true,
+      "id_set_equals_preflight": true,
+      "md5_match": true,
+      "source_match": true,
+      "feat_shape": [
+        2793,
+        1280
+      ],
+      "logit_shape": [
+        2793,
+        19
+      ],
+      "backbone_sha_ok": true,
+      "seed_ok": true,
+      "split": "test",
+      "label_columns_read": false,
+      "keys": [
+        "arm",
+        "checkpoint",
+        "checkpoint_sha256",
+        "label_columns_read",
+        "n",
+        "peak_gpu_gib",
+        "procedure",
+        "round",
+        "seconds",
+        "seed",
+        "split"
+      ],
+      "same_order_as_seed42": true,
+      "pass": true
+    }
+  }
+}

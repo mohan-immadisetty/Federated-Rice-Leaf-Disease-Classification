@@ -1,0 +1,108 @@
+{
+  "meta": {
+    "method": "paired duplicate-family bootstrap (tools/research_compile.py method)",
+    "sampling_unit": "dup_group (duplicate family) among the 2,793 official test images",
+    "n_families": 2147,
+    "n_resamples": 2000,
+    "rng": "numpy.random.default_rng(42), re-created per seed (identical draws for every seed and method)",
+    "interval": "percentile 95% (2.5th and 97.5th)",
+    "macro_f1_in_resamples": "19-class mean from the frequency-weighted confusion matrix; a class absent from a resample scores 0",
+    "caveat": "Sampling uncertainty over test families only. It does not correct for earlier test-set reuse, session-level near-duplicates with training, label noise, or backbone-seed variation."
+  },
+  "matched_fedavg_reported": true,
+  "per_seed": {
+    "seed42": {
+      "role": "primary",
+      "e5_accuracy_ci95": [
+        0.9020529009157452,
+        0.9425783998299719
+      ],
+      "e5_macro_f1_ci95": [
+        0.8652161031799988,
+        0.923785807335554
+      ],
+      "fedavg_accuracy_ci95": [
+        0.8356873131365354,
+        0.8794428229532759
+      ],
+      "fedavg_macro_f1_ci95": [
+        0.6318725413649011,
+        0.7054443750480932
+      ],
+      "diff_accuracy": 0.06516290726817042,
+      "diff_accuracy_ci95": [
+        0.053996602825483284,
+        0.07724591040155428
+      ],
+      "diff_macro_f1": 0.22187726792594453,
+      "diff_macro_f1_ci95": [
+        0.18689308736423596,
+        0.2642164764467576
+      ],
+      "share_draws_e5_better_acc": 1.0,
+      "share_draws_e5_better_macro_f1": 1.0
+    },
+    "seed43": {
+      "role": "robustness",
+      "e5_accuracy_ci95": [
+        0.9144963234291634,
+        0.9514447482608236
+      ],
+      "e5_macro_f1_ci95": [
+        0.8666624052537915,
+        0.9348229345977999
+      ],
+      "fedavg_accuracy_ci95": [
+        0.8355484201264053,
+        0.8817768699616351
+      ],
+      "fedavg_macro_f1_ci95": [
+        0.6446237344278225,
+        0.7221161206334333
+      ],
+      "diff_accuracy": 0.07482993197278909,
+      "diff_accuracy_ci95": [
+        0.059599640074718706,
+        0.09131446100505332
+      ],
+      "diff_macro_f1": 0.21336125710630227,
+      "diff_macro_f1_ci95": [
+        0.18004520626284262,
+        0.25856028255573016
+      ],
+      "share_draws_e5_better_acc": 1.0,
+      "share_draws_e5_better_macro_f1": 1.0
+    },
+    "seed44": {
+      "role": "robustness",
+      "e5_accuracy_ci95": [
+        0.8996412245064467,
+        0.9461861290978665
+      ],
+      "e5_macro_f1_ci95": [
+        0.8407600130959063,
+        0.9122964543035731
+      ],
+      "fedavg_accuracy_ci95": [
+        0.8204905198023916,
+        0.872388639274044
+      ],
+      "fedavg_macro_f1_ci95": [
+        0.614475687981041,
+        0.6912314582765526
+      ],
+      "diff_accuracy": 0.07733619763694954,
+      "diff_accuracy_ci95": [
+        0.06406598603471246,
+        0.09161701440902077
+      ],
+      "diff_macro_f1": 0.21898402559555863,
+      "diff_macro_f1_ci95": [
+        0.18217336138653062,
+        0.26602101667062217
+      ],
+      "share_draws_e5_better_acc": 1.0,
+      "share_draws_e5_better_macro_f1": 1.0
+    }
+  }
+}

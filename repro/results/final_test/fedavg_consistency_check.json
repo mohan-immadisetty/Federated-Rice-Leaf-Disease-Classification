@@ -1,0 +1,10 @@
+{
+  "agreement_with_notebook_seed42": 0.9992839240959541,
+  "n_disagree": 2,
+  "agreement_with_head_only_test_evaluation_p_original": 1.0,
+  "notebook_labels_identical": true,
+  "head_only_labels_identical": true,
+  "notebook_acc": 0.857858933046903,
+  "threshold": 0.995,
+  "matched_fedavg_comparison_reported": true
+}

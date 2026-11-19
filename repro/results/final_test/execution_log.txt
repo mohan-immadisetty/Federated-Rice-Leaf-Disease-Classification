@@ -1,0 +1,36 @@
+2026-10-21 23:12:32 | created /d/rice/outputs/model_improvement_research/experiments/E5_final_test_20261021 (new, empty)
+2026-10-21 23:13:08 | STAGE A | final_protocol.md frozen, sha256 864e443ef9ff8cd6c18ebc26aa0df6534d0a4042ffdcfc83e4c38f4babbd6650 (no test labels/predictions accessed yet)
+2026-10-21 23:13:27 | STAGE B | label_review_manifest.csv (541 flags: 79 excluded, 462 train, 0 test); label_review_decision.md: review skipped (no qualified decisions exist), labels unchanged, test set unaffected
+2026-10-21 23:20 | STAGE C | preflight.py: 49/50 gates OK, 1 FAIL -> STOPPED before Stage D (no test features, labels or predictions produced)
+2026-10-21 23:20 | STAGE C | FAIL = "rice_v3_pack/manifest.csv md5 unique and idx 0..21730". Investigation (read-only): idx is unique and contiguous; md5 is NOT unique (2,689 rows / 1,317 md5s, up to 6 copies) because the pack lists all 21,731 raw files incl. byte-identical duplicates later removed by the split builder. Pack rows sharing an md5 have bit-identical DINOv2 features (max |diff| 0, min cos 1.0) -> md5 lookup is unambiguous; same dict(zip(md5, idx)) mapping as research_federated_head.py:88 used for E5 train/val. 200 official test images have such an md5. Awaiting user approval to replace the gate with "rows sharing an md5 have identical features".
+2026-10-21 23:16:09 | STAGE C | user approved corrected gate (deviation logged in preflight.py); rerunning full preflight
+2026-10-21 23:16:14 | STAGE C | preflight rerun exit 0 (51 gates OK); report preflight/preflight_report.json
+2026-10-21 23:17:07 | STAGE D | parity: extracting seed-42 VALIDATION with new script
+2026-10-21 23:17:34 | STAGE D | parity_val.py exit 0 -> parity/parity_val_seed42.json
+2026-10-21 23:17:42 | STAGE D | extracting TEST EffNet features+logits seed 42
+2026-10-21 23:18:06 | STAGE D | seed 42 test extraction done -> features/test_seed42_effnet.pt
+2026-10-21 23:18:06 | STAGE D | extracting TEST EffNet features+logits seed 43
+2026-10-21 23:18:26 | STAGE D | seed 43 test extraction done -> features/test_seed43_effnet.pt
+2026-10-21 23:18:26 | STAGE D | extracting TEST EffNet features+logits seed 44
+2026-10-21 23:18:45 | STAGE D | seed 44 test extraction done -> features/test_seed44_effnet.pt
+2026-10-21 23:19:15 | STAGE D/E | test features verified (preflight/test_feature_verification.json); frozen heads applied -> predictions/test_predictions_raw_seed{42,43,44}.csv (e5_pred + fedavg_pred; no labels)
+2026-10-21 23:19:26 | COMMIT | prediction hashes recorded BEFORE any test label is read:
+    c9a8b38655c06c4d024fd0acba98df0979b1e08f7ac148a11e21fc23bfdf9216 *predictions/test_predictions_raw_seed42.csv
+    8f89e91cc0e76c17637e3f4f396446be862da72213d1f558041323fd53aa4454 *predictions/test_predictions_raw_seed43.csv
+    8ffefaf1bdf062fcc3fdaf771ba809b65baf9a729550acdd0e33e1bcbb2dbc9f *predictions/test_predictions_raw_seed44.csv
+    99204d71cbfdfecaae4ef161736b4e894b8b7102e4771004ecad131f3cc1cb4e *features/test_seed42_effnet.pt
+    b3ba013acb1a44737f254fa71b90eefd2d54d1671fbe2e4f1b7b43c56a43a04a *features/test_seed43_effnet.pt
+    137f1514cd34c0c43d12b8ced3d6c8e1728f1fd6999a091a4fba02fe33292d2d *features/test_seed44_effnet.pt
+2026-10-21 23:19:36 | LOG CORRECTION | the two 'STAGE C' lines stamped '23:20' were hand-typed and wrong: the failing preflight finished at 23:14:29 (logs/preflight.log mtime) and the lines were written ~23:15, before the 23:16:09 approval. Event ORDER in this log is correct; those two timestamps are not. No line has been edited.
+2026-10-21 23:26:27 | RESUME AUDIT | after API connection loss: last action was the 23:19:36 log correction. Stage E/F evaluation script was never written or run; restricted_labels/ is empty; no metrics files exist; no test labels read in this study. Committed hashes re-verified unchanged (raw predictions seed42/43/44, test features seed42/43/44). Awaiting user go-ahead to run the single Stage E/F evaluation.
+2026-10-21 23:30:48 | STAGE E/F | user approved; running scripts/evaluate.py (sha 06e85aa46535)
+2026-10-21 23:30:50 | STAGE E/F | hash gate OK: protocol + 3 raw prediction files + 3 test feature files match committed hashes (labels not yet read)
+2026-10-21 23:30:50 | STAGE E/F | test labels read once from combined_manifest.csv -> restricted_labels/test_labels.csv (n=2793, sha f3b4c15656bc)
+2026-10-21 23:30:51 | STAGE E/F | FedAvg seed-42 consistency: agreement 0.99928 (2 differ) vs notebook; labels identical True -> matched comparison REPORTED
+2026-10-21 23:30:51 | STAGE E/F | seed 42: E5 acc 0.9234 mF1 0.8958 | FedAvg acc 0.8582 mF1 0.6739
+2026-10-21 23:30:51 | STAGE E/F | seed 43: E5 acc 0.9345 mF1 0.8981 | FedAvg acc 0.8596 mF1 0.6847
+2026-10-21 23:30:51 | STAGE E/F | seed 44: E5 acc 0.9252 mF1 0.8754 | FedAvg acc 0.8478 mF1 0.6564
+2026-10-21 23:30:51 | STAGE E/F | outputs written: restricted_labels/test_labels.csv, fedavg_consistency_check.json, test_metrics_by_seed.json, per_class_metrics.csv, per_client_metrics.csv, bootstrap_intervals.json, confusion_matrices.json, final_comparison.csv, test_predictions_e5_seed42.csv, test_predictions_e5_seed43.csv, test_predictions_e5_seed44.csv, test_predictions_fedavg_seed42.csv, test_predictions_fedavg_seed43.csv, test_predictions_fedavg_seed44.csv
+2026-10-21 23:31:07 | STAGE G | verify_outputs.py exit 0 (independent recomputation of all headline metrics)
+2026-10-21 23:31:57 | STAGE G | artifact_manifest.json + README.md written; evaluation COMPLETE. No training, tuning, re-prediction or exclusion change after labels were read.
+2026-10-21 23:32:04 | STAGE G | README.md written after artifact_manifest.json (so not listed there); README sha256 46d66e358377838639cc415dd155956e287d97847cc24f446fc5158334af5370
