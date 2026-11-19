@@ -83,6 +83,16 @@ Create the Space on huggingface.co:
 1. **New Space** → name `rice-e5` → **SDK: Docker** → **Blank** → CPU basic (free).
 2. Make it **public** (the Vercel proxy calls it without a token).
 
+> **Shortcut:** if `hf auth login` already stores a **write** token, this one
+> command creates the Space and uploads it:
+>
+> ```bash
+> python scripts/build_space.py
+> python scripts/push_space.py
+> ```
+>
+> A read-only token returns `403 You don't have the rights to create a space`.
+
 Then push the generated folder as its own repository:
 
 ```bash
