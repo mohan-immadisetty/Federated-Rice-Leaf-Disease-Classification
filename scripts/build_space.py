@@ -52,6 +52,7 @@ def main() -> None:
         shutil.copy2(ASSETS / name, OUT / "assets" / name)
 
     shutil.copy2(ROOT / "app" / "e5_infer.py", OUT / "e5_infer.py")
+    shutil.copy2(ROOT / "LICENSE", OUT / "LICENSE")
 
     samples = pd.read_csv(ASSETS / "samples" / "samples.csv", keep_default_na=False)
     copy_samples(samples)
