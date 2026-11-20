@@ -12,9 +12,9 @@ from pathlib import Path
 import streamlit as st
 
 sys.path.insert(0, str(Path(__file__).parent))
-from e5_infer import R, E5Model, load_manifest, md5_bytes  # noqa: E402
+from e5_infer import ROOT, E5Model, load_manifest, md5_bytes  # noqa: E402
 
-EXP_CFG = R / "outputs" / "fedavg_masked_local_loss_efficientnetv2_s" / "experiments" / "20261014_104304" / "experiment_config.json"
+EXP_CFG = ROOT / "outputs" / "fedavg_masked_local_loss_efficientnetv2_s" / "experiments" / "20261014_104304" / "experiment_config.json"
 TITLE = "Robust Federated Learning for Rice Leaf Disease Recognition under non-IID Client Distributions"
 
 st.set_page_config(page_title=TITLE, page_icon="🌾", layout="wide")
