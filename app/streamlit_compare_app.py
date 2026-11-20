@@ -12,9 +12,9 @@ from pathlib import Path
 import streamlit as st
 
 sys.path.insert(0, str(Path(__file__).parent))
-from e5_infer import ROOT, E5Model, load_manifest, md5_bytes  # noqa: E402
+from e5_infer import E5Model, load_manifest, load_audit, md5_bytes # noqa: E402
 
-EXP_CFG = ROOT / "outputs" / "fedavg_masked_local_loss_efficientnetv2_s" / "experiments" / "20261014_104304" / "experiment_config.json"
+
 TITLE = "Robust Federated Learning for Rice Leaf Disease Recognition under non-IID Client Distributions"
 
 st.set_page_config(page_title=TITLE, page_icon="🌾", layout="wide")
@@ -32,10 +32,22 @@ def get_model():
 @st.cache_data(show_spinner=False)
 def get_test_set():
     """Official held-out test split: image paths, and md5 -> true class."""
+
     man = load_manifest()
-    leak = set(json.loads(EXP_CFG.read_text())["split_fingerprint"]["eval_images_excluded_by_reaudit"])
-    test = man[(man.split == "test") & ~man.image_path.isin(leak)]
-    return test.image_path.tolist(), dict(zip(test.md5, test.canonical_class))
+
+    # Read excluded images from the existing audit file
+    leak = set(
+        load_audit().get("eval_images_excluded_by_reaudit", [])
+    )
+
+    test = man[
+        (man.split == "test") &
+        ~man.image_path.isin(leak)
+    ]
+
+    return test.image_path.tolist(), dict(
+        zip(test.md5, test.canonical_class)
+    )
 
 
 def predict_cached(model, raw, md5):
