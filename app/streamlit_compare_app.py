@@ -4,16 +4,17 @@ Shows only the predicted class names (no confidence values).
 
 Run:  D:\\rice\\rice_handoff\\.venv\\Scripts\\python.exe -m streamlit run D:\\rice\\app\\streamlit_compare_app.py
 """
-import json
 import random
 import sys
 from pathlib import Path
 
+import pandas as pd
 import streamlit as st
 
 sys.path.insert(0, str(Path(__file__).parent))
-from e5_infer import E5Model, load_manifest, load_audit, md5_bytes # noqa: E402
-
+from e5_infer import ASSETS, E5Model, md5_bytes # noqa: E402
+SAMPLES = ASSETS / "samples"
+SAMPLE_CSV = SAMPLES / "samples.csv"
 
 TITLE = "Robust Federated Learning for Rice Leaf Disease Recognition under non-IID Client Distributions"
 
@@ -31,22 +32,13 @@ def get_model():
 
 @st.cache_data(show_spinner=False)
 def get_test_set():
-    """Official held-out test split: image paths, and md5 -> true class."""
+    """Load curated held-out test samples."""
 
-    man = load_manifest()
+    samples = pd.read_csv(SAMPLE_CSV, keep_default_na=False)
 
-    # Read excluded images from the existing audit file
-    leak = set(
-        load_audit().get("eval_images_excluded_by_reaudit", [])
-    )
-
-    test = man[
-        (man.split == "test") &
-        ~man.image_path.isin(leak)
-    ]
-
-    return test.image_path.tolist(), dict(
-        zip(test.md5, test.canonical_class)
+    return (
+        samples["file"].tolist(),
+        dict(zip(samples["md5"], samples["true_class"]))
     )
 
 
@@ -81,7 +73,7 @@ board = st.container(border=True)
 
 items = [(u.name, u.getvalue()) for u in uploads or []]
 if st.session_state.get("random_pick"):
-    p = Path(st.session_state.random_pick)
+    p = SAMPLES / st.session_state.random_pick
     items.insert(0, (f"[random test image] {p.name}", p.read_bytes()))
 
 if not items:
